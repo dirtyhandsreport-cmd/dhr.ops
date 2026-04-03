@@ -1,0 +1,35 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
+  workflow_dispatch:         # manual trigger anytime
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@2 fast-xml-parser
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-rss.js
+
+      - name: Commit feed.json
+        run: |
+          git config user.name "DHR Bot"
+          git config user.email "admin@dirtyhandsoil.com"
+          git add public/feed.json
+          git diff --staged --quiet || git commit -m "chore: update feed.json [skip ci]"
+          git push

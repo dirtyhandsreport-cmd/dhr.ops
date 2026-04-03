@@ -1,0 +1,120 @@
+/**
+ * DHR RSS Fetcher — runs via GitHub Actions every 5 minutes
+ * Output: public/feed.json (served as static file from your repo)
+ */
+
+const fetch = require("node-fetch");
+const { XMLParser } = require("fast-xml-parser");
+const fs = require("fs");
+const path = require("path");
+
+const FEEDS = [
+  { url:"https://feeds.reuters.com/reuters/businessNews",       source:"Reuters",           category:"GENERAL" },
+  { url:"https://oilprice.com/rss/main",                        source:"OilPrice.com",      category:"GENERAL" },
+  { url:"https://www.rigzone.com/news/rss/rigzone_latest.aspx", source:"Rigzone",           category:"GENERAL" },
+  { url:"https://www.ogj.com/rss/home.xml",                     source:"Oil & Gas Journal", category:"GENERAL" },
+  { url:"https://www.eia.gov/rss/whatsnew.xml",                 source:"EIA",               category:"PRICES"  },
+  { url:"https://www.rigzone.com/jobs/rss/",                    source:"Rigzone Jobs",      category:"JOBS"    },
+  { url:"https://www.csb.gov/news/rss/",                        source:"CSB",               category:"SAFETY"  },
+  { url:"https://bismarcktribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&c[]=business",
+                                                                source:"Bismarck Tribune",  category:"BAKKEN"  },
+];
+
+const parser = new XMLParser({ ignoreAttributes:false, cdataPropName:"__cdata" });
+
+function clean(val) {
+  if (!val) return "";
+  const s = typeof val === "object" ? (val.__cdata || val["#text"] || JSON.stringify(val)) : String(val);
+  return s.replace(/<[^>]*>/g,"")
+          .replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">")
+          .replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g," ")
+          .trim();
+}
+
+function toISO(val) {
+  try { const d = new Date(clean(val)); if (!isNaN(d)) return d.toISOString(); } catch(e) {}
+  return new Date().toISOString();
+}
+
+function timeAgo(iso) {
+  const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (diff < 3600)   return Math.floor(diff / 60) + "m ago";
+  if (diff < 86400)  return Math.floor(diff / 3600) + "h ago";
+  if (diff < 172800) return "Yesterday";
+  return new Date(iso).toLocaleDateString("en-US", { month:"short", day:"numeric", year:"numeric" });
+}
+
+function scoreDHR(title, summary) {
+  const t = (title + " " + summary).toLowerCase();
+  const high = ["fatal","death","killed","explosion","fire","layoff","layoffs","strike","shutdown","spill","blowout","record","historic","surge","collapse","crash","billion","merger","acquired","ban"];
+  const med  = ["hiring","jobs","rig count","price","safety","regulation","drilling","production","earnings","wireline","completions","workforce","opec","pipeline","permit"];
+  if (high.some(w => t.includes(w))) return 3;
+  if (med.some(w => t.includes(w)))  return 2;
+  return 1;
+}
+
+async function fetchFeed(feed) {
+  try {
+    const res = await fetch(feed.url, {
+      headers: { "User-Agent": "DHR-RSS-Bot/1.0 (dirtyhandsoil.com)" },
+      timeout: 8000,
+    });
+    if (!res.ok) return [];
+    const xml  = await res.text();
+    const data = parser.parse(xml);
+    const items = data?.rss?.channel?.item || data?.feed?.entry || [];
+    const arr   = Array.isArray(items) ? items : [items];
+
+    return arr.map(item => {
+      const title   = clean(item.title);
+      const summary = clean(item.description || item.summary || item["content:encoded"] || "");
+      const iso     = toISO(item.pubDate || item["dc:date"] || item.published || item.updated || "");
+      return {
+        title:     title.slice(0, 160),
+        source:    feed.source,
+        category:  feed.category,
+        url:       clean(item.link || item.guid || "#"),
+        date:      iso,
+        dateLabel: timeAgo(iso),
+        summary:   summary.slice(0, 200),
+        sentiment: "neutral",
+        dhrScore:  scoreDHR(title, summary),
+      };
+    }).filter(i => i.title);
+
+  } catch(e) {
+    console.warn(`[SKIP] ${feed.source}: ${e.message}`);
+    return [];
+  }
+}
+
+async function main() {
+  console.log("Fetching RSS feeds...");
+  const results = await Promise.all(FEEDS.map(fetchFeed));
+
+  const seen = new Set();
+  const all  = [];
+  for (const list of results) {
+    for (const item of list) {
+      const key = item.title.toLowerCase().replace(/[^a-z0-9]/g,"").slice(0,60);
+      if (!seen.has(key)) { seen.add(key); all.push(item); }
+    }
+  }
+
+  all.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  const output = {
+    ok:         true,
+    count:      all.length,
+    updated_at: new Date().toISOString(),
+    items:      all,
+  };
+
+  // Write to public/feed.json so it's served as a static file
+  const outDir = path.join(__dirname, "..", "public");
+  if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive:true });
+  fs.writeFileSync(path.join(outDir, "feed.json"), JSON.stringify(output, null, 2));
+  console.log(`Done — ${all.length} items written to public/feed.json`);
+}
+
+main().catch(e => { console.error(e); process.exit(1); });
