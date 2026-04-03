@@ -104,9 +104,9 @@ const cc = t=>t.length;
 async function ai(prompt,system,tokens=1500,noSearch=false){
   const body={model:"claude-sonnet-4-20250514",max_tokens:tokens,system,messages:[{role:"user",content:prompt}]};
   if(!noSearch)body.tools=[{type:"web_search_20250305",name:"web_search"}];
-  const res=await fetch("https://api.anthropic.com/v1/messages",{
+  const res=await fetch("https://dhr-proxy.weathered-sky-e16c.workers.dev",{
     method:"POST",
-    headers:{"Content-Type":"application/json","anthropic-version":"2023-06-01","anthropic-beta":"web-search-2025-03-05","x-api-key":"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"},
+    headers:{"Content-Type":"application/json","anthropic-version":"2023-06-01","anthropic-beta":"web-search-2025-03-05"}
     body:JSON.stringify(body)
   });
   if(!res.ok){const t=await res.text().catch(()=>"");throw new Error(`HTTP ${res.status} — ${t.slice(0,200)}`);}
