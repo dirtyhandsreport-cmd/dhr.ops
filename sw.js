@@ -1,4 +1,4 @@
-const CACHE='dhr-v1';
+const CACHE='dhr-v2';
 const SHELL=['/','index.html','/manifest.json'];
 const SKIP=['api.anthropic.com','fonts.googleapis.com','fonts.gstatic.com'];
 
