@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+<title>DHR Media Ops Center</title>
+<meta name="theme-color" content="#080808"/>
+<link rel="manifest" href="/manifest.json"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="apple-mobile-web-app-title" content="DHR OPS"/>
+<style>
+html,body,#root{background:#080808;margin:0;padding:0;min-height:100dvh;}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="module" src="/src/main.jsx"></script>
+<script>
+if('serviceWorker' in navigator){
+window.addEventListener('load',()=>{
+navigator.serviceWorker.register('/sw.js')
+.then(r=>console.log('[DHR] SW registered'))
+.catch(e=>console.error('[DHR] SW failed',e));
+});
+}
+let dp;
+window.addEventListener('beforeinstallprompt',e=>{
+e.preventDefault();dp=e;
+window.__dhrInstall=()=>{if(!dp)return;dp.prompt();dp.userChoice.then(()=>dp=null);};
+window.dispatchEvent(new CustomEvent('dhr-install-available'));
+});
+</script>
+</body>
+</html>
