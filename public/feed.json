@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-04T17:49:32.629Z",
+  "updated_at": "2026-04-04T19:23:19.980Z",
   "items": [
+    {
+      "title": "U.S. Battery Expansion Surges Ahead of Demand Curve",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Battery-Expansion-Surges-Ahead-of-Demand-Curve.html",
+      "date": "2026-04-04T19:00:00.000Z",
+      "dateLabel": "23m ago",
+      "summary": "The United States is rapidly becoming a major international battery manufacturing power, as it works to compete with other producers, such as China. The battery manufacturing industry is forecast to g",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "The Two-Week Window That Could Break Global Commodity Markets",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/The-Two-Week-Window-That-Could-Break-Global-Commodity-Markets.html",
       "date": "2026-04-04T17:00:00.000Z",
-      "dateLabel": "49m ago",
+      "dateLabel": "2h ago",
       "summary": "The familiar assumption used by markets remains in place, at least according to financial analysts: what has been priced is what matters. Oil is still elevated but not yet showing a disorderly pattern",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Inside-Englands-New-Land-Use-Revolution.html",
       "date": "2026-04-04T15:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "4h ago",
       "summary": "England has introduced a new Land Use Framework, a 56-page report that has been under development since 2022. The aim of the researchers was to assess the effectiveness of the existing land use in Eng",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/turkey_weighs_raising_energy_prices-04-apr-2026-183374-article/?rss=true",
       "date": "2026-04-04T12:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "7h ago",
       "summary": "Turkey is weighing whether to raise electricity and natural gas prices, according to people familiar with the matter.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/International/How-the-Iran-War-Became-NATOs-Biggest-Crisis.html",
       "date": "2026-04-03T22:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "President Donald Trump told Reuters on Wednesday that he is considering withdrawing the United States from the 76-year-old alliance after European allies declined to send warships to reopen the Strait",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/continental_boosting_oil_output_as_prices_soar-03-apr-2026-183375-article/?rss=true",
       "date": "2026-04-03T20:00:01.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "Billionaire oil wildcatter Harold Hamm's Continental Resources Inc. plans to increase production.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-the-US-and-Europe-Are-Betting-Differently-on-Energy-Security.html",
       "date": "2026-04-03T20:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "Europe is making a push for a robust homegrown offshore wind sector at the same time that the United States is gutting its own. The world&#039;s largest wind farm, currently under construction in the ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -75,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-US-Could-Take-the-Oil-in-Hormuz-Push.html",
       "date": "2026-04-03T18:30:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "President Donald Trump said Friday the United States could reopen the Strait of Hormuz and “take the oil and make a fortune,” framing control of the world’s most critical energy chokepoint as both a s",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -86,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/BPs-New-CEO-Faces-a-Defining-Test-as-War-Boosts-Profits.html",
       "date": "2026-04-03T18:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "In one sense it’s a baptism of fire – in another, hardly at all. Meg O’Neill’s arrival as the first female chief executive of BP comes, in a sense, at an auspicious moment.  Oil majors’ earnings are s",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -224,17 +235,6 @@
       "dhrScore": 1
     },
     {
-      "title": "Three Oil Shocks Redrawing the Geopolitical Energy Map",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Shocks-Redrawing-the-Geopolitical-Energy-Map.html",
-      "date": "2026-04-03T12:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Politics, Geopolitics & Conflict The Sharara pipeline was hit in Libya’s southwest, and that location explains the attack. This is not territory firmly controlled by either Khalifa Haftar or Abdul Ham",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
       "title": "TotalEnergies, Masdar Form $2.2B Renewables JV in Asia",
       "source": "Rigzone",
       "category": "GENERAL",
@@ -295,7 +295,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_rise_more_than_5mm_barrels_wow-02-apr-2026-183363-article/?rss=true",
       "date": "2026-04-02T19:00:00.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 2, 2026",
       "summary": "Crude oil stocks, not including the SPR, stood at 461.6 million barrels on March 27, according to the EIA's latest weekly petroleum status report.",
       "sentiment": "neutral",
       "dhrScore": 1
