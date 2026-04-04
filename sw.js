@@ -1,6 +1,6 @@
 const CACHE='dhr-v3';
 const SHELL=['/','index.html','/manifest.json'];
-const SKIP=['api.anthropic.com','fonts.googleapis.com','fonts.gstatic.com'];
+const SKIP=['api.anthropic.com','fonts.googleapis.com','fonts.gstatic.com','feed.json'];
 
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));
