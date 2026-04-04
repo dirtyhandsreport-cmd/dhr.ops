@@ -689,7 +689,7 @@ function NewsScreen({onGen,onSchedule,onToast}){
       // Try live RSS first (instant, no AI cost), fall back to AI web search
       const rss=await fetchRSS(cat.id.toUpperCase());
       if(rss&&rss.length){setCache(p=>({...p,[cat.id]:rss}));setHeadlines(rss);}
-      else{const r=await fetchHeadlines(cat.query,20);setCache(p=>({...p,[cat.id]:r}));setHeadlines(r);}
+      else{setError("RSS feed unavailable — try again shortly.");}
     }
     catch(e){setError(e.message);}
     finally{setLoading(false);}
