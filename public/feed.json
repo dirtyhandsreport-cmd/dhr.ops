@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-04T20:00:30.834Z",
+  "updated_at": "2026-04-04T21:03:45.947Z",
   "items": [
+    {
+      "title": "U.S. Auto Industry Proposes Vehicle Fee to Replace Gas Tax",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Auto-Industry-Proposes-Vehicle-Fee-to-Replace-Gas-Tax.html",
+      "date": "2026-04-04T21:00:00.000Z",
+      "dateLabel": "3m ago",
+      "summary": "The growing share of electric vehicles and the expected increase in EV sales this year amid soaring gasoline prices are reducing the revenues for the U.S. Highway Trust Fund, which pays for America’s ",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "U.S. Battery Expansion Surges Ahead of Demand Curve",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-Battery-Expansion-Surges-Ahead-of-Demand-Curve.html",
       "date": "2026-04-04T19:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "The United States is rapidly becoming a major international battery manufacturing power, as it works to compete with other producers, such as China. The battery manufacturing industry is forecast to g",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/The-Two-Week-Window-That-Could-Break-Global-Commodity-Markets.html",
       "date": "2026-04-04T17:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "The familiar assumption used by markets remains in place, at least according to financial analysts: what has been priced is what matters. Oil is still elevated but not yet showing a disorderly pattern",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Inside-Englands-New-Land-Use-Revolution.html",
       "date": "2026-04-04T15:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "England has introduced a new Land Use Framework, a 56-page report that has been under development since 2022. The aim of the researchers was to assess the effectiveness of the existing land use in Eng",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/turkey_weighs_raising_energy_prices-04-apr-2026-183374-article/?rss=true",
       "date": "2026-04-04T12:00:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "Turkey is weighing whether to raise electricity and natural gas prices, according to people familiar with the matter.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/International/How-the-Iran-War-Became-NATOs-Biggest-Crisis.html",
       "date": "2026-04-03T22:00:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "President Donald Trump told Reuters on Wednesday that he is considering withdrawing the United States from the 76-year-old alliance after European allies declined to send warships to reopen the Strait",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -202,17 +213,6 @@
       "dhrScore": 3
     },
     {
-      "title": "India Passes on Iranian Oil as Sanctioned Tanker Redirects to China",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Passes-on-Iranian-Oil-as-Sanctioned-Tanker-Redirects-to-China.html",
-      "date": "2026-04-03T13:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "A sanctioned tanker carrying Iranian crude has abruptly changed destination from a port on India&#039;s west coast to an import terminal in China, in a move suggesting that India would not be imminent",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
       "title": "UK Holds Strait of Hormuz Meeting With 40+ Countries",
       "source": "Rigzone",
       "category": "GENERAL",
@@ -284,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_surges_above_110_on_iran_escalation-02-apr-2026-183364-article/?rss=true",
       "date": "2026-04-02T20:06:10.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 2, 2026",
       "summary": "Oil prices surged above $110 as escalating US-Iran tensions raised fears of prolonged disruptions through the Strait of Hormuz.",
       "sentiment": "neutral",
       "dhrScore": 3
