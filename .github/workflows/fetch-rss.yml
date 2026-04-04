@@ -2,8 +2,8 @@ name: Fetch RSS Feeds
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # every 5 minutes
-  workflow_dispatch:         # manual trigger anytime
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -18,10 +18,10 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install dependencies
-        run: npm install node-fetch@2 fast-xml-parser
+        run: npm install node-fetch@2 fast-xml-parser --no-save
 
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
