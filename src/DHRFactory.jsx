@@ -113,7 +113,7 @@ async function ai(prompt,system,tokens=1500,noSearch=false){
 }
 // ─── RSS Config ───────────────────────────────────────────────────────────────
 // GitHub raw URL to your feed.json — update YOUR-GITHUB-USERNAME and YOUR-REPO-NAME
-const RSS_WORKER_URL = "https://ops.dirtyhandsoil.com/feed.json";
+const RSS_WORKER_URL = "/feed.json";
 
 async function fetchRSS(category=""){
   if(!RSS_WORKER_URL)return null;
