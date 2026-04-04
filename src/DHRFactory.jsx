@@ -121,7 +121,7 @@ async function fetchRSS(category=""){
     const res=await fetch(RSS_WORKER_URL+"?t="+Math.floor(Date.now()/60000),{mode:"cors"});
     if(!res.ok)return null;
     const data=await res.json();
-    if(!data.ok||!data.items?.length)return null;
+    if(!data.items?.length)return null;
     // Return all items regardless of category — feed covers all topics
     return data.items.map(h=>({
       title:String(h.title||""),
