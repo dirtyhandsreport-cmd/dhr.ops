@@ -104,7 +104,7 @@ async function ai(prompt,system,tokens=1500,noSearch=false){
   if(!noSearch)body.tools=[{type:"web_search_20250305",name:"web_search"}];
   const res=await fetch("https://api.anthropic.com/v1/messages",{
     method:"POST",
-    headers:{"Content-Type":"application/json","anthropic-version":"2023-06-01","anthropic-beta":"web-search-2025-03-05"},
+    headers:{"Content-Type":"application/json","anthropic-version":"2023-06-01","anthropic-beta":"web-search-2025-03-05","x-api-key":import.meta.env.VITE_ANTHROPIC_API_KEY||""},
     body:JSON.stringify(body)
   });
   if(!res.ok){const t=await res.text().catch(()=>"");throw new Error(`HTTP ${res.status} — ${t.slice(0,200)}`);}
