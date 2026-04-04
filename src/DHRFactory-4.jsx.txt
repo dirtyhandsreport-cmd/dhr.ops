@@ -114,7 +114,7 @@ async function ai(prompt,system,tokens=1500,noSearch=false){
 }
 
 // ─── RSS Feed (works on live site — no API key needed) ────────────────────────
-https://raw.githubusercontent.com/dirtyhandsreport-cmd/dhr-ops/main/public/feed.json
+https://raw.githubusercontent.com/dirtyhandsreport-cmd/dhr.ops/main/public/feed.json
 
 async function fetchRSS(){
   try{
