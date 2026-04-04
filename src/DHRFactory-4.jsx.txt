@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+e2import { useState, useRef, useEffect } from "react";
 
 const MAIN_CATS = [
   {id:"prices",   label:"CRUDE PRICES",  query:"WTI Brent crude oil price natural gas price market April 2026"},
@@ -114,7 +114,7 @@ async function ai(prompt,system,tokens=1500,noSearch=false){
 }
 
 // ─── RSS Feed (works on live site — no API key needed) ────────────────────────
-const RSS_FEED_URL = "https://ops.dirtyhandsoil.com/feed.json";
+https://raw.githubusercontent.com/dirtyhandsreport-cmd/dhr-ops/main/public/feed.json
 
 async function fetchRSS(){
   try{
