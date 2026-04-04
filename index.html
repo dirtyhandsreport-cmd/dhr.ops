@@ -14,16 +14,15 @@ html,body,#root{background:#080808;margin:0;padding:0;min-height:100dvh;}
 </style>
   <script type="module" crossorigin src="/assets/index-Nh7xxUVH.js"></script>
 </head>
-<script>window.ANTHROPIC_KEY=""</script>
 <body>
 <div id="root"></div>
 <script>
-let dp;
-window.addEventListener('beforeinstallprompt',e=>{
-e.preventDefault();dp=e;
-window.__dhrInstall=()=>{if(!dp)return;dp.prompt();dp.userChoice.then(()=>dp=null);};
-window.dispatchEvent(new CustomEvent('dhr-install-available'));
-});
+window.ANTHROPIC_KEY="";
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.getRegistrations().then(regs=>{
+    regs.forEach(r=>r.unregister());
+  });
+}
 </script>
 </body>
 </html>
