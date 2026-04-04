@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+<title>DHR Media Ops Center</title>
+<meta name="theme-color" content="#080808"/>
+<link rel="manifest" href="/manifest.json"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+<meta name="apple-mobile-web-app-title" content="DHR OPS"/>
+<style>
+html,body,#root{background:#080808;margin:0;padding:0;min-height:100dvh;}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+window.ANTHROPIC_KEY="";
+if('serviceWorker' in navigator){
+  navigator.serviceWorker.getRegistrations().then(regs=>{
+    regs.forEach(r=>r.unregister());
+  });
+}
+</script>
+<script type="module" src="/src/main.jsx"></script>
+</body>
+</html>
