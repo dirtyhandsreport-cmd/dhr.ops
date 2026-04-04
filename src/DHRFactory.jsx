@@ -118,7 +118,7 @@ const RSS_WORKER_URL = "/feed.json";
 async function fetchRSS(category=""){
   if(!RSS_WORKER_URL)return null;
   try{
-    const res=await fetch(RSS_WORKER_URL+"?t="+Math.floor(Date.now()/60000),{mode:"cors"});
+    const res=await fetch(RSS_WORKER_URL+"?t="+Math.floor(Date.now()/60000);
     if(!res.ok)return null;
     const data=await res.json();
     if(!data.items?.length)return null;
