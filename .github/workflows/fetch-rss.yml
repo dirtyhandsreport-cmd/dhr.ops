@@ -20,9 +20,6 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install dependencies
-        run: npm install node-fetch@2 fast-xml-parser --no-save
-
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
 
