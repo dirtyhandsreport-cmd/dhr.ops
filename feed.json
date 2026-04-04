@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-04T15:59:57.890Z",
+  "updated_at": "2026-04-04T17:49:32.629Z",
   "items": [
+    {
+      "title": "The Two-Week Window That Could Break Global Commodity Markets",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Two-Week-Window-That-Could-Break-Global-Commodity-Markets.html",
+      "date": "2026-04-04T17:00:00.000Z",
+      "dateLabel": "49m ago",
+      "summary": "The familiar assumption used by markets remains in place, at least according to financial analysts: what has been priced is what matters. Oil is still elevated but not yet showing a disorderly pattern",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "Inside England’s New Land Use Revolution",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Inside-Englands-New-Land-Use-Revolution.html",
       "date": "2026-04-04T15:00:00.000Z",
-      "dateLabel": "59m ago",
+      "dateLabel": "2h ago",
       "summary": "England has introduced a new Land Use Framework, a 56-page report that has been under development since 2022. The aim of the researchers was to assess the effectiveness of the existing land use in Eng",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/turkey_weighs_raising_energy_prices-04-apr-2026-183374-article/?rss=true",
       "date": "2026-04-04T12:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "5h ago",
       "summary": "Turkey is weighing whether to raise electricity and natural gas prices, according to people familiar with the matter.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/International/How-the-Iran-War-Became-NATOs-Biggest-Crisis.html",
       "date": "2026-04-03T22:00:00.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "19h ago",
       "summary": "President Donald Trump told Reuters on Wednesday that he is considering withdrawing the United States from the 76-year-old alliance after European allies declined to send warships to reopen the Strait",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/continental_boosting_oil_output_as_prices_soar-03-apr-2026-183375-article/?rss=true",
       "date": "2026-04-03T20:00:01.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Billionaire oil wildcatter Harold Hamm's Continental Resources Inc. plans to increase production.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-the-US-and-Europe-Are-Betting-Differently-on-Energy-Security.html",
       "date": "2026-04-03T20:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Europe is making a push for a robust homegrown offshore wind sector at the same time that the United States is gutting its own. The world&#039;s largest wind farm, currently under construction in the ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-US-Could-Take-the-Oil-in-Hormuz-Push.html",
       "date": "2026-04-03T18:30:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "President Donald Trump said Friday the United States could reopen the Strait of Hormuz and “take the oil and make a fortune,” framing control of the world’s most critical energy chokepoint as both a s",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/BPs-New-CEO-Faces-a-Defining-Test-as-War-Boosts-Profits.html",
       "date": "2026-04-03T18:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "In one sense it’s a baptism of fire – in another, hardly at all. Meg O’Neill’s arrival as the first female chief executive of BP comes, in a sense, at an auspicious moment.  Oil majors’ earnings are s",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -86,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Cuba-Frees-2000-Prisoners-Amid-Oil-Supply-Crunch.html",
       "date": "2026-04-03T17:30:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "Cuba will release 2,010 prisoners as U.S. pressure on the island intensifies, with fuel shortages and economic strain mounting under tightened restrictions. The Cuban government described the move as ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -97,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/First-Western-European-Vessel-Transits-Hormuz-Since-War-Began.html",
       "date": "2026-04-03T16:30:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "A container ship owned by French shipping giant CMA CGM, has just transited the Strait of Hormuz in what appears to be the first vessel linked to Western Europe to have successfully braved the critica",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Losing-the-Iran-War-May-Be-the-Best-Outcome-for-the-Global-Economy.html",
       "date": "2026-04-03T16:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "As I will explain, the outcome that looks like losing may actually be the best path forward for the world’s remaining economies. The fighting today is with respect to which parts of the world will get",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -222,17 +233,6 @@
       "summary": "Politics, Geopolitics & Conflict The Sharara pipeline was hit in Libya’s southwest, and that location explains the attack. This is not territory firmly controlled by either Khalifa Haftar or Abdul Ham",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Trump’s Contradictions on Iran Rattle Both Markets and Allies",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Contradictions-on-Iran-Rattle-Both-Markets-and-Allies.html",
-      "date": "2026-04-03T12:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Trump entered office promising to avoid new wars. The U.S. is now engaged in an expanding conflict with Iran that has spiralled out of control, and the administration has not clearly defined what cons",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "TotalEnergies, Masdar Form $2.2B Renewables JV in Asia",
