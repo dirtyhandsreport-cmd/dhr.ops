@@ -1,15 +1,59 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-06T10:20:16.672Z",
+  "updated_at": "2026-04-06T12:09:06.225Z",
   "items": [
+    {
+      "title": "Qatar LNG Tankers Make First Move Through Hormuz Since War Began",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-LNG-Tankers-Make-First-Move-Through-Hormuz-Since-War-Began.html",
+      "date": "2026-04-06T11:30:00.000Z",
+      "dateLabel": "39m ago",
+      "summary": "Two tankers that loaded LNG from Qatar before the war began appear to be attempting to exit the Strait of Hormuz in what could be the first export of Qatari LNG in over a month. The Al Daayen and the ",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Petronas Says It's on Alert over Fuel Supply in Malaysia",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/petronas_says_its_on_alert_over_fuel_supply_in_malaysia-06-apr-2026-183379-article/?rss=true",
+      "date": "2026-04-06T10:52:40.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Oil-producing Malaysia 'is not fully insulated' from the supply disruption brought about by the ongoing war in the Middle East, the national oil company said.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Oil Market Weighs Early Signs of Potential De-Escalation",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/oil_market_weighs_early_signs_of_potential_deescalation-06-apr-2026-183378-article/?rss=true",
+      "date": "2026-04-06T10:46:31.000Z",
+      "dateLabel": "1h ago",
+      "summary": "'Reports of a possible agreement between the United States and Iran to halt hostilities and reopen the Strait of Hormuz have tempered supply concerns to a certain extent and pushed prices down'.",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Pakistan Emerges as Key Mediator in Push to End Hormuz Crisis",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Emerges-as-Key-Mediator-in-Push-to-End-Hormuz-Crisis.html",
+      "date": "2026-04-06T10:30:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "The United States and Iran have both received via Pakistan a plan for an immediate ceasefire that could reopen the Strait of Hormuz, Reuters reported on Monday, citing a source with knowledge of the p",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "Saudi Arabia Sets Record Premium for Flagship Crude as Hormuz Crisis Deepens",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sets-Record-Premium-for-Flagship-Crude-as-Hormuz-Crisis-Deepens.html",
       "date": "2026-04-06T09:30:00.000Z",
-      "dateLabel": "50m ago",
+      "dateLabel": "2h ago",
       "summary": "Saudi Arabia has hiked the price of its flagship Arab Light crude loading for Asia in May to a record-high premium over the Middle Eastern benchmarks as the de facto closure of the Strait of Hormuz up",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/chevron_resumes_leviathan_gas_production_offshore_israel-06-apr-2026-183377-article/?rss=true",
       "date": "2026-04-06T09:01:02.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "3h ago",
       "summary": "Chevron and its local partners resumed regular production at the gas and condensate field, weeks after declaring force majeure because of the ongoing war with Iran.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Nearly-50-Qatar-LNG-Tankers-Sit-Idle-Across-Asia.html",
       "date": "2026-04-06T08:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "3h ago",
       "summary": "Almost 50 liquefied natural gas carriers used by Qatar to export the superchilled fuel are idled in Asia, Bloomberg has reported, citing data from Kpler. All the vessels are empty, the data shows. The",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/mediators_said_to_seek_ceasefire_as_trump_escalates_iran_threats-06-apr-2026-183376-article/?rss=true",
       "date": "2026-04-06T07:13:40.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "U.S., Iran and regional mediators are reportedly discussing terms for a possible 45-day ceasefire, but chances of an immediate deal appear low.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Scrambles-to-Stabilize-Exports-as-Iran-Grants-Passage.html",
       "date": "2026-04-06T07:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "5h ago",
       "summary": "Iraq has asked its oil-buying clients to submit loading schedules in the next 24 hours, Reuters has reported, citing a document from Baghdad’s oil marketing company SOMO. The report follows another on",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Commits-to-Boost-Output-Once-Hormuz-Reopens.html",
       "date": "2026-04-06T05:43:24.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "6h ago",
       "summary": "OPEC on Sunday agreed to boost oil production by another 206,000 barrels daily, which will be theoretical only as production in the Middle East remains constrained by the Strait of Hormuz crisis. The ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Shortage-Pushes-Governments-Toward-Demand-Controls.html",
       "date": "2026-04-05T21:00:00.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "15h ago",
       "summary": "This week saw something that does not happen very often. WTI, normally trading at a discount to Brent crude, moved higher than the North Sea-focused benchmark. Traders explained it with fears of tight",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-Moves-to-Secure-Venezuelas-Gold-as-Influence-Deepens-After-Intervention.html",
       "date": "2026-04-05T19:00:00.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "17h ago",
       "summary": "Since the United States intervention in Venezuela on January 3rd, which effectively brought an end to President Nicolás Maduro’s 13-year dictatorship, the Trump administration has had a heavy hand in ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Britain-Urges-G7-to-Accelerate-Clean-Energy-Push-Amid-Global-Turmoil.html",
       "date": "2026-04-05T15:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Britain has urged some of the world’s biggest powers to adopt clean energy at a faster pace to boost energy security during a time of geopolitical turmoil. The United Kingdom’s Chancellor of the Exche",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/bp_adnoc_approve_harmattan_gas_project_offshore_egypt-05-apr-2026-183371-article/?rss=true",
       "date": "2026-04-05T11:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "'The investment, estimated at approximately half a billion USD, will help support and increase natural gas production to meet domestic market needs'.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -174,7 +218,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/turkey_raises_energy_prices-04-apr-2026-183374-article/?rss=true",
       "date": "2026-04-04T12:00:00.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 4, 2026",
       "summary": "Turkey raised electricity and natural gas prices by as much as 25 percent for households.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -200,28 +244,6 @@
       "summary": "Billionaire oil wildcatter Harold Hamm's Continental Resources Inc. plans to increase production.",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "How the U.S. and Europe Are Betting Differently on Energy Security",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-the-US-and-Europe-Are-Betting-Differently-on-Energy-Security.html",
-      "date": "2026-04-03T20:00:00.000Z",
-      "dateLabel": "Apr 3, 2026",
-      "summary": "Europe is making a push for a robust homegrown offshore wind sector at the same time that the United States is gutting its own. The world&#039;s largest wind farm, currently under construction in the ",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Trump Says US Could ‘Take the Oil’ in Hormuz Push",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-US-Could-Take-the-Oil-in-Hormuz-Push.html",
-      "date": "2026-04-03T18:30:00.000Z",
-      "dateLabel": "Apr 3, 2026",
-      "summary": "President Donald Trump said Friday the United States could reopen the Strait of Hormuz and “take the oil and make a fortune,” framing control of the world’s most critical energy chokepoint as both a s",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Russia Oil Revenues Halved in March Before War Boost",
@@ -363,28 +385,6 @@
       "date": "2026-04-02T11:52:38.000Z",
       "dateLabel": "Apr 2, 2026",
       "summary": "This is Eni's second biorefining project to be bankrolled by the EIB.",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "StanChart Warns OPEC+ Could Abandon Cuts at Next Meeting",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/stanchart_warns_opec_could_abandon_cuts_at_next_meeting-02-apr-2026-183359-article/?rss=true",
-      "date": "2026-04-02T11:32:59.000Z",
-      "dateLabel": "Apr 2, 2026",
-      "summary": "Standard Chartered Bank Energy Research Head Emily Ashford warned that the next OPEC+ meeting on April 5 'could result in abandonment of voluntary output cuts and compensation cuts'.",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Iberdrola Kicks Off $16B Scottish Grid Upgrade",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/iberdrola_kicks_off_16b_scottish_grid_upgrade-02-apr-2026-183357-article/?rss=true",
-      "date": "2026-04-02T09:49:03.000Z",
-      "dateLabel": "Apr 2, 2026",
-      "summary": "ScottishPower, Iberdrola's UK arm, said it had 'kick-started' a five-year, GBP 12 billion ($15.84 billion) overhaul of the electricity grid in central and southern Scotland.",
       "sentiment": "neutral",
       "dhrScore": 3
     }
