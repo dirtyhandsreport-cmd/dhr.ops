@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-06T00:03:16.845Z",
+  "updated_at": "2026-04-06T06:20:16.901Z",
   "items": [
+    {
+      "title": "OPEC Commits to Boost Output Once Hormuz Reopens",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Commits-to-Boost-Output-Once-Hormuz-Reopens.html",
+      "date": "2026-04-06T05:43:24.000Z",
+      "dateLabel": "36m ago",
+      "summary": "OPEC on Sunday agreed to boost oil production by another 206,000 barrels daily, which will be theoretical only as production in the Middle East remains constrained by the Strait of Hormuz crisis. The ",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "Global Fuel Shortage Pushes Governments Toward Demand Controls",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Shortage-Pushes-Governments-Toward-Demand-Controls.html",
       "date": "2026-04-05T21:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "9h ago",
       "summary": "This week saw something that does not happen very often. WTI, normally trading at a discount to Brent crude, moved higher than the North Sea-focused benchmark. Traders explained it with fears of tight",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-Moves-to-Secure-Venezuelas-Gold-as-Influence-Deepens-After-Intervention.html",
       "date": "2026-04-05T19:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "11h ago",
       "summary": "Since the United States intervention in Venezuela on January 3rd, which effectively brought an end to President Nicolás Maduro’s 13-year dictatorship, the Trump administration has had a heavy hand in ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Britain-Urges-G7-to-Accelerate-Clean-Energy-Push-Amid-Global-Turmoil.html",
       "date": "2026-04-05T15:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "15h ago",
       "summary": "Britain has urged some of the world’s biggest powers to adopt clean energy at a faster pace to boost energy security during a time of geopolitical turmoil. The United Kingdom’s Chancellor of the Exche",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/bp_adnoc_approve_harmattan_gas_project_offshore_egypt-05-apr-2026-183371-article/?rss=true",
       "date": "2026-04-05T11:00:00.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "19h ago",
       "summary": "'The investment, estimated at approximately half a billion USD, will help support and increase natural gas production to meet domestic market needs'.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -189,17 +200,6 @@
       "summary": "A container ship owned by French shipping giant CMA CGM, has just transited the Strait of Hormuz in what appears to be the first vessel linked to Western Europe to have successfully braved the critica",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Why Losing the Iran War May Be the Best Outcome for the Global Economy",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Why-Losing-the-Iran-War-May-Be-the-Best-Outcome-for-the-Global-Economy.html",
-      "date": "2026-04-03T16:00:00.000Z",
-      "dateLabel": "Apr 3, 2026",
-      "summary": "As I will explain, the outcome that looks like losing may actually be the best path forward for the world’s remaining economies. The fighting today is with respect to which parts of the world will get",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Russia Oil Revenues Halved in March Before War Boost",
