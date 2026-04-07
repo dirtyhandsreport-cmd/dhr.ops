@@ -1,15 +1,70 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-07T16:17:24.476Z",
+  "updated_at": "2026-04-07T19:50:05.693Z",
   "items": [
+    {
+      "title": "At Least 10 Countries Still Sending Ships Through Strait of Hormuz",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/At-Least-10-Countries-Still-Sending-Ships-Through-Strait-of-Hormuz.html",
+      "date": "2026-04-07T19:30:00.000Z",
+      "dateLabel": "20m ago",
+      "summary": "Donald Trump threatened over the Easter weekend to attack Iran’s power plants and bridges if the Strait of Hormuz isn’t opened by 8 pm Eastern time on Tuesday, April 7.  “Remember when I gave Iran ten",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Physical Crude Hits Record Highs",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Physical-Crude-Hits-Record-Highs.html",
+      "date": "2026-04-07T19:30:00.000Z",
+      "dateLabel": "20m ago",
+      "summary": "Oil prices pulled back on Tuesday while physical crude markets surged to record highs, with traders taking a breather even as the underlying supply crisis worsens. WTI crude was trading at $113.7, up ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "BP Moves to Unlock a Potential Gas Bonanza in Eurasia",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/BP-Moves-to-Unlock-a-Potential-Gas-Bonanza-in-Eurasia.html",
+      "date": "2026-04-07T18:00:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "A flurry of recent deals and announcements suggest significant new reserves of natural gas are contained in the Ustyurt Plateau, which spans western sections of Kazakhstan and Uzbekistan. The prospect",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "A New Political Fault Line Opens Over Canada’s Energy Future",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/A-New-Political-Fault-Line-Opens-Over-Canadas-Energy-Future.html",
+      "date": "2026-04-07T17:00:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Canada is often torn in two different directions when it comes to energy policy, with former Prime Minister Justin Trudeau pursuing a green transition more strongly, while major oil-producing regions ",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Hungary Set to Agree to Buy U.S. Oil During JD Vance Visit",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hungary-Set-to-Agree-to-Buy-US-Oil-During-JD-Vance-Visit.html",
+      "date": "2026-04-07T16:30:00.000Z",
+      "dateLabel": "3h ago",
+      "summary": "Hungary is expected on Tuesday to agree a $500-million oil supply deal with the United States during the visit of U.S. Vice President JD Vance in Budapest, a source with knowledge of the plan told Blo",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "Global Economy Braces for Prolonged Shock From Iran War",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Global-Economy-Braces-for-Prolonged-Shock-From-Iran-War.html",
       "date": "2026-04-07T16:00:00.000Z",
-      "dateLabel": "17m ago",
+      "dateLabel": "3h ago",
       "summary": "A quiet Easter Sunday was abruptly punctured when US President Donald Trump unleashed a brutal, expletive-filled ultimatum to the Iranian regime. In a post on Truth Social, Trump wrote: “Tuesday will ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Chief-Current-Energy-Crisis-Worse-Than-1973-1979-and-2022-Combined.html",
       "date": "2026-04-07T15:30:00.000Z",
-      "dateLabel": "47m ago",
+      "dateLabel": "4h ago",
       "summary": "The current energy crisis is worse than the oil and gas crises of 1973, 1979, and 2022 taken together, as we are witnessing an unprecedented supply shock from the key exporting region, the Middle East",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/The-Final-Countdown-for-Oil-Markets.html",
       "date": "2026-04-07T14:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Oil markets are on edge as Trump’s deadline hits, yet prices remain oddly calm—despite unusual signals like WTI trading above Brent, hinting that volatility or a major disruption could be imminent. Ga",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -42,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstans-Oil-Exports-Stable-despite-Attack-on-Russian-Black-Sea-Port.html",
       "date": "2026-04-07T14:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Kazakhstan&#039;s crude exports have not been affected by Monday&#039;s drone attack on the Russian Black Sea port of Novorossiysk, which is the primary export outlet of Kazakh oil, Kazakhstan&#039;s ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/north_america_drops_more_rigs_week_on_week-07-apr-2026-183396-article/?rss=true",
       "date": "2026-04-07T14:26:12.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "North America dropped six rigs week on week, according to Baker Hughes' latest North America rotary rig count.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -64,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/trump_says_iran_could_die_tonight-07-apr-2026-183394-article/?rss=true",
       "date": "2026-04-07T14:02:04.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "5h ago",
       "summary": "President Donald Trump threatened Iran with civilizational destruction.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -75,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/WTI-Crude-Oil-Hits-115-as-Strikes-Target-Irans-Kharg-Island.html",
       "date": "2026-04-07T13:11:38.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "WTI crude surged to $115.8 per barrel—its highest level since April 2008—as President Donald Trump warned that “a whole civilization will die tonight,” while strikes were reported on Iran’s Kharg Isla",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -86,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-Israel-Strike-Irans-Oil-Export-Hubs-Ahead-of-Trump-Deadline.html",
       "date": "2026-04-07T13:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "US and Israeli air strikes hit multiple locations across Iran, including infrastructure and the strategic Kharg Island, as an evening deadline from Washington for Tehran to agree to a deal to end the ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -97,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/phillips_66_books_900mm_in_hedging_losses_as_prices_surge-07-apr-2026-183393-article/?rss=true",
       "date": "2026-04-07T12:58:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "'The sharp increase in commodity prices during the first quarter resulted in a net outflow of approximately $3 billion of cash collateral on derivative positions'.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -108,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Yamal-LNG-Ships-First-Cargo-to-China-in-Months-as-EU-Ban-Nears.html",
       "date": "2026-04-07T12:30:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "7h ago",
       "summary": "The Yamal LNG export plant in Russia has shipped its first cargo to China in five months as the EU launches in a few weeks a stepwise plan of banning imports of Russian natural gas.   Yamal LNG, opera",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -119,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/texas_upstream_employment_drops_in_january-07-apr-2026-183392-article/?rss=true",
       "date": "2026-04-07T11:37:28.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "8h ago",
       "summary": "Texas upstream employment declined at the start of the year, according to a statement sent to Rigzone by TIPRO recently.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Refinery-Crude-Supply-Doubles-But-High-Import-Costs-Squeeze-Margins.html",
       "date": "2026-04-07T11:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "8h ago",
       "summary": "The Dangote refinery, Africa&#039;s biggest, received 10 Nigerian crude cargoes in March, double from February, as Nigeria aims to secure enough fuel supply amid the global crude and refined product c",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -141,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/cheniere_ceo_fusco_to_assume_chairmanship_as_botta_retires-07-apr-2026-183391-article/?rss=true",
       "date": "2026-04-07T11:08:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "8h ago",
       "summary": "Fusco will take over from Botta while continuing to serve as president and chief executive after Botta's exit May 14, the date of Cheniere's yearly shareholder meeting.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -152,7 +207,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/aker_bp_starts_production_at_symra_in_norwegian_north_sea-07-apr-2026-183389-article/?rss=true",
       "date": "2026-04-07T10:34:50.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "9h ago",
       "summary": "Symra represents 'a step into a new part of the Eiga area and a new reservoir type on the Norwegian shelf'.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -163,7 +218,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/oil_market_maintains_cautiously_bullish_bias-07-apr-2026-183390-article/?rss=true",
       "date": "2026-04-07T10:30:15.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "9h ago",
       "summary": "Overall, the oil market maintains a cautiously bullish bias, Naeem Aslam, CIO at Zaye Capital Markets, said.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +229,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Futures-Jump-3-as-Trumps-Iran-Strike-Deadline-Nears.html",
       "date": "2026-04-07T10:30:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "9h ago",
       "summary": "European natural gas futures opened higher on Tuesday as markets are awaiting developments in Iran after U.S. President Donald Trump threatened escalation and attacks on Iranian power plants and bridg",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,7 +240,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Turns-to-Venezuelan-Crude-as-Middle-East-Supply-Falters.html",
       "date": "2026-04-07T09:30:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "10h ago",
       "summary": "India is expected to import the highest volumes of crude from Venezuela in six years as refiners returned to purchasing the now-unsanctioned oil just before the war in the Middle East crippled supply ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,21 +251,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/adnoc_assures_customer_supply_despite_habshan_pause-07-apr-2026-183388-article/?rss=true",
       "date": "2026-04-07T09:01:43.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "10h ago",
       "summary": "ADNOC Gas confirmed casualties including one fatality at its Habshan natural gas processing complex and said the affected area has been 'isolated'.",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "India’s Fuel Consumption Climbs Even as LPG Supplies Tighten",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Fuel-Consumption-Climbs-Even-as-LPG-Supplies-Tighten.html",
-      "date": "2026-04-07T08:34:36.000Z",
-      "dateLabel": "7h ago",
-      "summary": "Fuel consumption in India last month reached 21.37 million tons, which was the highest since December 2025, government data showed this week. The figure was also an increase on February’s total of 20.",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "India Back to Buying Venezuelan Crude",
@@ -218,52 +262,8 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/india_back_to_buying_venezuelan_crude-07-apr-2026-183387-article/?rss=true",
       "date": "2026-04-07T07:52:16.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "11h ago",
       "summary": "India is set to import the most oil from Venezuela in almost six years.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "South Korea Scrambles to Secure Oil Beyond Hormuz",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Scrambles-to-Secure-Oil-Beyond-Hormuz.html",
-      "date": "2026-04-07T07:00:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "South Korea is sending a senior government official to Oman, Kazakhstan, and Saudi Arabia in a bid to secure crude oil supply that does not need to pass through the Strait of Hormuz, Reuters has repor",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Iraq Prepares to Ramp Up Production After War Disruption",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Prepares-to-Ramp-Up-Production-After-War-Disruption.html",
-      "date": "2026-04-07T05:30:00.000Z",
-      "dateLabel": "10h ago",
-      "summary": "Iraq could restore oil production and exports within a week after the Strait of Hormuz reopens, an official from state-owned Basra Oil Company has said, as quoted by Reuters. “We have not received any",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Pentagon-Linked REalloys Secures U.S. Rare Earth Supply Ahead of China Ban",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Pentagon-Linked-REalloys-Secures-US-Rare-Earth-Supply-Ahead-of-China-Ban.html",
-      "date": "2026-04-07T01:00:00.000Z",
-      "dateLabel": "15h ago",
-      "summary": "REalloys (NASDAQ: ALOY) has signed an agreement to secure supply from one of the highest-grade rare earth deposits in the United States, with just nine months remaining before U.S. defense rules force",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "The Iran War Has Finally Exposed Japan’s Achilles Heel",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Finally-Exposed-Japans-Achilles-Heel.html",
-      "date": "2026-04-07T00:00:00.000Z",
-      "dateLabel": "16h ago",
-      "summary": "Global energy crises often act as severe stress tests that expose deep, structural fragilities in global supply chains that are erstwhile ignored. Such crises reveal weaknesses that extend far beyond ",
       "sentiment": "neutral",
       "dhrScore": 1
     },
@@ -273,7 +273,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/indias_refiners_delay_maintenance-06-apr-2026-183383-article/?rss=true",
       "date": "2026-04-06T21:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "22h ago",
       "summary": "The delay by India's state-run refiners comes as the nation grapples with a supply crunch following the effective closure of the Strait of Hormuz.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -284,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/crude_climbs_on_escalation_fears-06-apr-2026-183386-article/?rss=true",
       "date": "2026-04-06T20:31:21.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "23h ago",
       "summary": "Oil prices rose as escalating US-Iran tensions raised fears of persistent supply disruptions through the Strait of Hormuz.",
       "sentiment": "neutral",
       "dhrScore": 2
