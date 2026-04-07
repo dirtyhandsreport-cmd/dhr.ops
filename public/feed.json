@@ -1,15 +1,48 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-06T23:52:51.645Z",
+  "updated_at": "2026-04-07T05:58:26.918Z",
   "items": [
+    {
+      "title": "Iraq Prepares to Ramp Up Production After War Disruption",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Prepares-to-Ramp-Up-Production-After-War-Disruption.html",
+      "date": "2026-04-07T05:30:00.000Z",
+      "dateLabel": "28m ago",
+      "summary": "Iraq could restore oil production and exports within a week after the Strait of Hormuz reopens, an official from state-owned Basra Oil Company has said, as quoted by Reuters. “We have not received any",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Pentagon-Linked REalloys Secures U.S. Rare Earth Supply Ahead of China Ban",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Pentagon-Linked-REalloys-Secures-US-Rare-Earth-Supply-Ahead-of-China-Ban.html",
+      "date": "2026-04-07T01:00:00.000Z",
+      "dateLabel": "4h ago",
+      "summary": "REalloys (NASDAQ: ALOY) has signed an agreement to secure supply from one of the highest-grade rare earth deposits in the United States, with just nine months remaining before U.S. defense rules force",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "The Iran War Has Finally Exposed Japan’s Achilles Heel",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Finally-Exposed-Japans-Achilles-Heel.html",
+      "date": "2026-04-07T00:00:00.000Z",
+      "dateLabel": "5h ago",
+      "summary": "Global energy crises often act as severe stress tests that expose deep, structural fragilities in global supply chains that are erstwhile ignored. Such crises reveal weaknesses that extend far beyond ",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
     {
       "title": "Oil Supply Shock Ripples Through Fertilizer, Plastics, and Tech",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Oil-Supply-Shock-Ripples-Through-Fertilizer-Plastics-and-Tech.html",
       "date": "2026-04-06T23:00:00.000Z",
-      "dateLabel": "52m ago",
+      "dateLabel": "6h ago",
       "summary": "The worst supply shock in the history of the oil market is spilling over to critical supply chains, threatening shortages of medical supplies, fertilizers, semiconductors, and everyday consumer goods,",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Iraq-Is-Running-Out-of-Time-to-Move-Its-Oil-And-Every-Option-Is-Dangerous.html",
       "date": "2026-04-06T22:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "7h ago",
       "summary": "With over 90% of its annual budget historically coming from oil and around 95% of that black gold having to pass through the Strait of Hormuz before it is monetised, Iraq has at least as big a problem",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Somalia-Set-To-Begin-First-Ever-Offshore-Oil-Drilling-In-April.html",
       "date": "2026-04-06T21:30:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "8h ago",
       "summary": "Somalia is on the verge of embarking on its first-ever offshore oil drilling operation, marked by the arrival of the Turkish drillship Çagir Bey in Somali waters on Friday. The Turkish Petroleum Corpo",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -42,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Californias-Battery-Boom-Is-Rewriting-Power-Markets.html",
       "date": "2026-04-06T21:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "8h ago",
       "summary": "For years, one argument has dominated the debate around renewables: they are intermittent, and therefore require large-scale, dispatchable backup—usually in the form of gas-fired power plants. It is a",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/indias_refiners_delay_maintenance-06-apr-2026-183383-article/?rss=true",
       "date": "2026-04-06T21:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "8h ago",
       "summary": "The delay by India's state-run refiners comes as the nation grapples with a supply crunch following the effective closure of the Strait of Hormuz.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/crude_climbs_on_escalation_fears-06-apr-2026-183386-article/?rss=true",
       "date": "2026-04-06T20:31:21.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "9h ago",
       "summary": "Oil prices rose as escalating US-Iran tensions raised fears of persistent supply disruptions through the Strait of Hormuz.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-the-Power-Boom-Could-Break-the-Grid.html",
       "date": "2026-04-06T20:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "9h ago",
       "summary": "We vaguely remember that moment in the British detective series “Luther”, when the eponymous hero (Idris Elba), pursued by redheaded, demented murderer/lover Alice Morgan (Ruth Wilson), running from t",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Oil-Price-Shocks-Make-Brazil-Key-to-Energy-Security-in-the-Americas.html",
       "date": "2026-04-06T19:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "10h ago",
       "summary": "Oil price shocks since the U.S. and Israel first struck Iran, the world’s fifth-largest oil producer, have global markets on edge. The sudden energy crisis, which emerged after Iran closed the Strait ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -97,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/The-Next-Battleground-for-Robotaxis.html",
       "date": "2026-04-06T18:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "11h ago",
       "summary": "A black Jaguar SUV with no one behind the wheel pulls up on a London street. It’s electric and equipped with Waymo’s autonomous driving system. A passenger gets in, selects a destination on their phon",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Can-This-Tiny-Island-Give-Trump-The-Full-Victory-He-Wants-Over-Iran.html",
       "date": "2026-04-06T17:00:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "12h ago",
       "summary": "U.S. President Donald Trump may pride himself on his ability to negotiate a winning deal, but his latest actions in Iran look more akin to craps shoot action from one of his former casinos, albeit wit",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatars-LNG-Exports-Still-Frozen-as-Two-Tankers-U-Turn-at-Hormuz.html",
       "date": "2026-04-06T16:30:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "13h ago",
       "summary": "Two Qatari vessels carrying liquefied natural gas (LNG) have been forced to abandon an attempt to exit the Strait of Hormuz in what would have been the first export of Qatari LNG in more than a month.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -130,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Suspicious-Oil-Bets-Before-Trumps-Iran-Announcement-Under-Scrutiny.html",
       "date": "2026-04-06T16:00:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "13h ago",
       "summary": "Currently unknown investors netted tens of millions of dollars in profit by placing huge trades in the oil futures markets just 15 minutes before President Donald Trump announced he was extending the ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -141,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/hormuz_traffic_rises_to_highest_in_weeks-06-apr-2026-183382-article/?rss=true",
       "date": "2026-04-06T16:00:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "13h ago",
       "summary": "Traffic through the Strait of Hormuz has climbed to its highest levels since the early days of the war.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -152,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Tesla-Q1-Deliveries-Expected-to-Fall-Far-Short-of-Peak-as-EV-Demand-Cools.html",
       "date": "2026-04-06T15:00:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "14h ago",
       "summary": "Tesla Inc. is increasingly betting its future on AI, autonomy and robotics — but it still depends on selling cars to finance that shift, and that core business is under pressure, Bloomberg reported th",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -163,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/tamboran_touts_stimulation_results_for_another_beetaloo_well-06-apr-2026-183385-article/?rss=true",
       "date": "2026-04-06T14:32:44.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "15h ago",
       "summary": "The latest well to be stimulated in the Shenandoah South Pilot Project in the Beetaloo sub-basin onshore Australia's Northern Territory yielded a record average 20-day initial production flow rate of ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -174,19 +207,8 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Premiums-Hit-Record-High-as-World-Scrambles-for-Crude.html",
       "date": "2026-04-06T14:32:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "15h ago",
       "summary": "The premiums for U.S. West Texas Intermediate crude have soared in the spot market to a record high of between $30 and $40 per barrel above key regional benchmarks as Asia and Europe scramble for supp",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Ukraine Steps Up Drone Attacks on Russian Oil Infrastructure",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Steps-Up-Drone-Attacks-on-Russian-Oil-Infrastructure.html",
-      "date": "2026-04-06T14:29:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "The key Russian oil export terminal at Novorossiysk was on fire early on Monday following an overnight drone attack, as Ukraine intensifies strikes on Russia’s oil infrastructure to reduce its export ",
       "sentiment": "neutral",
       "dhrScore": 3
     },
@@ -196,21 +218,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/opec_decides_to_boost_production_in_may-06-apr-2026-183384-article/?rss=true",
       "date": "2026-04-06T14:02:20.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "15h ago",
       "summary": "A statement posted on OPEC's website on Sunday revealed that Saudi Arabia, Russia, Iraq, the UAE, Kuwait, Kazakhstan, Algeria, and Oman have decided to boost production next month.",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Trump Threatens to Target Iran’s Power Grid as Hormuz Deadline Nears",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Trump-Threatens-to-Target-Irans-Power-Grid-as-Hormuz-Deadline-Nears.html",
-      "date": "2026-04-06T14:00:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "US President Donald Trump repeated his threat to strike Iranian infrastructure hard if Tehran does not open the Strait of Hormuz, using explosive language hours after announcing that US forces rescued",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Buru CEO Quits on Health Reasons",
@@ -218,21 +229,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/buru_ceo_quits_on_health_reasons-06-apr-2026-183381-article/?rss=true",
       "date": "2026-04-06T13:32:49.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "16h ago",
       "summary": "'The board is very focused on the successful delivery of the Rafael Gas Project and the key milestones towards Final Investment Decision and first material cashflows'.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Energy Shock Prompts Analysts to Cut India&#039;s GDP Growth Forecasts",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Energy-Shock-Prompts-Analysts-to-Cut-Indias-GDP-Growth-Forecasts.html",
-      "date": "2026-04-06T13:30:00.000Z",
-      "dateLabel": "10h ago",
-      "summary": "India’s economy will grow by lower rates over the next year than initially expected as the energy supply shock from the Middle East is hitting supply and manufacturing and raising prices for industry ",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "BMI Ups Global Diesel Price Forecast",
@@ -240,7 +240,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/bmi_ups_global_diesel_price_forecast-06-apr-2026-183380-article/?rss=true",
       "date": "2026-04-06T11:31:15.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "18h ago",
       "summary": "'We have revised up our 2026 diesel price forecast, as we move to our 'extend to end' [conflict] scenario', BMI analysts said.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -251,7 +251,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/petronas_says_its_on_alert_over_fuel_supply_in_malaysia-06-apr-2026-183379-article/?rss=true",
       "date": "2026-04-06T10:52:40.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "19h ago",
       "summary": "Oil-producing Malaysia 'is not fully insulated' from the supply disruption brought about by the ongoing war in the Middle East, the national oil company said.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -262,7 +262,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/oil_market_weighs_early_signs_of_potential_deescalation-06-apr-2026-183378-article/?rss=true",
       "date": "2026-04-06T10:46:31.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "19h ago",
       "summary": "'Reports of a possible agreement between the United States and Iran to halt hostilities and reopen the Strait of Hormuz have tempered supply concerns to a certain extent and pushed prices down'.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -273,7 +273,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/chevron_resumes_leviathan_gas_production_offshore_israel-06-apr-2026-183377-article/?rss=true",
       "date": "2026-04-06T09:01:02.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "20h ago",
       "summary": "Chevron and its local partners resumed regular production at the gas and condensate field, weeks after declaring force majeure because of the ongoing war with Iran.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -284,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/mediators_said_to_seek_ceasefire_as_trump_escalates_iran_threats-06-apr-2026-183376-article/?rss=true",
       "date": "2026-04-06T07:13:40.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "22h ago",
       "summary": "U.S., Iran and regional mediators are reportedly discussing terms for a possible 45-day ceasefire, but chances of an immediate deal appear low.",
       "sentiment": "neutral",
       "dhrScore": 3
