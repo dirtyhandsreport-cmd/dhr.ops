@@ -1,15 +1,158 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-09T10:20:19.536Z",
+  "updated_at": "2026-04-09T15:12:07.763Z",
   "items": [
+    {
+      "title": "U.S. LNG Exports Soar To Record Levels In March Amid Panic Buying",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Natural-Gas/US-LNG-Exports-Soar-To-Record-Levels-In-March-Amid-Panic-Buying.html",
+      "date": "2026-04-09T15:00:00.000Z",
+      "dateLabel": "12m ago",
+      "summary": "U.S. liquefied natural gas (LNG) exports hit a record 11.7 million metric tons in March 2026, mainly driven by global panic buying and supply disruptions triggered by geopolitical tensions in the Midd",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "India&#039;s Oil Minister Heads to Qatar as LNG Supply Crisis Deepens",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Minister-Heads-to-Qatar-as-LNG-Supply-Crisis-Deepens.html",
+      "date": "2026-04-09T14:30:00.000Z",
+      "dateLabel": "42m ago",
+      "summary": "India&#039;s Oil Minister Hardeep Puri is visiting Qatar on Thursday and Friday as India seeks to secure LNG and liquefied petroleum gas (LPG) supply amid the fragile U.S.-Iran ceasefire. Puri will be",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Fragile Iran Cease-Fire Comes Under Pressure From Lebanon Strikes",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Fragile-Iran-Ceasefire-Under-Pressure-From-Lebanon-Strikes.html",
+      "date": "2026-04-09T14:00:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "The fragile cease-fire between the United States and Iran could hang in the balance over what Washington has labeled a \"misunderstanding\" over whether the truce includes Israel’s offensive against Teh",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Chevron Sees Lower Output Due to Iran War",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/chevron_sees_lower_output_due_to_iran_war-09-apr-2026-183417-article/?rss=true",
+      "date": "2026-04-09T13:30:09.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Chevron said its production fell as much as 6 percent in the first quarter due in part to the Iran war, echoing a similar disclosure from archrival ExxonMobil.",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Traders and Refiners Book Ships to Load Middle East Oil on Hormuz Hope",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Traders-and-Refiners-Book-Ships-to-Load-Middle-East-Oil-on-Hormuz-Hope.html",
+      "date": "2026-04-09T13:30:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "The state refiner of Taiwan and commodity trading giant Glencore have each booked a tanker to travel to the Middle East and load oil, in a sign that crude customers are hoping for a re-opening of the ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Reliance Caps Sales at $11 Per Pump as Shortages Deepen",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/reliance_caps_sales_at_11_per_pump_as_shortages_deepen-09-apr-2026-183416-article/?rss=true",
+      "date": "2026-04-09T13:17:23.000Z",
+      "dateLabel": "1h ago",
+      "summary": "India's largest private-sector refiner is restricting individual purchases to INR 1,000 per visit at fuel stations it operates with partner BP, according to people familiar with the matter.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "US Troops to Stay in Gulf before Talks on Fragile Truce",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/us_troops_to_stay_in_gulf_before_talks_on_fragile_truce-09-apr-2026-183415-article/?rss=true",
+      "date": "2026-04-09T13:02:09.000Z",
+      "dateLabel": "2h ago",
+      "summary": "The U.S. president vowed to keep troops in the Persian Gulf ahead of talks with Iran that are planned to firm up a fragile truce, while Hormuz remained effectively shut as shipowners await clarificati",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "China Weighs Bailout for Airlines Struggling with Fuel Shock",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Weighs-Bailout-for-Airlines-Struggling-with-Fuel-Shock.html",
+      "date": "2026-04-09T12:30:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "China is considering several ways to support financially its struggling airlines which are reeling from the oil and fuel supply and price shock due to the Middle East crisis. The Chinese authorities a",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Santos Announces Positive Results for Quokka Appraisal Campaign",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/santos_announces_positive_results_for_quokka_appraisal_campaign-09-apr-2026-183414-article/?rss=true",
+      "date": "2026-04-09T11:42:55.000Z",
+      "dateLabel": "3h ago",
+      "summary": "'Located strategically to the east of our Pikka phase 1 development, Quokka represents another high-return opportunity that strengthens our position on the North Slope and extends our development runw",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Goldman: Another Month of Hormuz Closure Means Over $100 Brent Throughout 2026",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Another-Month-of-Hormuz-Closure-Means-Over-100-Brent-Throughout-2026.html",
+      "date": "2026-04-09T11:30:00.000Z",
+      "dateLabel": "3h ago",
+      "summary": "Brent Crude is expected to average above $100 per barrel this year if the Strait of Hormuz remains mostly shut to tanker traffic for another month, Goldman Sachs analysts said on Thursday. “We continu",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Petronas, SLB Ink Suriname Partnership",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/petronas_slb_ink_suriname_partnership-09-apr-2026-183413-article/?rss=true",
+      "date": "2026-04-09T11:19:35.000Z",
+      "dateLabel": "3h ago",
+      "summary": "'Under this framework, Subsea Integration Alliance may provide full engineering, procurement, construction, installation and commissioning solutions for multiple discoveries in Suriname'.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Japan Weighs Releasing More Oil Reserves as Hormuz Risks Persist",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Weighs-Releasing-More-Oil-Reserves-as-Hormuz-Risks-Persist.html",
+      "date": "2026-04-09T10:30:00.000Z",
+      "dateLabel": "4h ago",
+      "summary": "Japan is weighing the idea to release in May another batch of oil stocks from reserves to provide about 20 days of oil consumption, amid continued uncertainty about tanker transits through the Strait ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Perenco Seals Acquisition of Saturn Banks Fields from CalEnergy",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/perenco_seals_acquisition_of_saturn_banks_fields_from_calenergy-09-apr-2026-183412-article/?rss=true",
+      "date": "2026-04-09T10:05:54.000Z",
+      "dateLabel": "5h ago",
+      "summary": "Perenco acquired a 50 percent operating stake in the already developed Blythe and Elgood fields.",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "Chinese Oil Tankers Attempt to Exit the Strait of Hormuz",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Tankers-Attempt-to-Exit-the-Strait-of-Hormuz.html",
       "date": "2026-04-09T09:20:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Two Chinese oil tankers carrying Iraqi and Saudi crude sped up on Thursday morning toward the exit of the Strait of Hormuz, before coming to a halt just at the entrance to the chokepoint, in a sign th",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/norway_pushes_for_reentry_into_gro_gas_discovery-09-apr-2026-183411-article/?rss=true",
       "date": "2026-04-09T08:53:05.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "6h ago",
       "summary": "'There is a considerable value creation potential here but time is running out', Norway's upstream regulator said about the discovery drilled by Shell and later relinquished by Equinor.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Russian-LNG-Finds-Buyers-in-Asia-at-Deep-Discounts.html",
       "date": "2026-04-09T07:40:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "7h ago",
       "summary": "Russia has offered several cargoes of liquefied natural gas from Novatek’s Arctic LNG 2 facility to South Asian buyers, Bloomberg has reported, noting the facility is under U.S., EU, and UK sanctions.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -42,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/china_oil_tankers_join_line_testing_hormuz_and_iran_truce-09-apr-2026-183410-article/?rss=true",
       "date": "2026-04-09T07:20:25.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "7h ago",
       "summary": "Continued attacks - including Israeli strikes in Lebanon - have raised questions about the effectiveness of a ceasefire.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Cuts-Oil-Price-Forecasts-After-Ceasefire-Announcement.html",
       "date": "2026-04-09T06:05:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "9h ago",
       "summary": "Goldman Sachs updated its price expectations for crude oil late on Wednesday following the news of a ceasefire deal between Iran and the United States, just hours before reports started coming in sugg",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -64,7 +207,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Signals-Hormuz-Closure.html",
       "date": "2026-04-09T05:04:07.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "10h ago",
       "summary": "Iran has reportedly closed the Strait of Hormuz again, less than 24 hours after agreeing to a ceasefire deal with the United States. According to reports, Iran considers Israel’s continued and intensi",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -75,7 +218,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Tehran-Takes-the-Strait-and-the-Premium.html",
       "date": "2026-04-08T23:00:00.000Z",
-      "dateLabel": "11h ago",
+      "dateLabel": "16h ago",
       "summary": "March has turned into a month of hard power tests for Iran – and so far, it has been quietly exceeding expectations. By effectively blocking the Strait of Hormuz to all but its own cargoes (or the one",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +229,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Petrostates-Without-Oil-Export-Routes-Take-the-Hardest-Hit.html",
       "date": "2026-04-08T22:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "17h ago",
       "summary": "With fuel rationing beginning in some Asian countries and analysts warning Europe is next, talk has started about windfall profit taxes on Big Oil. The supermajors are the first target for additional ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -97,7 +240,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-China-Positioned-Itself-to-Win-the-Global-Energy-Crisis.html",
       "date": "2026-04-08T21:00:00.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "18h ago",
       "summary": "No country was more prepared for the war in Iran than China. As the rest of Asia reels from oil and gas shortages due to the Iran War, Beijing is sitting pretty thanks to its vast stores of crude oil ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,7 +251,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/chinas_lng_demand_wont_bounce_back-08-apr-2026-183406-article/?rss=true",
       "date": "2026-04-08T21:00:00.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "18h ago",
       "summary": "Hopes for a strong rebound in China's demand for liquefied natural gas are fading, despite the ceasefire called in the Middle East.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -119,7 +262,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Pressure-Toppled-Caracas-but-Not-Tehran.html",
       "date": "2026-04-08T20:00:00.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "19h ago",
       "summary": "Just over a month since President Donald Trump’s decision to go to war with Iran, taken in the shadow of his military intervention in Venezuela, the contrast between the two is hard to ignore. One int",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,85 +273,8 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_plunges_on_ceasefire_deal-08-apr-2026-183409-article/?rss=true",
       "date": "2026-04-08T19:53:54.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "19h ago",
       "summary": "Oil prices plunged after a US-Iran ceasefire eased fears of prolonged supply disruption.",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "$2B Investment Drives Expansion of U.S.-Canada Oil Flows",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/2B-Investment-Drives-Expansion-of-US-Canada-Oil-Flows.html",
-      "date": "2026-04-08T19:00:00.000Z",
-      "dateLabel": "15h ago",
-      "summary": "Bridger Pipeline LLC has disclosed its proposed pipeline to transport crude from the ‌U.S.-Canada border to Wyoming would cost approximately US$2 billion and have a maximum capacity of 1.13 million ba",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Iran Attacks Saudi Arabia&#039;s East-West Oil Pipeline",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Attacks-Saudi-Arabias-East-West-Oil-Pipeline.html",
-      "date": "2026-04-08T18:30:00.000Z",
-      "dateLabel": "15h ago",
-      "summary": "Saudi Arabia&#039;s East-West Pipeline, a critical artery bypassing the Strait of Hormuz, was reportedly hit in an Iranian drone attack on Wednesday, Reuters has reported. According to the report, a p",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "A Global Oil Crisis Is Giving Suriname’s Offshore Dreams New Life",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/A-Global-Oil-Crisis-Is-Giving-Surinames-Offshore-Dreams-New-Life.html",
-      "date": "2026-04-08T18:00:00.000Z",
-      "dateLabel": "16h ago",
-      "summary": "The latest global oil shock has created an ideal environment for Suriname’s struggling oil boom. The impoverished South American country of less than seven hundred thousand is endeavoring to launch a ",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Exxon Mobil Signals $2.9B Q1 Earnings Bump On Higher Oil Prices",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Mobil-Signals-29B-Q1-Earnings-Bump-On-Higher-Oil-Prices.html",
-      "date": "2026-04-08T17:30:00.000Z",
-      "dateLabel": "16h ago",
-      "summary": "U.S. Oil & Gas giant Exxon Mobil (NYSE:XOM) has signaled that surging oil and gas prices triggered by the conflict with Iran could increase its first-quarter upstream earnings by up to $2.9 billion, w",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Energy Crisis Sends Travelers Scrambling for Insurance Coverage",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Energy-Crisis-Sends-Travelers-Scrambling-for-Insurance-Coverage.html",
-      "date": "2026-04-08T17:00:00.000Z",
-      "dateLabel": "17h ago",
-      "summary": "Interest in travel insurance has spiked over the last month after airline bosses warned of cancelled flights amid shortages of jet fuel due to the ongoing energy crisis. Thousands of flights have been",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Oil Slumps, Stock Markets Surge As First Ships Transit Hormuz",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Slumps-Stock-Markets-Surge-As-First-Ships-Transit-Hormuz.html",
-      "date": "2026-04-08T16:30:00.000Z",
-      "dateLabel": "17h ago",
-      "summary": "Oil prices fell below $100 per barrel while the S&P 500 and global markets surged after the U.S. and Iran agreed to a two-week ceasefire deal that includes the reopening of the Strait of Hormuz for th",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Gold Tops $4,800 as U.S.-Iran Ceasefire Halts Six Weeks of War",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Metals/Gold/Gold-Tops-4800-as-US-Iran-Ceasefire-Halts-Six-Weeks-of-War.html",
-      "date": "2026-04-08T16:00:00.000Z",
-      "dateLabel": "18h ago",
-      "summary": "Gold prices rose after U.S. President Donald Trump and Iran agreed to a two-week ceasefire to finalize talks on ending the war that has upended global markets. Bullion climbed to above $4,800 an ounce",
       "sentiment": "neutral",
       "dhrScore": 3
     },
@@ -218,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/exxon_lost_6_pct_of_its_global_output-08-apr-2026-183405-article/?rss=true",
       "date": "2026-04-08T14:55:52.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "Yesterday",
       "summary": "Exxon lost six percent of its global production in the first quarter as the Iran war paralyzed oil and natural gas operations in the Persian Gulf.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -229,7 +295,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/commonwealth_lng_finalizes_offtake_agreements-08-apr-2026-183408-article/?rss=true",
       "date": "2026-04-08T14:38:24.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "Yesterday",
       "summary": "Owners Kimmeridge and Mubadala expect to make a final investment decision 'in the coming weeks'.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -240,7 +306,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eia_fuel_update_shows_rising_price_trend-08-apr-2026-183407-article/?rss=true",
       "date": "2026-04-08T14:31:36.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "Yesterday",
       "summary": "The EIA's latest gasoline fuel update showed a rising price trend for U.S. regular gasoline.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -251,7 +317,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/new_circuit_activated_for_uks_biggest_hydropower_station-08-apr-2026-183404-article/?rss=true",
       "date": "2026-04-08T13:43:07.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "Yesterday",
       "summary": "National Grid has energized the second of three new high-voltage circuits linking the 1,800-megawatt Dinorwig station with the transmission network in North Wales.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -262,7 +328,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/rosneft_tamps_down_profit_expectations_from_soaring_prices-08-apr-2026-183403-article/?rss=true",
       "date": "2026-04-08T11:42:55.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "'The positive impact of rising oil prices on industry revenues should not be overstated, as it is largely offset by higher costs for freight, insurance and currency conversion'.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -273,7 +339,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/doi_plans_to_merge_bsee_boem-08-apr-2026-183402-article/?rss=true",
       "date": "2026-04-08T11:23:28.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "The U.S. Department of the Interior announced the start of a phased plan to establish the Marine Minerals Administration.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -321,72 +387,6 @@
       "summary": "Oil plunged and markets rallied after Trump agreed to pause strikes on Iran for two weeks.",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "1 of 7 Stranded Malaysian Vessels Sails Through Hormuz",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/wire/1_of_7_stranded_malaysian_vessels_sails_through_hormuz-07-apr-2026-183395-article/?rss=true",
-      "date": "2026-04-07T20:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Malaysia has maintained cordial diplomatic ties with Iran.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Crude Closes Mixed on War Signals",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/wire/crude_closes_mixed_on_war_signals-07-apr-2026-183397-article/?rss=true",
-      "date": "2026-04-07T19:59:06.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Oil prices closed mixed as traders weighed conflicting signals on Iran and supply risks.",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "North America Drops More Rigs Week on Week",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/north_america_drops_more_rigs_week_on_week-07-apr-2026-183396-article/?rss=true",
-      "date": "2026-04-07T14:26:12.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "North America dropped six rigs week on week, according to Baker Hughes' latest North America rotary rig count.",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Trump Says USA in 'Heated' Iran Talks",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/wire/trump_says_usa_in_heated_iran_talks-07-apr-2026-183394-article/?rss=true",
-      "date": "2026-04-07T14:02:04.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "President Donald Trump said he was in 'heated negotiations' involving the war with Iran.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Phillips 66 Books $900MM in Hedging Losses as Prices Surge",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/phillips_66_books_900mm_in_hedging_losses_as_prices_surge-07-apr-2026-183393-article/?rss=true",
-      "date": "2026-04-07T12:58:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "'The sharp increase in commodity prices during the first quarter resulted in a net outflow of approximately $3 billion of cash collateral on derivative positions'.",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Texas Upstream Employment Drops in January",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/texas_upstream_employment_drops_in_january-07-apr-2026-183392-article/?rss=true",
-      "date": "2026-04-07T11:37:28.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Texas upstream employment declined at the start of the year, according to a statement sent to Rigzone by TIPRO recently.",
-      "sentiment": "neutral",
-      "dhrScore": 1
     }
   ]
 }
