@@ -1,15 +1,103 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-10T15:09:43.261Z",
+  "updated_at": "2026-04-10T18:00:21.930Z",
   "items": [
+    {
+      "title": "OpenAI Freezes UK AI Data Center Plans Over Power Prices, Red Tape",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/OpenAI-Freezes-UK-AI-Data-Center-Plans-Over-Power-Prices-Red-Tape.html",
+      "date": "2026-04-10T18:00:00.000Z",
+      "dateLabel": "0m ago",
+      "summary": "OpenAI&#039;s broader Stargate push to build next-generation AI infrastructure in the UK has been put on hold, with the company citing regulatory conditions and high energy costs as major obstacles to",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Europe’s Jet Fuel Shortage Arriving in Weeks",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Jet-Fuel-Shortage-Arriving-in-Weeks.html",
+      "date": "2026-04-10T17:30:00.000Z",
+      "dateLabel": "30m ago",
+      "summary": "Europe could face a jet fuel shortage within three weeks if flows through the Strait of Hormuz remain restricted, according to the region’s airport industry group. ACI Europe warned that a continued d",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "US Oil, Gas Drillers Take the Foot Off the Gas As Prices Climb",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Take-the-Foot-Off-the-Gas-As-Prices-Climb.html",
+      "date": "2026-04-10T17:12:52.000Z",
+      "dateLabel": "47m ago",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Thursday, bringing the total rig count in the US to 5",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Novorossiysk Restarts Oil Loadings at Reduced Capacity After Drone Strike",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Novorossiysk-Restarts-Oil-Loadings-at-Reduced-Capacity-After-Drone-Strike.html",
+      "date": "2026-04-10T16:30:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Russia has restarted limited oil loadings at its Black Sea port of Novorossiysk after a drone attack earlier this week forced a full suspension. Operations at the Sheskharis terminal resumed late Thur",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "IMF Warns Iran War Will Leave Lasting Scars on Global Economy",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/IMF-Warns-Iran-War-Will-Leave-Lasting-Scars-on-Global-Economy.html",
+      "date": "2026-04-10T16:00:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Several fuel shortages, hunger, and spiralling inflation will be some of the consequences of the Iran war as the head of the International Monetary Fund said that it would leave “scarring effects” on ",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Oil Price Shock Drives 140% Surge in China&#039;s EV Exports to Record High",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Drives-140-Surge-in-Chinas-EV-Exports-to-Record-High.html",
+      "date": "2026-04-10T15:30:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Chinese electric vehicle exports soared by 140% to a record high in March as the fuel price shock drove consumers back to EVs. China exported as many as 349,000 electric vehicles last month, a record ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Oil Ignores Escalation, Logs Biggest Weekly Drop Since 2025",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Ignores-Escalation-Logs-Biggest-Weekly-Drop-Since-2025.html",
+      "date": "2026-04-10T15:15:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Despite the ongoing escalation in the Middle East, crude heads for its biggest weekly loss in months. Friday, April 10, 2026 Is there a ceasefire or not? That is the ultimate question asked by the oil",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Lebanon and Hormuz Top of Agenda in Truce Talks",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/lebanon_and_hormuz_top_of_agenda_in_truce_talks-10-apr-2026-183427-article/?rss=true",
+      "date": "2026-04-10T14:41:30.000Z",
+      "dateLabel": "3h ago",
+      "summary": "The US and Iran prepared for direct talks in Pakistan with the Strait of Hormuz still effectively shut and Israel and Hezbollah exchanging fire.",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "JP Morgan Warns Oil Could Hit $120 if Hormuz Stalemate Drags Into July",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/JP-Morgan-Warns-Oil-Could-Hit-120-if-Hormuz-Stalemate-Drags-Into-July.html",
       "date": "2026-04-10T14:30:00.000Z",
-      "dateLabel": "39m ago",
+      "dateLabel": "3h ago",
       "summary": "Oil prices could spike and hit again their peak Iran-war levels at nearly $120 per barrel if a full recovery of vessel traffic through the Strait of Hormuz takes until July, according to JP Morgan. De",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-a-Hormuz-Shipping-Toll-Would-Be-Unworkable.html",
       "date": "2026-04-10T14:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Amid reports Iran and the US are considering charging vessels a “toll” to transit the Strait of Hormuz, maritime insiders say such a move could backfire if other countries decide to charge ships for p",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/aphrodite_group_initiates_prelim_deals_for_sale_of_cypriot_gas_to_egypt-10-apr-2026-183424-article/?rss=true",
       "date": "2026-04-10T13:47:37.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "The Chevron-led consortium secured commitment from relevant parties to execute a term sheet and a host government agreement to enable the piped export to Egypt of 100 percent of production from the Ap",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Tumble-as-Traders-Unwind-Geopolitical-Bets.html",
       "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Crude oil markets reversed sharply lower during the week of April 5 through April 9, 2026, as traders shifted from aggressive risk pricing to rapid liquidation. After surging the previous week on geop",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/A-Shaky-Truce-and-Unclear-Goals-in-the-Middle-East.html",
       "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Politics, Geopolitics & Conflict It’s been a busy week on the U.S.-Iran front. Trump escalated to the point of threatening to wipe out Iran, then pulled back when oil prices spiked, and the stock mark",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -64,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Oil-Traders-Are-Watching-Patterns-Not-Politics.html",
       "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "The last month or so has been a wild ride for those who trade oil futures or invest in energy stocks, which presumably describes pretty much everyone reading this. In the last few days of February, ju",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -75,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/The-Worrying-Feedback-Loop-Between-War-Oil-and-Markets.html",
       "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Against the backdrop of global disaster, and only halfway through this anti-war administration, Americans are largely watching this all unfold as if it’s another Netflix offering coupled with tantaliz",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabias-SATORP-Refinery-Shut-Down-After-Attack.html",
       "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Saudi Arabia&#039;s SATORP refinery, jointly owned by Aramco and TotalEnergies, was shut down after one of two refining units was damaged by incidents earlier this week, the French supermajor said in ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -97,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/occidental_discovers_oil_near_existing_infrastructure_off_louisiana-10-apr-2026-183423-article/?rss=true",
       "date": "2026-04-10T12:54:15.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "5h ago",
       "summary": "'The discovery has the potential for subsea tie-backs to an adjacent Occidental-operated facility and others in the nearby area'.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,21 +196,10 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Flagged-Supertanker-Passes-Through-Hormuz.html",
       "date": "2026-04-10T12:30:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "5h ago",
       "summary": "An empty supertanker flying the flag of Russia has transited the Strait of Hormuz and moved into the Persian Gulf with Iran’s Kharg Island broadcast as its initial destination, Bloomberg reported on F",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Ukraine to Complete Druzhba Oil Pipeline Repairs This Spring",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-to-Complete-Druzhba-Oil-Pipeline-Repairs-This-Spring.html",
-      "date": "2026-04-10T11:30:00.000Z",
-      "dateLabel": "3h ago",
-      "summary": "Ukraine will complete in the spring repairs on the damaged oil pipeline Druzhba, which carries Russian oil to Hungary and Slovakia, according to Ukrainian President Volodymyr Zelenskyy. At the end of ",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Iberdrola Nears Full Takeover of Brazil's Neoenergia",
@@ -130,21 +207,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/iberdrola_nears_full_takeover_of_brazils_neoenergia-10-apr-2026-183422-article/?rss=true",
       "date": "2026-04-10T11:21:35.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "The Spanish power and gas utility has raised its stake in Neoenergia to 98 percent, under a full takeover bid it launched late last year.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Gulf Producers Take First Steps Toward Resuming Hormuz Oil Flows",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Producers-Take-First-Steps-Toward-Resuming-Hormuz-Oil-Flows.html",
-      "date": "2026-04-10T10:30:00.000Z",
-      "dateLabel": "4h ago",
-      "summary": "The biggest oil producers in the Middle East are asking their Asian customers to submit cargo loading nominations for the export ports that require passage through the Strait of Hormuz, in a sign that",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Petrofac Completes Business Sale to CBI",
@@ -152,21 +218,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/petrofac_completes_business_sale_to_cbi-10-apr-2026-183421-article/?rss=true",
       "date": "2026-04-10T10:04:22.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "7h ago",
       "summary": "CB&I consummated the acquisition of Petrofac's Asset Solutions business, saving jobs for about 3,000 workers.",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "North Sea Crude Soars to Record High as Hormuz Shock Rips Through Spot Markets",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/North-Sea-Crude-Soars-to-Record-High-as-Hormuz-Shock-Rips-Through-Spot-Markets.html",
-      "date": "2026-04-10T09:30:00.000Z",
-      "dateLabel": "5h ago",
-      "summary": "Brent futures may have sunk below $100 per barrel after the U.S.-Iran ceasefire was announced, but constraints are intensifying amid the supply shock, with the physical price of a key North Sea blend ",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Israel, US Signal Deescalation in Lebanon",
@@ -174,7 +229,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/israel_us_signal_deescalation_in_lebanon-10-apr-2026-183420-article/?rss=true",
       "date": "2026-04-10T08:42:39.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "9h ago",
       "summary": "Netanyahu agreed to hold talks with Lebanon.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,19 +240,8 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_us_prepare_for_talks_as_israel_presses_on_in_lebanon-10-apr-2026-183415-article/?rss=true",
       "date": "2026-04-10T08:30:06.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "9h ago",
       "summary": "The U.S. and Iran prepared for peace talks in Pakistan with a fragile ceasefire largely holding, though issues such as Israel's offensive in Lebanon and the opening of the Strait of Hormuz remain unre",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Europe’s Russian LNG Reliance Surges Ahead of 2027 Ban",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Russian-LNG-Reliance-Surges-Ahead-of-2027-Ban.html",
-      "date": "2026-04-10T08:30:00.000Z",
-      "dateLabel": "6h ago",
-      "summary": "The European Union bought 97% of the liquefied natural gas produced at Novatek’s Yamal LNG facility over the first quarter of the year, raising certain questions about the pending ban on all Russian g",
       "sentiment": "neutral",
       "dhrScore": 3
     },
@@ -207,43 +251,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/tanker_with_russian_flag_transits_hormuz-10-apr-2026-183419-article/?rss=true",
       "date": "2026-04-10T08:20:27.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "9h ago",
       "summary": "A Russian-flagged supertanker passed through the Strait of Hormuz into the Persian Gulf, marking a rare passage for one of the nation's ships as traders scrutinize every transit through the war-hit wa",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Japan to Release More Oil Amid Supply Crunch",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Release-More-Oil-Amid-Supply-Crunch.html",
-      "date": "2026-04-10T07:30:00.000Z",
-      "dateLabel": "7h ago",
-      "summary": "Japan will release additional volumes of crude oil next month, Prime Minister Sanae Takaichi said today, confirming earlier reports about more releases from inventories to handle the supply squeeze re",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Chinese Refiners Buy Iranian Crude at Premium",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Buy-Iranian-Crude-at-Premium.html",
-      "date": "2026-04-10T06:06:08.000Z",
-      "dateLabel": "9h ago",
-      "summary": "Chinese independent refiners are buying Iranian crude at a premium to Brent crude, for the first time in years, Reuters has reported, noting prices were driven higher by anticipated increases in India",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Oil Prices Climb Toward $100 as Iran Ceasefire Doubts Deepen",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-Toward-100-as-Iran-Ceasefire-Doubts-Deepen.html",
-      "date": "2026-04-10T02:51:04.000Z",
-      "dateLabel": "12h ago",
-      "summary": "Oil prices were climbing back toward the $100 mark in early Asian trade on Friday as traders weighed fresh attacks across the region and doubts over whether the already-fragile Iran ceasefire will hol",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Crude Climbs as Hormuz Disruptions Persist",
@@ -251,7 +262,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/crude_climbs_as_hormuz_disruptions_persist-09-apr-2026-183418-article/?rss=true",
       "date": "2026-04-09T20:33:49.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "21h ago",
       "summary": "Oil rose as Hormuz disruptions and Saudi output cuts fueled supply concerns.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -376,17 +387,6 @@
       "summary": "Owners Kimmeridge and Mubadala expect to make a final investment decision 'in the coming weeks'.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "EIA Fuel Update Shows Rising Price Trend",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/eia_fuel_update_shows_rising_price_trend-08-apr-2026-183407-article/?rss=true",
-      "date": "2026-04-08T14:31:36.000Z",
-      "dateLabel": "Apr 8, 2026",
-      "summary": "The EIA's latest gasoline fuel update showed a rising price trend for U.S. regular gasoline.",
-      "sentiment": "neutral",
-      "dhrScore": 2
     }
   ]
 }
