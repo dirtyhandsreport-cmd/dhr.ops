@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-11T20:02:42.363Z",
+  "updated_at": "2026-04-11T21:49:54.484Z",
   "items": [
+    {
+      "title": "Three Energy Stories That Actually Matter Right Now",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Three-Energy-Stories-That-Actually-Matter-Right-Now.html",
+      "date": "2026-04-11T21:00:00.000Z",
+      "dateLabel": "49m ago",
+      "summary": "If you are looking for respite from news of bombings, threats to ancient civilizations, becalmed oil tankers, rising prices, disputes about who can go to which toilets, and sex scandals among the rich",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "How the Iran War Could Reignite Global EV Demand",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
       "date": "2026-04-11T19:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "The war in Iran and broader Middle East conflict are making consumers and policymakers more aware of the vulnerabilities that face the global energy market. The price of fossil fuels is rising higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
       "date": "2026-04-11T17:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_flows_from_saudi_port_steady_for_now_despite_attack-11-apr-2026-183425-article/?rss=true",
       "date": "2026-04-11T00:00:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "21h ago",
       "summary": "Saudi Arabia's oil exports via the Red Sea are holding steady for now, as the impact of a drone attack on its vital cross-country pipeline has yet to filter through.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_settles_lower_ahead_of_iran_talks-10-apr-2026-183428-article/?rss=true",
       "date": "2026-04-10T20:04:14.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Crude markets remain volatile with supply risks and geopolitical tensions unresolved.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -202,17 +213,6 @@
       "dhrScore": 2
     },
     {
-      "title": "Oil Prices Tumble as Traders Unwind Geopolitical Bets",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Tumble-as-Traders-Unwind-Geopolitical-Bets.html",
-      "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Crude oil markets reversed sharply lower during the week of April 5 through April 9, 2026, as traders shifted from aggressive risk pricing to rapid liquidation. After surging the previous week on geop",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
       "title": "Occidental Discovers Oil Near Existing Infrastructure off Louisiana",
       "source": "Rigzone",
       "category": "GENERAL",
@@ -284,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/crude_climbs_as_hormuz_disruptions_persist-09-apr-2026-183418-article/?rss=true",
       "date": "2026-04-09T20:33:49.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 9, 2026",
       "summary": "Oil rose as Hormuz disruptions and Saudi output cuts fueled supply concerns.",
       "sentiment": "neutral",
       "dhrScore": 1
