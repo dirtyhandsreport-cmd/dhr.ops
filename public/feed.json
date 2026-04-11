@@ -1,7 +1,7 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-11T19:25:36.040Z",
+  "updated_at": "2026-04-11T20:02:42.363Z",
   "items": [
     {
       "title": "How the Iran War Could Reignite Global EV Demand",
@@ -9,7 +9,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
       "date": "2026-04-11T19:00:00.000Z",
-      "dateLabel": "25m ago",
+      "dateLabel": "1h ago",
       "summary": "The war in Iran and broader Middle East conflict are making consumers and policymakers more aware of the vulnerabilities that face the global energy market. The price of fossil fuels is rising higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -20,7 +20,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
       "date": "2026-04-11T17:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_flows_from_saudi_port_steady_for_now_despite_attack-11-apr-2026-183425-article/?rss=true",
       "date": "2026-04-11T00:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "20h ago",
       "summary": "Saudi Arabia's oil exports via the Red Sea are holding steady for now, as the impact of a drone attack on its vital cross-country pipeline has yet to filter through.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -64,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Oil-Prices/Strait-of-Hormuz-Constraints-Keep-Oil-Prices-Elevated.html",
       "date": "2026-04-10T20:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Oil prices remain close to $100 per barrel despite the U.S.-Iran ceasefire, which revived hopes that the worst oil and gas supply shock ever could begin to ease soon and bring energy prices down. Whil",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -75,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Indias-Nuclear-Bet-Is-Starting-To-Pay-Off.html",
       "date": "2026-04-10T20:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "India has reached a milestone in its nuclear energy program through its state-of-the-art fast breeder reactor, signalling a major step forward for the clean energy transition in the world’s most popul",
       "sentiment": "neutral",
       "dhrScore": 1
