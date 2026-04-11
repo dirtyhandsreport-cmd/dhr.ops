@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-11T15:48:57.089Z",
+  "updated_at": "2026-04-11T17:20:24.454Z",
   "items": [
+    {
+      "title": "Central Asia’s Air Pollution Crisis Deepened Sharply in 2025",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
+      "date": "2026-04-11T17:00:00.000Z",
+      "dateLabel": "20m ago",
+      "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
     {
       "title": "Global Energy Shortages Drive Renewed Reliance on Coal",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "48m ago",
+      "dateLabel": "2h ago",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_flows_from_saudi_port_steady_for_now_despite_attack-11-apr-2026-183425-article/?rss=true",
       "date": "2026-04-11T00:00:00.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "17h ago",
       "summary": "Saudi Arabia's oil exports via the Red Sea are holding steady for now, as the impact of a drone attack on its vital cross-country pipeline has yet to filter through.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_settles_lower_ahead_of_iran_talks-10-apr-2026-183428-article/?rss=true",
       "date": "2026-04-10T20:04:14.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Crude markets remain volatile with supply risks and geopolitical tensions unresolved.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Oil-Prices/Strait-of-Hormuz-Constraints-Keep-Oil-Prices-Elevated.html",
       "date": "2026-04-10T20:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Oil prices remain close to $100 per barrel despite the U.S.-Iran ceasefire, which revived hopes that the worst oil and gas supply shock ever could begin to ease soon and bring energy prices down. Whil",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Indias-Nuclear-Bet-Is-Starting-To-Pay-Off.html",
       "date": "2026-04-10T20:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "India has reached a milestone in its nuclear energy program through its state-of-the-art fast breeder reactor, signalling a major step forward for the clean energy transition in the world’s most popul",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/OpenAI-Freezes-UK-AI-Data-Center-Plans-Over-Power-Prices-Red-Tape.html",
       "date": "2026-04-10T18:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "OpenAI&#039;s broader Stargate push to build next-generation AI infrastructure in the UK has been put on hold, with the company citing regulatory conditions and high energy costs as major obstacles to",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Jet-Fuel-Shortage-Arriving-in-Weeks.html",
       "date": "2026-04-10T17:30:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "Europe could face a jet fuel shortage within three weeks if flows through the Strait of Hormuz remain restricted, according to the region’s airport industry group. ACI Europe warned that a continued d",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Take-the-Foot-Off-the-Gas-As-Prices-Climb.html",
       "date": "2026-04-10T17:12:52.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Thursday, bringing the total rig count in the US to 5",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -97,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Novorossiysk-Restarts-Oil-Loadings-at-Reduced-Capacity-After-Drone-Strike.html",
       "date": "2026-04-10T16:30:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Russia has restarted limited oil loadings at its Black Sea port of Novorossiysk after a drone attack earlier this week forced a full suspension. Operations at the Sheskharis terminal resumed late Thur",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -108,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/IMF-Warns-Iran-War-Will-Leave-Lasting-Scars-on-Global-Economy.html",
       "date": "2026-04-10T16:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Several fuel shortages, hunger, and spiralling inflation will be some of the consequences of the Iran war as the head of the International Monetary Fund said that it would leave “scarring effects” on ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -200,17 +211,6 @@
       "summary": "Politics, Geopolitics & Conflict It’s been a busy week on the U.S.-Iran front. Trump escalated to the point of threatening to wipe out Iran, then pulled back when oil prices spiked, and the stock mark",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Why Oil Traders Are Watching Patterns, Not Politics",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/Why-Oil-Traders-Are-Watching-Patterns-Not-Politics.html",
-      "date": "2026-04-10T13:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "The last month or so has been a wild ride for those who trade oil futures or invest in energy stocks, which presumably describes pretty much everyone reading this. In the last few days of February, ju",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Occidental Discovers Oil Near Existing Infrastructure off Louisiana",
