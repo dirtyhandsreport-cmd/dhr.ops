@@ -1,7 +1,7 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-12T11:54:51.892Z",
+  "updated_at": "2026-04-12T14:10:06.983Z",
   "items": [
     {
       "title": "Airport Group Warns Europe Risks Jet Fuel Crunch in Weeks",
@@ -9,7 +9,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/airport_group_warns_europe_risks_jet_fuel_crunch_in_weeks-12-apr-2026-183426-article/?rss=true",
       "date": "2026-04-12T11:00:00.000Z",
-      "dateLabel": "54m ago",
+      "dateLabel": "3h ago",
       "summary": "Europe faces a systemic jet-fuel shortage in three weeks' time if the Strait of Hormuz remains restricted until then, a regional airport trade association warned.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +20,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
       "date": "2026-04-11T23:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "15h ago",
       "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near clo",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Three-Energy-Stories-That-Actually-Matter-Right-Now.html",
       "date": "2026-04-11T21:00:00.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "17h ago",
       "summary": "If you are looking for respite from news of bombings, threats to ancient civilizations, becalmed oil tankers, rising prices, disputes about who can go to which toilets, and sex scandals among the rich",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -42,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
       "date": "2026-04-11T19:00:00.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "19h ago",
       "summary": "The war in Iran and broader Middle East conflict are making consumers and policymakers more aware of the vulnerabilities that face the global energy market. The price of fossil fuels is rising higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
       "date": "2026-04-11T17:00:00.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "21h ago",
       "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "23h ago",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -218,7 +218,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/aphrodite_group_initiates_prelim_deals_for_sale_of_cypriot_gas_to_egypt-10-apr-2026-183424-article/?rss=true",
       "date": "2026-04-10T13:47:37.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 10, 2026",
       "summary": "The Chevron-led consortium secured commitment from relevant parties to execute a term sheet and a host government agreement to enable the piped export to Egypt of 100 percent of production from the Ap",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -229,7 +229,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/occidental_discovers_oil_near_existing_infrastructure_off_louisiana-10-apr-2026-183423-article/?rss=true",
       "date": "2026-04-10T12:54:15.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 10, 2026",
       "summary": "'The discovery has the potential for subsea tie-backs to an adjacent Occidental-operated facility and others in the nearby area'.",
       "sentiment": "neutral",
       "dhrScore": 1
