@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-12T14:10:06.983Z",
+  "updated_at": "2026-04-12T15:55:13.970Z",
   "items": [
+    {
+      "title": "How the Strait of Hormuz Blockade Handed China a Clean Energy Windfall",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/How-the-Strait-of-Hormuz-Blockade-Handed-China-a-Clean-Energy-Windfall.html",
+      "date": "2026-04-12T15:00:00.000Z",
+      "dateLabel": "55m ago",
+      "summary": "There is great uncertainty as to whether and to what extent the Strait of Hormuz is reopening the flow of global oil and gas trade against the backdrop of a fragile ceasefire. What is certain, however",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "Airport Group Warns Europe Risks Jet Fuel Crunch in Weeks",
       "source": "Rigzone",
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/airport_group_warns_europe_risks_jet_fuel_crunch_in_weeks-12-apr-2026-183426-article/?rss=true",
       "date": "2026-04-12T11:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Europe faces a systemic jet-fuel shortage in three weeks' time if the Strait of Hormuz remains restricted until then, a regional airport trade association warned.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
       "date": "2026-04-11T23:00:00.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "16h ago",
       "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near clo",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Three-Energy-Stories-That-Actually-Matter-Right-Now.html",
       "date": "2026-04-11T21:00:00.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "18h ago",
       "summary": "If you are looking for respite from news of bombings, threats to ancient civilizations, becalmed oil tankers, rising prices, disputes about who can go to which toilets, and sex scandals among the rich",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
       "date": "2026-04-11T19:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "20h ago",
       "summary": "The war in Iran and broader Middle East conflict are making consumers and policymakers more aware of the vulnerabilities that face the global energy market. The price of fossil fuels is rising higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
       "date": "2026-04-11T17:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Drives-140-Surge-in-Chinas-EV-Exports-to-Record-High.html",
       "date": "2026-04-10T15:30:00.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 10, 2026",
       "summary": "Chinese electric vehicle exports soared by 140% to a record high in March as the fuel price shock drove consumers back to EVs. China exported as many as 349,000 electric vehicles last month, a record ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Ignores-Escalation-Logs-Biggest-Weekly-Drop-Since-2025.html",
       "date": "2026-04-10T15:15:00.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 10, 2026",
       "summary": "Despite the ongoing escalation in the Middle East, crude heads for its biggest weekly loss in months. Friday, April 10, 2026 Is there a ceasefire or not? That is the ultimate question asked by the oil",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -196,19 +207,8 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/lebanon_and_hormuz_top_of_agenda_in_truce_talks-10-apr-2026-183427-article/?rss=true",
       "date": "2026-04-10T14:41:30.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 10, 2026",
       "summary": "The US and Iran prepared for direct talks in Pakistan with the Strait of Hormuz still effectively shut and Israel and Hezbollah exchanging fire.",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "JP Morgan Warns Oil Could Hit $120 if Hormuz Stalemate Drags Into July",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/JP-Morgan-Warns-Oil-Could-Hit-120-if-Hormuz-Stalemate-Drags-Into-July.html",
-      "date": "2026-04-10T14:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Oil prices could spike and hit again their peak Iran-war levels at nearly $120 per barrel if a full recovery of vessel traffic through the Strait of Hormuz takes until July, according to JP Morgan. De",
       "sentiment": "neutral",
       "dhrScore": 3
     },
