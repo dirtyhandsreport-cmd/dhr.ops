@@ -1,7 +1,7 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-12T00:04:38.938Z",
+  "updated_at": "2026-04-12T06:12:30.282Z",
   "items": [
     {
       "title": "How Iran’s Dark Fleet Is Quietly Keeping Oil Markets Afloat",
@@ -9,7 +9,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
       "date": "2026-04-11T23:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "7h ago",
       "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near clo",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -20,7 +20,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Three-Energy-Stories-That-Actually-Matter-Right-Now.html",
       "date": "2026-04-11T21:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "9h ago",
       "summary": "If you are looking for respite from news of bombings, threats to ancient civilizations, becalmed oil tankers, rising prices, disputes about who can go to which toilets, and sex scandals among the rich",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
       "date": "2026-04-11T19:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "11h ago",
       "summary": "The war in Iran and broader Middle East conflict are making consumers and policymakers more aware of the vulnerabilities that face the global energy market. The price of fossil fuels is rising higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Central-Asias-Air-Pollution-Crisis-Deepened-Sharply-in-2025.html",
       "date": "2026-04-11T17:00:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "13h ago",
       "summary": "Tajikistan and Uzbekistan are among the top 10 countries in the world with the poorest air quality, according to the findings published by a Swiss research firm. More broadly, Central Asia experienced",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
       "date": "2026-04-11T15:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "15h ago",
       "summary": "Governments worldwide are racing to find a solution to contend with the severe energy shortages brought about by the war in Iran and the ongoing Middle East conflict. For some, this means accelerating",
       "sentiment": "neutral",
       "dhrScore": 1
