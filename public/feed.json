@@ -1,7 +1,7 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-12T21:51:08.542Z",
+  "updated_at": "2026-04-12T23:21:55.473Z",
   "items": [
     {
       "title": "How the Iran War Is Disrupting Gulf Economies: 5 Key Effects",
@@ -9,7 +9,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Is-Disrupting-Gulf-Economies-5-Key-Effects.html",
       "date": "2026-04-12T21:00:00.000Z",
-      "dateLabel": "51m ago",
+      "dateLabel": "2h ago",
       "summary": "On Wednesday, the United States and Iran agreed to a two-week ceasefire, pausing the 42-day military campaign by the U.S. and Israel against multiple Iranian military and civilian targets. The Pakista",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +20,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Is-China-the-Worlds-Best-Prepared-Nation-for-an-Energy-Crisis.html",
       "date": "2026-04-12T19:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "4h ago",
       "summary": "Many countries worldwide have been hit hard by the energy crisis that has emerged following the U.S.-Israeli attacks on Iran and ensuing conflict, with severe oil and gas shortages driving energy pric",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Colombias-Energy-Crisis-Deepens-as-Oil-Output-Falls-and-Imports-Rise.html",
       "date": "2026-04-12T17:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "6h ago",
       "summary": "Fiscally stressed Colombia is facing multiple crises that possess the potential to derail a vulnerable economy. Oil and natural gas production is in freefall because of adverse regulatory reforms and ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Strait-of-Hormuz-Blockade-Handed-China-a-Clean-Energy-Windfall.html",
       "date": "2026-04-12T15:00:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "8h ago",
       "summary": "There is great uncertainty as to whether and to what extent the Strait of Hormuz is reopening the flow of global oil and gas trade against the backdrop of a fragile ceasefire. What is certain, however",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/airport_group_warns_europe_risks_jet_fuel_crunch_in_weeks-12-apr-2026-183426-article/?rss=true",
       "date": "2026-04-12T11:00:00.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "12h ago",
       "summary": "Europe faces a systemic jet-fuel shortage in three weeks' time if the Strait of Hormuz remains restricted until then, a regional airport trade association warned.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
       "date": "2026-04-11T23:00:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "It almost looks like an eternal story or an Australian boomerang approach, but the global oil market is once again being misread, very badly. Headlines speak of disruption, paralysis, and the near clo",
       "sentiment": "neutral",
       "dhrScore": 2
