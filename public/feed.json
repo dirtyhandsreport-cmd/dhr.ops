@@ -1,15 +1,48 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-12T23:21:55.473Z",
+  "updated_at": "2026-04-13T06:34:56.187Z",
   "items": [
+    {
+      "title": "Oil Tanker Confusion as Trump Announces Blockade",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Confusion-as-Trump-Announces-Blockade.html",
+      "date": "2026-04-13T06:00:00.000Z",
+      "dateLabel": "34m ago",
+      "summary": "Tankers in the Persian Gulf have started moving away from the Strait of Hormuz in anticipation of a U.S. naval blockade announced by President Donald Trump on Sunday. Citing data from Kpler and LSEG, ",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Oil Prices Surge Past $100 as Trump Threatens to Blockade the Strait of Hormuz",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-Past-100-as-Trump-Threatens-to-Blockade-the-Strait-of-Hormuz.html",
+      "date": "2026-04-13T00:34:32.000Z",
+      "dateLabel": "6h ago",
+      "summary": "Oil prices surged back above $100 a barrel in early Asian trade following the collapse of U.S.-Iran negotiations and Trump&#039;s announcement that the U.S. would blockade the Strait of Hormuz. At the",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "LNG Shock Hits Supply Chains as War Disrupts Global Flows",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Shock-Hits-Supply-Chains-as-War-Disrupts-Global-Flows.html",
+      "date": "2026-04-12T23:00:00.000Z",
+      "dateLabel": "7h ago",
+      "summary": "The war in the Middle East has hurt the global LNG industry and promoted a supply chain crisis that will leave global scars. The warning comes from the head of the International Gas Union and points t",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "How the Iran War Is Disrupting Gulf Economies: 5 Key Effects",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Is-Disrupting-Gulf-Economies-5-Key-Effects.html",
       "date": "2026-04-12T21:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "9h ago",
       "summary": "On Wednesday, the United States and Iran agreed to a two-week ceasefire, pausing the 42-day military campaign by the U.S. and Israel against multiple Iranian military and civilian targets. The Pakista",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Is-China-the-Worlds-Best-Prepared-Nation-for-an-Energy-Crisis.html",
       "date": "2026-04-12T19:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "11h ago",
       "summary": "Many countries worldwide have been hit hard by the energy crisis that has emerged following the U.S.-Israeli attacks on Iran and ensuing conflict, with severe oil and gas shortages driving energy pric",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Colombias-Energy-Crisis-Deepens-as-Oil-Output-Falls-and-Imports-Rise.html",
       "date": "2026-04-12T17:00:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "13h ago",
       "summary": "Fiscally stressed Colombia is facing multiple crises that possess the potential to derail a vulnerable economy. Oil and natural gas production is in freefall because of adverse regulatory reforms and ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/How-the-Strait-of-Hormuz-Blockade-Handed-China-a-Clean-Energy-Windfall.html",
       "date": "2026-04-12T15:00:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "15h ago",
       "summary": "There is great uncertainty as to whether and to what extent the Strait of Hormuz is reopening the flow of global oil and gas trade against the backdrop of a fragile ceasefire. What is certain, however",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/airport_group_warns_europe_risks_jet_fuel_crunch_in_weeks-12-apr-2026-183426-article/?rss=true",
       "date": "2026-04-12T11:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "19h ago",
       "summary": "Europe faces a systemic jet-fuel shortage in three weeks' time if the Strait of Hormuz remains restricted until then, a regional airport trade association warned.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_flows_from_saudi_port_steady_for_now_despite_attack-11-apr-2026-183425-article/?rss=true",
       "date": "2026-04-11T00:00:00.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 11, 2026",
       "summary": "Saudi Arabia's oil exports via the Red Sea are holding steady for now, as the impact of a drone attack on its vital cross-country pipeline has yet to filter through.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -167,39 +200,6 @@
       "summary": "OpenAI&#039;s broader Stargate push to build next-generation AI infrastructure in the UK has been put on hold, with the company citing regulatory conditions and high energy costs as major obstacles to",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Europe’s Jet Fuel Shortage Arriving in Weeks",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Jet-Fuel-Shortage-Arriving-in-Weeks.html",
-      "date": "2026-04-10T17:30:00.000Z",
-      "dateLabel": "Apr 10, 2026",
-      "summary": "Europe could face a jet fuel shortage within three weeks if flows through the Strait of Hormuz remain restricted, according to the region’s airport industry group. ACI Europe warned that a continued d",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "US Oil, Gas Drillers Take the Foot Off the Gas As Prices Climb",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-Take-the-Foot-Off-the-Gas-As-Prices-Climb.html",
-      "date": "2026-04-10T17:12:52.000Z",
-      "dateLabel": "Apr 10, 2026",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Thursday, bringing the total rig count in the US to 5",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Novorossiysk Restarts Oil Loadings at Reduced Capacity After Drone Strike",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Novorossiysk-Restarts-Oil-Loadings-at-Reduced-Capacity-After-Drone-Strike.html",
-      "date": "2026-04-10T16:30:00.000Z",
-      "dateLabel": "Apr 10, 2026",
-      "summary": "Russia has restarted limited oil loadings at its Black Sea port of Novorossiysk after a drone attack earlier this week forced a full suspension. Operations at the Sheskharis terminal resumed late Thur",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Lebanon and Hormuz Top of Agenda in Truce Talks",
