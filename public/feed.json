@@ -1,15 +1,92 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-14T19:50:39.775Z",
+  "updated_at": "2026-04-14T22:31:09.567Z",
   "items": [
+    {
+      "title": "Europe’s Electrification Dream Is Hitting a Wall",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Europes-Electrification-Dream-Is-Hitting-a-Wall.html",
+      "date": "2026-04-14T22:00:00.000Z",
+      "dateLabel": "31m ago",
+      "summary": "The message given by Ursula von der Leyen to electrify the European economy is strategically coherent, politically appealing, and, on the surface, even unavoidable. It will be the real deal to decarbo",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "The U.S. Is Making Major Strides Toward Nuclear Fuel Independence",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/The-US-Is-Making-Major-Strides-Toward-Nuclear-Fuel-Independence.html",
+      "date": "2026-04-14T21:00:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Nuclear energy is poised for a major comeback in the United States. Donald Trump has made the revitalization of the domestic nuclear power sector a major aim of his administration, with the stated goa",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "US Crude Oil Inventories Still Booming Despite Global Shortage Fears",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Still-Booming-Despite-Global-Shortage-Fears.html",
+      "date": "2026-04-14T20:59:23.000Z",
+      "dateLabel": "1h ago",
+      "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose 6.10 million barrels in the week ending April 10. In the week prior, US crude oil inventories rose",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "France to Double Electrification Spending to €10 Billion by 2030",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/France-to-Double-Electrification-Spending-to-10-Billion-by-2030.html",
+      "date": "2026-04-14T20:00:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "France is shifting its response to rising fuel costs away from short-term relief and toward long-term electrification, according to Prime Minister Sébastien Lecornu. Instead of expanding fuel subsidie",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Meloni Says It's 'Too Early' to Tap Russian Gas",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/meloni_says_its_too_early_to_tap_russian_gas-14-apr-2026-183445-article/?rss=true",
+      "date": "2026-04-14T20:00:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Italian Premier Giorgia Meloni said it was too early to consider tapping Russian gas.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Crude Tumbles on Ceasefire Progress",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/crude_tumbles_on_ceasefire_progress-14-apr-2026-183447-article/?rss=true",
+      "date": "2026-04-14T19:59:55.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Oil prices fell sharply as signs of renewed US-Iran talks reduced immediate supply fears.",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "$1B Bet On Falling Oil Prices Pre-Ceasefire Now Under Investigation",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/1B-Bet-On-Falling-Oil-Prices-Pre-Ceasefire-Now-Under-Investigation.html",
+      "date": "2026-04-14T19:30:00.000Z",
+      "dateLabel": "3h ago",
+      "summary": "Nearly $1 billion was bet on falling oil prices—just hours before the U.S. announced a ceasefire with Iran. That’s the trade now under scrutiny. U.S. Congressman Ritchie Torres pushed regulators on Tu",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "IEA Chief Issues Stark Warning on Oil Prices",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Issues-Stark-Warning-on-Oil-Prices.html",
       "date": "2026-04-14T19:00:00.000Z",
-      "dateLabel": "50m ago",
+      "dateLabel": "3h ago",
       "summary": "Just as oil prices on the futures market slip again on hopes for a quick end to the war in the Middle East, the head of the International Energy Agency issued a warning: prices are going to go higher ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -20,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Armenia-Courts-Global-Investors-for-US-Backed-Trade-Corridor.html",
       "date": "2026-04-14T18:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Anticipating that US attention could be focused on Iran and the Persian Gulf for a long time, Armenia is seeking to attract additional investors in TRIPP, the planned trade corridor that Yerevan fores",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Paper-Oil-Blinks-While-Physical-Supply-Tightens.html",
       "date": "2026-04-14T17:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "5h ago",
       "summary": "Extreme volatility in crude futures prices has eased in recent days, although the market reacted with an 8% jump early Monday to the news of failed U.S.-Iran talks and the beginning of a U.S. blockade",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Cuts-Scatec-Stake-as-Capital-Discipline-Trumps-Renewables-Expansion.html",
       "date": "2026-04-14T16:30:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "Equinor is dialling back its exposure to renewables, offloading a significant stake in Scatec ASA in a move that underscores a sharper focus on capital discipline and shareholder returns amid heighten",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/UK-Voters-Call-for-Lower-Taxes-and-Energy-Bills-as-Economic-Concerns-Grow.html",
       "date": "2026-04-14T16:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "6h ago",
       "summary": "British voters want Rachel Reeves to cut taxes and reduce energy costs in order to focus on growth, as a majority of people felt the UK economy was “poor”, new research has shown. Polling by Freshwate",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Sends-Chinese-EV-and-Battery-Exports-Soaring-in-Q1.html",
       "date": "2026-04-14T15:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "7h ago",
       "summary": "China saw its lithium battery exports jump by 50% in the first quarter from a year earlier as global demand for green technologies surged amid the worst disruption to oil and gas supply due to the war",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -75,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Pulls-Back-as-IEA-Cuts-Demand-Outlook.html",
       "date": "2026-04-14T15:15:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "7h ago",
       "summary": "Oil prices have dipped below $100 as weaker demand outlooks and a pause in U.S.–Iran tensions shift market focus to upcoming diplomatic talks and potential escalation risks. Calm Seas, High Stakes: Ho",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -86,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eni_announces_2_tcf_gas_find_offshore_egypt-14-apr-2026-183446-article/?rss=true",
       "date": "2026-04-14T14:36:50.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "7h ago",
       "summary": "Eni announced a 'significant' gas and condensate discovery offshore Egypt.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Philippines-Asks-Washington-to-Extend-Russian-Oil-Waiver.html",
       "date": "2026-04-14T14:30:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "8h ago",
       "summary": "The Philippines, one of Southeast Asia’s biggest economy which is grappling with an energy crisis due to the Middle East supply shock, has asked the United States to extend the one-month waiver on pur",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -108,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_weighs_pausing_hormuz_shipping-14-apr-2026-183444-article/?rss=true",
       "date": "2026-04-14T14:21:51.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "8h ago",
       "summary": "Oil futures dipped on the news.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-on-Edge-as-US-Blockade-Takes-Effect.html",
       "date": "2026-04-14T14:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "8h ago",
       "summary": "A US naval blockade on ships entering Iranian ports and coastal areas has come into effect, following failed peace talks between US and Iranian negotiators over the weekend. And it already poses a dil",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +207,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Showing-Signs-of-Capitulating-Over-Strait-Of-Hormuz.html",
       "date": "2026-04-14T13:43:04.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "8h ago",
       "summary": "Iran may halt its own oil shipments through the Strait of Hormuz for several days. Tehran is weighing a short-term pause to avoid testing the U.S. naval blockade just days before another round of ceas",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -141,21 +218,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/uniper_breaks_ground_for_50mw_battery_energy_storage_in_wilhelmshaven-14-apr-2026-183443-article/?rss=true",
       "date": "2026-04-14T13:34:50.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "8h ago",
       "summary": "Uniper and NGEN began construction for a 50-MW battery energy storage project on the site of Uniper's former coal power plant in Wilhelmshaven, Germany.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Nomura: Full U.S. Blockade Could Cut Off Another 2.3 Million Bpd Oil Supply",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Nomura-Full-US-Blockade-Could-Cut-Off-Another-23-Million-Bpd-Oil-Supply.html",
-      "date": "2026-04-14T13:30:00.000Z",
-      "dateLabel": "6h ago",
-      "summary": "Oil supply from the Middle East could drop by another 2.3 million barrels per day (bpd) if the U.S. were to completely block the Strait of Hormuz, according to bank Nomura. \"We estimate around 2.3mbpd",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "North America Loses Rigs For 7 Straight Weeks",
@@ -163,21 +229,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/north_america_loses_rigs_for_7_straight_weeks-14-apr-2026-183442-article/?rss=true",
       "date": "2026-04-14T12:35:32.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "9h ago",
       "summary": "North America dropped 10 rigs week on week, according to Baker Hughes' latest North America rotary rig count.",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "ANZ Raises Brent Forecast to $90 as Hormuz Blockade Removes 10 Million Bpd",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/ANZ-Raises-Brent-Forecast-to-90-as-Hormuz-Blockade-Removes-10-Million-Bpd.html",
-      "date": "2026-04-14T12:30:00.000Z",
-      "dateLabel": "7h ago",
-      "summary": "Brent crude prices will remain above $90 per barrel through the end of this year as the war continues to cut off supply from the Middle East, analysts at Australia-based bank ANZ said on Tuesday. The ",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Eni Completes Acea Acquisitions",
@@ -185,19 +240,8 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eni_completes_acea_acquisitions-14-apr-2026-183441-article/?rss=true",
       "date": "2026-04-14T11:56:10.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "10h ago",
       "summary": "The power and gas utility acquisitions add about 1.2 million customers to Eni's Plenitude.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "HSBC Sees A U.S.-Iran Deal As Key To Restoring Oil and Gas Flows",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/HSBC-Sees-A-US-Iran-Deal-As-Key-To-Restoring-Oil-and-Gas-Flows.html",
-      "date": "2026-04-14T11:30:00.000Z",
-      "dateLabel": "8h ago",
-      "summary": "A peace deal in the Middle East is key to restoring global energy flows, and the sooner it could be achieved, the less negative economic impact it would have on the global economy, according to HSBC g",
       "sentiment": "neutral",
       "dhrScore": 1
     },
@@ -207,21 +251,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/bp_acquires_its_first_operated_stakes_in_namibia-14-apr-2026-183440-article/?rss=true",
       "date": "2026-04-14T11:01:52.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "11h ago",
       "summary": "'Namibia is a region attracting growing industry interest and has a number of exciting frontier basins'.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "BP Flags Exceptional Oil Trading Profit as Middle East War Drives Q1 Volatility",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Flags-Exceptional-Oil-Trading-Profit-as-Middle-East-War-Drives-Q1-Volatility.html",
-      "date": "2026-04-14T10:30:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "BP expects to have booked an \"exceptional\" oil trading result for the first quarter of 2026, amid the extreme volatility in prices since the war in the Middle East began. The UK-based supermajor said ",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Strait of Hormuz Now Fully Closed",
@@ -229,7 +262,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/strait_of_hormuz_now_fully_closed-14-apr-2026-183439-article/?rss=true",
       "date": "2026-04-14T10:29:55.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "12h ago",
       "summary": "The Strait of Hormuz is now essentially fully closed, SEB Chief Commodities Analyst Bjarne Schieldrop said.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -240,21 +273,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eu_plans_temporary_market_measures_to_address_iran_war_impact-14-apr-2026-183438-article/?rss=true",
       "date": "2026-04-14T09:30:23.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "13h ago",
       "summary": "The European Commission is consulting member states on a draft proposal to relax state aid limits, aimed at protecting market competition, in response to spikes in energy prices brought about by the M",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Stockpiled Iranian Oil Cushions China From U.S. Blockade of Hormuz",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiled-Iranian-Oil-Cushions-China-From-US-Blockade-of-Hormuz.html",
-      "date": "2026-04-14T09:30:00.000Z",
-      "dateLabel": "10h ago",
-      "summary": "China’s teapots can rely on the highest volumes of Iranian crude sitting on tankers since January to blunt a potential supply crunch due to the U.S. blockade of the Strait of Hormuz, analysts say. Wee",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Iran, US Weigh Fresh Talks as Trump Blockade Underway",
@@ -262,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_us_weigh_fresh_talks_as_trump_blockade_underway-14-apr-2026-183437-article/?rss=true",
       "date": "2026-04-14T07:21:49.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "15h ago",
       "summary": "The U.S. and Iran are weighing further negotiations to extend a two-week ceasefire as President Donald Trump presses ahead with a naval blockade to curb the Islamic Republic's oil exports.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -273,7 +295,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_climbs_but_truce_hopes_cap_gains-13-apr-2026-183436-article/?rss=true",
       "date": "2026-04-13T20:09:53.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Analysts warn current prices understate the severity of supply disruptions and recovery timelines.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -363,28 +385,6 @@
       "date": "2026-04-12T11:00:00.000Z",
       "dateLabel": "Apr 12, 2026",
       "summary": "Europe faces a systemic jet-fuel shortage in three weeks' time if the Strait of Hormuz remains restricted until then, a regional airport trade association warned.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Oil Flows from Saudi Port Steady for Now despite Attack",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/wire/oil_flows_from_saudi_port_steady_for_now_despite_attack-11-apr-2026-183425-article/?rss=true",
-      "date": "2026-04-11T00:00:00.000Z",
-      "dateLabel": "Apr 11, 2026",
-      "summary": "Saudi Arabia's oil exports via the Red Sea are holding steady for now, as the impact of a drone attack on its vital cross-country pipeline has yet to filter through.",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Oil Settles Lower Ahead of Iran Talks",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/wire/oil_settles_lower_ahead_of_iran_talks-10-apr-2026-183428-article/?rss=true",
-      "date": "2026-04-10T20:04:14.000Z",
-      "dateLabel": "Apr 10, 2026",
-      "summary": "Crude markets remain volatile with supply risks and geopolitical tensions unresolved.",
       "sentiment": "neutral",
       "dhrScore": 1
     }
