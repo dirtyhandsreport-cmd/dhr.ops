@@ -1,15 +1,59 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-16T16:10:15.896Z",
+  "updated_at": "2026-04-16T19:52:08.833Z",
   "items": [
+    {
+      "title": "Norway Risks Leaving 700 million Barrels Behind as Time Runs Out",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Norway-Risks-Leaving-700-million-Barrels-Behind-as-Time-Runs-Out.html",
+      "date": "2026-04-16T19:00:00.000Z",
+      "dateLabel": "52m ago",
+      "summary": "Norway could unlock volumes comparable to the Johan Sverdrup field from its existing oil and gas assets—but only if it moves quickly. In a tightening global market, advanced recovery may represent one",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "US-Iran Talks to Span Past Summer As Oil Flows Remain Disrupted",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Talks-to-Span-Past-Summer-As-Oil-Flows-Remain-Disrupted.html",
+      "date": "2026-04-16T18:15:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "A U.S.-Iran peace deal is not weeks away. Officials in the Gulf region are bracing for a timeline closer to six months. The Strait of Hormuz remains effectively shut. Flows are nowhere near normal. Gu",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Wartime Surge in Iran-Tajikistan Trade Draws Scrutiny",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Wartime-Surge-in-Iran-Tajikistan-Trade-Draws-Scrutiny.html",
+      "date": "2026-04-16T18:00:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Bilateral trade between Iran and Tajikistan has skyrocketed during the first quarter of 2026, a timeframe coinciding with the start of the US/Israeli-Iran war. The jump in trade raises questions about",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Iraq’s Gas Capture Plan Signals a Strategic Shift",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Energy-General/Iraqs-Gas-Capture-Plan-Signals-a-Strategic-Shift.html",
+      "date": "2026-04-16T17:00:00.000Z",
+      "dateLabel": "2h ago",
+      "summary": "Iraq’s perennial unwillingness to reduce the vast amount of gas that it burns while drilling for oil (‘associated gas’) caused it three major problems over the years. To begin with, by failing to capt",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "U.K. Industry Chief Urges Approval of North Sea Oil Projects",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/UK-Industry-Chief-Urges-Approval-of-North-Sea-Oil-Projects.html",
       "date": "2026-04-16T16:00:00.000Z",
-      "dateLabel": "10m ago",
+      "dateLabel": "3h ago",
       "summary": "The boss of Britain’s largest industry body has called on the government to green-light extraction from two major North Sea oil fields and slash the windfall tax on domestic oil production in a bid to",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Suspends-Petrochemical-Exports-to-Avoid-Domestic-Shortages.html",
       "date": "2026-04-16T15:30:00.000Z",
-      "dateLabel": "40m ago",
+      "dateLabel": "4h ago",
       "summary": "Iran has suspended all its petrochemical exports to ensure domestic supply amid reduced local availability following Israeli strikes early this month. The Islamic Republic is halting all exports to pr",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/chevron_expands_heavy_oil_footprint_in_venezuela-16-apr-2026-183468-article/?rss=true",
       "date": "2026-04-16T15:14:51.000Z",
-      "dateLabel": "55m ago",
+      "dateLabel": "4h ago",
       "summary": "In an asset swap, PDVSA agreed to sell a 13.21 percent stake in the Petroindependencia JV to Chevron, whose ownership would increase to 49 percent.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Natural-Gas/Mexicos-Forced-Pivot-Away-from-US-Gas-Dependence.html",
       "date": "2026-04-16T15:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "4h ago",
       "summary": "Who could ever transform a climate activist into a shale gas champion? Apparently, Donald Trump. This is exactly what is happening to President Claudia Sheinbaum, who is finally coming to terms with h",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/usa_crude_oil_stocks_drop_almost_1mm_barrels_wow-16-apr-2026-183467-article/?rss=true",
       "date": "2026-04-16T14:48:07.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Crude oil stocks, not including the SPR, stood at 463.8 million barrels on April 10, the EIA's latest weekly petroleum status report showed.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-at-Domestic-Refinery-Worsens-Australias-Fuel-Supply-Crisis.html",
       "date": "2026-04-16T14:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Australia&#039;s fuel crisis in the wake of the Iran war just took a turn for the worse after a fire broke out at one of the only two refineries in the country. Viva Energy’s Corio oil refinery in Gee",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -75,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/bessent_says_usa_wont_renew_iranian_russian_oil_waivers-16-apr-2026-183465-article/?rss=true",
       "date": "2026-04-16T14:24:46.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "Treasury Secretary Scott Bessent reaffirmed that the U.S. would not renew general licenses that allowed for the temporary sale of certain Russian and Iranian crude.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/iberdrola_to_raise_italian_capacity_to_400mw_with_cce_acquisition-16-apr-2026-183464-article/?rss=true",
       "date": "2026-04-16T14:17:01.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "5h ago",
       "summary": "The Spanish company signed a deal to acquire a recently commissioned 42-MW solar plant in Lazio from Austria-headquartered CCE.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Iran-Is-Determined-to-Protect-Hezbollah-in-Any-Peace-Deal.html",
       "date": "2026-04-16T14:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "5h ago",
       "summary": "Just 48 hours after the United States and Israel launched a massive bombing campaign of Iran, Lebanese militant group Hezbollah entered the fray and backed its patron. Tehran&#039;s closest nonstate a",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -108,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Sees-Q1-Profit-Surge-on-High-Prices-Strong-Trading.html",
       "date": "2026-04-16T13:30:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "6h ago",
       "summary": "Higher oil and gas prices and volatile energy commodity markets are set to more than offset production losses from the Middle East at French supermajor TotalEnergies, which expects significantly highe",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -119,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Signals-Trading-Windfall-as-War-Driven-Volatility-Lifts-Results.html",
       "date": "2026-04-16T12:30:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "7h ago",
       "summary": "Equinor expects its first-quarter income in the trading and marketing division to exceed its $400-million guidance amid significant volatility as a result of the war in the Middle East.   Equinor has ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Snaps-Up-Spot-LNG-Cargoes-as-Asian-Prices-Slide.html",
       "date": "2026-04-16T11:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "8h ago",
       "summary": "India is back to buying spot LNG cargoes as benchmark Asian prices slumped to the lowest in a month amid demand destruction and hopes of a resolution of the Middle East conflict. Major LNG importers i",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -141,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/totalenergies_discovers_more_oil_offshore_congo_brazzaville-16-apr-2026-183463-article/?rss=true",
       "date": "2026-04-16T10:53:53.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "8h ago",
       "summary": "'The Moho G discovery, together with the discovery previously made on the nearby Moho F structure, represents recoverable resources estimated at close to 100 million barrels'.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -152,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/rystad_says_energy_repair_costs_from_war_could_hit_58b-16-apr-2026-183462-article/?rss=true",
       "date": "2026-04-16T10:42:35.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "9h ago",
       "summary": "'The scope of damage has expanded materially,' Rystad Energy warned.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -163,7 +207,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Linked-Tankers-Test-Limits-of-US-Hormuz-Blockade.html",
       "date": "2026-04-16T10:20:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "9h ago",
       "summary": "While Iran-linked vessels appear to steer clear of the U.S. blockade outside the Strait of Hormuz, several ships have undertaken lengthy and winding routes in recent hours to move from the UAE coast t",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +218,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/aussie_refinery_reduces_production_after_fire-16-apr-2026-183461-article/?rss=true",
       "date": "2026-04-16T09:59:03.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "9h ago",
       "summary": "Operator Viva expects the blaze at the Geelong refinery, which has a processing capacity of 120,000 bpd, to mainly reduce production for gasoline and aviation gasoline.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,7 +229,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/oil_prices_holding_firm-16-apr-2026-183460-article/?rss=true",
       "date": "2026-04-16T09:30:54.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "10h ago",
       "summary": "Oil prices are 'holding firm' today 'as the market digests a sharp pullback from war-driven panic levels', Naeem Aslam, Chief Investment Officer at Zaye Capital Markets, said.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -196,7 +240,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Cooking-Gas-Crisis-Could-Persist-for-Years.html",
       "date": "2026-04-16T09:20:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "10h ago",
       "summary": "The disrupted liquefied petroleum gas supply chains could take up to three to four years to recover, which would extend India’s LPG recovery from the current crisis, according to a government official",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -207,7 +251,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Buyers-Eye-Canadian-LNG-to-Diversify-Supply.html",
       "date": "2026-04-16T08:15:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "11h ago",
       "summary": "European energy companies are eyeing purchases of Canadian liquefied natural gas in search of supply diversification in challenging times, according to a Reuters report citing unnamed sources familiar",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -218,54 +262,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/pakistan_army_chief_in_tehran_to_push_renewed_talks-16-apr-2026-183459-article/?rss=true",
       "date": "2026-04-16T07:29:36.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "12h ago",
       "summary": "Pakistan's army chief landed in Tehran to a warm welcome from officials as he tries to help renew talks between the U.S. and Iran after the two sides failed to clinch a peace agreement in Islamabad.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "China’s Refinery Runs Slip as War Squeezes Crude Supply",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Refinery-Runs-Slip-as-War-Squeezes-Crude-Supply.html",
-      "date": "2026-04-16T07:10:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "Chinese refinery processed 2.2% less crude last month, at an average daily of 14.52 million barrels daily amid the war-related squeeze on oil supply. Fuel output was also down, with gasoline shedding ",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Repsol Returns to Venezuela With Ambitious Production Growth Plan",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Repsol-Returns-to-Venezuela-With-Ambitious-Production-Growth-Plan.html",
-      "date": "2026-04-16T06:00:00.000Z",
-      "dateLabel": "10h ago",
-      "summary": "Spain’s Repsol will return to Venezuela after it signed a new deal with the Venezuelan government, with plans to increase crude oil production in the country by 50% from current levels. Per media repo",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Oil Prices Steady as Traders Balance Diplomatic Progress With Physical Shortages",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Traders-Balance-Diplomatic-Progress-With-Physical-Shortages.html",
-      "date": "2026-04-16T02:30:00.000Z",
-      "dateLabel": "13h ago",
-      "summary": "Oil prices were flat in early Asian trade on Thursday as tentative signs of diplomatic progress between Washington and Tehran were offset by continued and intensifying supply tightness. At the time of",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "IMF Warns Of Potential Global Recession Amid High Oil Prices",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/IMF-Warns-Of-Potential-Global-Recession-Amid-High-Oil-Prices.html",
-      "date": "2026-04-16T00:00:00.000Z",
-      "dateLabel": "16h ago",
-      "summary": "The International Monetary Fund (IMF) has cut its economic outlook for the world economy and warned it could sink into a recession if the Iran war is not soon resolved. In its April 2026 World Economi",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Oil Stabilizes on Supply, Diplomacy Mix",
@@ -273,7 +273,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/oil_stabilizes_on_supply_diplomacy_mix-15-apr-2026-183458-article/?rss=true",
       "date": "2026-04-15T20:12:39.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "23h ago",
       "summary": "Oil prices held steady as US inventory draws offset ongoing geopolitical uncertainty in the Middle East.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -284,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/gas_spending_jumps_16_pct_for_bofa_customers_amid_iran_war-15-apr-2026-183456-article/?rss=true",
       "date": "2026-04-15T20:00:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "23h ago",
       "summary": "Bank of America Corp. saw its customers' spending on gas soar 16 percent in March.",
       "sentiment": "neutral",
       "dhrScore": 3
