@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-18T11:57:45.820Z",
+  "updated_at": "2026-04-18T14:11:10.802Z",
   "items": [
+    {
+      "title": "Magyar Says Druzhba Oil Flows Could Resume Next Week",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/wire/magyar_says_druzhba_oil_flows_could_resume_next_week-18-apr-2026-183477-article/?rss=true",
+      "date": "2026-04-18T12:00:01.000Z",
+      "dateLabel": "2h ago",
+      "summary": "The pipeline, which brings Russian oil via Ukraine to central Europe, has been inoperative since January.",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "Tankers U-Turn in Persian Gulf as Iran Closes Hormuz Again",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Tankers-U-Turn-in-Persian-Gulf-as-Iran-Closes-Hormuz-Again.html",
       "date": "2026-04-18T09:49:10.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "4h ago",
       "summary": "...and it&#039;s closed. Iran&#039;s Islamic Revolutionary Guard Corps declared Saturday that control of the strait has \"returned to its previous state,\" walking back a brief opening announced Friday ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/White-House-Wants-a-Nuclear-Reactor-Orbiting-the-Moon-by-2028.html",
       "date": "2026-04-17T22:00:00.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "16h ago",
       "summary": "The Trump administration has grand plans for “ENSURING AMERICAN SPACE SUPERIORITY.” When NASA sent humans to the moon for the first time this century earlier this month, the organization made it clear",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/energy_prices_sink_on_hormuz_news-17-apr-2026-183481-article/?rss=true",
       "date": "2026-04-17T20:37:23.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "17h ago",
       "summary": "Oil and gas prices plunged as Iran signaled a temporary reopening of the Strait of Hormuz, easing supply fears.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Worst-US-Drought-in-Decades-Puts-Spring-Crops-at-Risk.html",
       "date": "2026-04-17T20:00:00.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "18h ago",
       "summary": "A massive drought has emerged across large swaths of the US agricultural belt, threatening crops and livestock and eventually affecting food prices, at a time when fertilizer and diesel costs are soar",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/eaglerock_files_for_ipo-17-apr-2026-183479-article/?rss=true",
       "date": "2026-04-17T20:00:00.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "18h ago",
       "summary": "EagleRock Land LLC filed for an initial public offering.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tankers-Test-Hormuz-Reopening.html",
       "date": "2026-04-17T18:30:00.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "19h ago",
       "summary": "Oil tankers are beginning to test the waters at the Strait of Hormuz. At least eight crude carriers started advancing toward the chokepoint within hours of Iran declaring the Strait open to shipping u",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -75,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drilling-Activity-Slows44129.html",
       "date": "2026-04-17T18:20:56.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "19h ago",
       "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 543",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -86,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/Asia/The-Overlooked-War-China-Is-Desperate-to-Contain.html",
       "date": "2026-04-17T18:00:00.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "20h ago",
       "summary": "As US President Donald Trump says the war in Iran could be over \"very soon\" and Pakistani mediators in Tehran prepare to meet with officials, another nearby conflict has been drawing Beijing&#039;s at",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -97,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Spain-Probes-Europes-Worst-Blackout-Over-Power-Rule-Breaches.html",
       "date": "2026-04-17T16:30:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "The Spanish market and competition regulator on Friday opened probes into potential breaches of power sector rules as part of a wider investigation into last year&#039;s blackout in the country. Spain",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -108,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/World-Bank-and-IMF-See-Economic-Slowdown-Across-Central-Asia-and-the-Caucasus.html",
       "date": "2026-04-17T16:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "22h ago",
       "summary": "The World Bank and International Monetary Fund are predicting growth rates to slow in the coming years across Central Asia and the Caucasus. Azerbaijan is projected to be the lone state in the two reg",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -119,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Power-Demand-Growth-Slowed-to-Six-Year-Low-in-FY-2025-26.html",
       "date": "2026-04-17T15:30:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "22h ago",
       "summary": "A milder 2025 summer and heavy rainfalls in the monsoon season later dragged down the growth in India&#039;s electricity consumption in the fiscal year ended March 2026 to the lowest level in six year",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Slides-but-the-Real-Test-Comes-This-Weekend.html",
       "date": "2026-04-17T15:23:58.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "22h ago",
       "summary": "Oil markets are hanging on U.S.–Iran talks as hopes for reopening the Strait of Hormuz push prices lower—but failure could trigger shortages and a new price spike. Friday, April 17, 2026 Oil markets a",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -141,7 +152,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Labor-Dispute-in-Australia-Could-Further-Hinder-Global-LNG-Supply.html",
       "date": "2026-04-17T14:30:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "A labor dispute could soon lead to industrial action at the Ichthys LNG plant offshore Western Australia, potentially further crippling global LNG supply at a time when 20% is already offline due to t",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -152,7 +163,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Diesel-Prices-Surge-Faster-Than-Gasoline-in-Every-Energy-Crisis.html",
       "date": "2026-04-17T14:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "Yesterday",
       "summary": "When a geopolitical shock hits energy markets, the same pattern plays out: diesel prices spike fast, while gasoline lags behind. According to data from the Energy Information Administration, since the",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -163,7 +174,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eia_raises_usa_fuel_price_projections_for_2026_2027-17-apr-2026-183480-article/?rss=true",
       "date": "2026-04-17T13:59:30.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "Yesterday",
       "summary": "'Higher crude oil prices are leading to higher prices at the pump for gasoline and diesel', the EIA said.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -174,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-10-as-Trump-Announces-Strait-of-Hormuz-is-Fully-Open.html",
       "date": "2026-04-17T13:25:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "Iran&#039;s Foreign Minister Abbas Araghchi announced Friday that the Strait of Hormuz is \"completely open\" to commercial shipping for the remainder of the US-Iran ceasefire, a declaration that drew a",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,7 +196,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_says_hormuz_strait_now_completely_open-17-apr-2026-183476-article/?rss=true",
       "date": "2026-04-17T13:23:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "Yesterday",
       "summary": "Iran announced that the Strait of Hormuz is now 'completely open' for commercial traffic.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,7 +207,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pays-in-Yuan-for-Iranian-Oil-Purchases-Under-US-Waiver.html",
       "date": "2026-04-17T12:30:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Indian refiners that have bought Iranian crude under the one-month U.S. waiver on Iran&#039;s oil on tankers are settling the purchases in Chinese yuan via the Shanghai office of India&#039;s ICICI Ba",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -376,17 +387,6 @@
       "summary": "Operator Viva expects the blaze at the Geelong refinery, which has a processing capacity of 120,000 bpd, to mainly reduce production for gasoline and aviation gasoline.",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Oil Prices Holding Firm",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/oil_prices_holding_firm-16-apr-2026-183460-article/?rss=true",
-      "date": "2026-04-16T09:30:54.000Z",
-      "dateLabel": "Apr 16, 2026",
-      "summary": "Oil prices are 'holding firm' today 'as the market digests a sharp pullback from war-driven panic levels', Naeem Aslam, Chief Investment Officer at Zaye Capital Markets, said.",
-      "sentiment": "neutral",
-      "dhrScore": 2
     }
   ]
 }
