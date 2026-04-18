@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 35,
-  "updated_at": "2026-04-18T15:59:09.838Z",
+  "updated_at": "2026-04-18T17:55:03.897Z",
   "items": [
+    {
+      "title": "Inside the Race to Control the World’s Lithium Supply",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Metals/Commodities/Inside-the-Race-to-Control-the-Worlds-Lithium-Supply.html",
+      "date": "2026-04-18T17:00:00.000Z",
+      "dateLabel": "55m ago",
+      "summary": "The world is ramping up its lithium production in a bid to meet the growing global demand for critical minerals, being driven by renewable energy deployment and the higher uptake of electric vehicles ",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "Strait of Hormuz Faces Full Shutdown as Iran Escalates Standoff",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Faces-Full-Shutdown-as-Iran-Escalates-Standoff.html",
       "date": "2026-04-18T14:54:18.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "3h ago",
       "summary": "The Strait of Hormuz is once again at the center of escalating geopolitical tensions, with Iran moving to restrict vessel traffic amid an ongoing U.S. naval blockade. According to multiple reports, Ir",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +31,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/magyar_says_druzhba_oil_flows_could_resume_next_week-18-apr-2026-183477-article/?rss=true",
       "date": "2026-04-18T12:00:01.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "5h ago",
       "summary": "The pipeline, which brings Russian oil via Ukraine to central Europe, has been inoperative since January.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Tankers-U-Turn-in-Persian-Gulf-as-Iran-Closes-Hormuz-Again.html",
       "date": "2026-04-18T09:49:10.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "8h ago",
       "summary": "...and it&#039;s closed. Iran&#039;s Islamic Revolutionary Guard Corps declared Saturday that control of the strait has \"returned to its previous state,\" walking back a brief opening announced Friday ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/White-House-Wants-a-Nuclear-Reactor-Orbiting-the-Moon-by-2028.html",
       "date": "2026-04-17T22:00:00.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "19h ago",
       "summary": "The Trump administration has grand plans for “ENSURING AMERICAN SPACE SUPERIORITY.” When NASA sent humans to the moon for the first time this century earlier this month, the organization made it clear",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +64,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/energy_prices_sink_on_hormuz_news-17-apr-2026-183481-article/?rss=true",
       "date": "2026-04-17T20:37:23.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "Oil and gas prices plunged as Iran signaled a temporary reopening of the Strait of Hormuz, easing supply fears.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -64,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Worst-US-Drought-in-Decades-Puts-Spring-Crops-at-Risk.html",
       "date": "2026-04-17T20:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "A massive drought has emerged across large swaths of the US agricultural belt, threatening crops and livestock and eventually affecting food prices, at a time when fertilizer and diesel costs are soar",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +86,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/eaglerock_files_for_ipo-17-apr-2026-183479-article/?rss=true",
       "date": "2026-04-17T20:00:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "21h ago",
       "summary": "EagleRock Land LLC filed for an initial public offering.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tankers-Test-Hormuz-Reopening.html",
       "date": "2026-04-17T18:30:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "Oil tankers are beginning to test the waters at the Strait of Hormuz. At least eight crude carriers started advancing toward the chokepoint within hours of Iran declaring the Strait open to shipping u",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -97,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drilling-Activity-Slows44129.html",
       "date": "2026-04-17T18:20:56.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 543",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -108,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/Asia/The-Overlooked-War-China-Is-Desperate-to-Contain.html",
       "date": "2026-04-17T18:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "23h ago",
       "summary": "As US President Donald Trump says the war in Iran could be over \"very soon\" and Pakistani mediators in Tehran prepare to meet with officials, another nearby conflict has been drawing Beijing&#039;s at",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -119,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Spain-Probes-Europes-Worst-Blackout-Over-Power-Rule-Breaches.html",
       "date": "2026-04-17T16:30:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "The Spanish market and competition regulator on Friday opened probes into potential breaches of power sector rules as part of a wider investigation into last year&#039;s blackout in the country. Spain",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -130,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/World-Bank-and-IMF-See-Economic-Slowdown-Across-Central-Asia-and-the-Caucasus.html",
       "date": "2026-04-17T16:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "The World Bank and International Monetary Fund are predicting growth rates to slow in the coming years across Central Asia and the Caucasus. Azerbaijan is projected to be the lone state in the two reg",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -211,17 +222,6 @@
       "summary": "Iran announced that the Strait of Hormuz is now 'completely open' for commercial traffic.",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "India Pays in Yuan for Iranian Oil Purchases Under U.S. Waiver",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pays-in-Yuan-for-Iranian-Oil-Purchases-Under-US-Waiver.html",
-      "date": "2026-04-17T12:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Indian refiners that have bought Iranian crude under the one-month U.S. waiver on Iran&#039;s oil on tankers are settling the purchases in Chinese yuan via the Shanghai office of India&#039;s ICICI Ba",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Calcasieu Pass LNG Secures $1.75B Loan",
