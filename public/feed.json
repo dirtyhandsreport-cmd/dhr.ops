@@ -1,15 +1,26 @@
 {
   "ok": true,
   "count": 1149,
-  "updated_at": "2026-04-18T23:43:50.957Z",
+  "updated_at": "2026-04-18T23:53:25.781Z",
   "items": [
+    {
+      "title": "Ford CEO Draws Line In Sand: Keep Chinese EVs Out Of US – 'Should Not Let Them Into Our Country'",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ford-ceo-draws-line-sand-233123109.html",
+      "date": "2026-04-18T23:31:23.000Z",
+      "dateLabel": "22m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
     {
       "title": "Everyone's Talking About the SpaceX IPO. Why I Think You Should Avoid It, and What to Buy Instead.",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/everyones-talking-spacex-ipo-why-230500416.html",
       "date": "2026-04-18T23:05:00.000Z",
-      "dateLabel": "38m ago",
+      "dateLabel": "48m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +31,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/trump-linked-crypto-venture-faces-230114470.html",
       "date": "2026-04-18T23:01:14.000Z",
-      "dateLabel": "42m ago",
+      "dateLabel": "52m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +42,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Trading-Desks-Boom-While-Big-Oil-Output-Stalls.html",
       "date": "2026-04-18T23:00:00.000Z",
-      "dateLabel": "43m ago",
+      "dateLabel": "53m ago",
       "summary": "Europe’s supermajors are set to report a strong quarter later this month and in early May thanks to their trading divisions. While Big Oil does not report trading profits, BP, Shell, TotalEnergies, an",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +53,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-resets-nikes-stock-230000958.html",
       "date": "2026-04-18T23:00:00.000Z",
-      "dateLabel": "43m ago",
+      "dateLabel": "53m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +64,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-ai-stock-could-225400785.html",
       "date": "2026-04-18T22:54:00.000Z",
-      "dateLabel": "49m ago",
+      "dateLabel": "59m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +75,7 @@
       "category": "PRICES",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-strait-of-hormuz-tesla-earnings/?src=A00220&yptr=yahoo",
       "date": "2026-04-18T22:53:15.000Z",
-      "dateLabel": "50m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -125,23 +136,12 @@
       "dhrScore": 1
     },
     {
-      "title": "Better Insurance Stock: Lemonade vs. Progressive",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-insurance-stock-lemonade-vs-220500185.html",
-      "date": "2026-04-18T22:05:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
       "title": "Tesla Robotaxi Service Expands To Dallas And Houston",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
       "url": "https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo",
       "date": "2026-04-18T21:50:34.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -438,7 +438,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/truist-sees-strong-growth-ahead-185213393.html",
       "date": "2026-04-18T18:52:13.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -449,7 +449,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-cuts-servicenow-now-price-185055641.html",
       "date": "2026-04-18T18:50:55.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -460,7 +460,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-evercore-stay-positive-danaher-185018221.html",
       "date": "2026-04-18T18:50:18.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -471,7 +471,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/visa-v-launches-validator-node-184939595.html",
       "date": "2026-04-18T18:49:39.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -482,7 +482,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ranks-among-unrivaled-184858144.html",
       "date": "2026-04-18T18:48:58.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -493,7 +493,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-raises-tsmc-price-target-184809413.html",
       "date": "2026-04-18T18:48:09.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -504,7 +504,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/meta-platforms-meta-expands-ai-184721791.html",
       "date": "2026-04-18T18:47:21.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -526,7 +526,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/bismarck-crews-respond-to-an-apartment-fire-on-bozeman-drive/",
       "date": "2026-04-18T17:47:17.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "BISMARCK, ND (KXNET) — Crews respond to an apartment fire in south Bismarck. According to the Bismarck Fire Department, at 1:18 AM on Saturday, April 18th, the Bismarck Fire Department received a call",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -570,7 +570,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Tankers-U-Turn-in-Persian-Gulf-as-Iran-Closes-Hormuz-Again.html",
       "date": "2026-04-18T09:49:10.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "14h ago",
       "summary": "...and it&#039;s closed. Iran&#039;s Islamic Revolutionary Guard Corps declared Saturday that control of the strait has \"returned to its previous state,\" walking back a brief opening announced Friday ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -614,7 +614,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/civil-air-patrol-cadet-challenge/",
       "date": "2026-04-18T00:45:45.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "The Civil Air Patrol Magic City Composite Squadron is partnering with Wreaths Across America on a new youth initiative.",
       "sentiment": "neutral",
       "dhrScore": 1
