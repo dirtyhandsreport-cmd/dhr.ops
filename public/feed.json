@@ -1,16 +1,236 @@
 {
   "ok": true,
   "count": 166,
-  "updated_at": "2026-04-24T17:11:50.048Z",
+  "updated_at": "2026-04-24T17:58:34.914Z",
   "items": [
+    {
+      "title": "Breakout Watch: CashAI Fuels Big Demand For This Feisty Fintech",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/research/ibd-stock-analysis/dave-stock-cashai-davegpt-bankroll-fintech-growth/?src=A00220&yptr=yahoo",
+      "date": "2026-04-24T17:48:25.000Z",
+      "dateLabel": "10m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Amazon and Anthropic Struck a New $5 Billion Deal, but Which Company Gains the Most from Their Partnership?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-anthropic-struck-5-billion-174200222.html",
+      "date": "2026-04-24T17:42:00.000Z",
+      "dateLabel": "16m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Covenant sees tightening capacity, rate momentum building in 2026",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/policy/articles/covenant-sees-tightening-capacity-rate-174116314.html",
+      "date": "2026-04-24T17:41:16.000Z",
+      "dateLabel": "17m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Bismarck PD reporting scam involving fake court document",
+      "source": "KX News",
+      "category": "LOCAL_ND",
+      "url": "https://www.kxnet.com/north-dakota-news/fake-court-document-scam/",
+      "date": "2026-04-24T17:35:58.000Z",
+      "dateLabel": "22m ago",
+      "summary": "The Bismarck Police Department is reporting a new scam involving an official-looking document claiming the recipient has an outstanding traffic violation.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Nvidia stock on track for record close, pushing market cap over $5 trillion once again",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-stock-on-track-for-record-close-pushing-market-cap-over-5-trillion-once-again-173529425.html",
+      "date": "2026-04-24T17:35:29.000Z",
+      "dateLabel": "23m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "UBS has strong cloud growth expectations ahead of hyperscaler earnings",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/ubs-strong-cloud-growth-expectations-173500164.html",
+      "date": "2026-04-24T17:35:00.000Z",
+      "dateLabel": "23m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Pinnacle Silver and Gold gains Buy rating as Couloir sees cash flow upside at El Potrero",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/pinnacle-silver-gold-gains-buy-173400499.html",
+      "date": "2026-04-24T17:34:00.000Z",
+      "dateLabel": "24m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Fidelity sends blunt message on S&P 500 after sudden rebound",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-sends-blunt-message-p-173300294.html",
+      "date": "2026-04-24T17:33:00.000Z",
+      "dateLabel": "25m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Microsoft Reportedly Eyed Cursor Before SpaceX's $60 Billion Deal— But Chose Not To Proceed",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-reportedly-eyed-cursor-spacexs-173104444.html",
+      "date": "2026-04-24T17:31:04.000Z",
+      "dateLabel": "27m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "The Average Household Is a Millionaire With a $1.3M Net Worth — But Why Do People Still Feel So Broke?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/articles/average-household-millionaire-1-3m-173103947.html",
+      "date": "2026-04-24T17:31:03.000Z",
+      "dateLabel": "27m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Baker Hughes Q1 Revenue Beats Estimates by $260 Million as LNG Orders Surge",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Baker-Hughes-Q1-Revenue-Beats-Estimates-by-260-Million-as-LNG-Orders-Surge.html",
+      "date": "2026-04-24T17:30:00.000Z",
+      "dateLabel": "28m ago",
+      "summary": "Giant oilfield services company, Baker Hughes (NYSE:BKR), has reported robust first quarter results, with Q1 2026 revenue of $6.59B (+2.5% Y/Y) beating by $260 million; Q1 non-GAAP EPS of $0.58 beat b",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Teck Resources, IBD Stock Of The Day, Flirts With Buy Point At Highs",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/copper-stock-buy-point-teck-resources-flirts-with-breakout/?src=A00220&yptr=yahoo",
+      "date": "2026-04-24T17:28:35.000Z",
+      "dateLabel": "29m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "First Western (MYFW) Q1 2026 Earnings Transcript",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/first-western-myfw-q1-2026-172812610.html",
+      "date": "2026-04-24T17:28:12.000Z",
+      "dateLabel": "30m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "DVYE’s 5.1% Yield Hides a Commodity Bet, Here’s What Retirees Should Know",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/dvye-5-1-yield-hides-172701177.html",
+      "date": "2026-04-24T17:27:01.000Z",
+      "dateLabel": "31m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "President takes victory pose as US stocks soar to fresh all-time highs amid war, oil shocks, inflation: ‘Trust in Trump’",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/president-takes-victory-pose-us-172500383.html",
+      "date": "2026-04-24T17:25:00.000Z",
+      "dateLabel": "33m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "This AI Stock Rallies 65%, Soars Past Entry As Data Center Spending Surges",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-sterling-infrastructure-strl-rallies-data-center-spending/?src=A00220&yptr=yahoo",
+      "date": "2026-04-24T17:12:05.000Z",
+      "dateLabel": "46m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "US Oil Drillers Scale Back as Global Supply Crunch Continues",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Scale-Back-as-Global-Supply-Crunch-Continues.html",
       "date": "2026-04-24T17:11:28.000Z",
-      "dateLabel": "0m ago",
+      "dateLabel": "46m ago",
       "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 544",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Stock Market Today: Nasdaq, S&P 500 Rise As Intel Surges; Nvidia Soars (Live Coverage)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-intel-stock-intc-earnings-amd-arm/?src=A00220&yptr=yahoo",
+      "date": "2026-04-24T17:01:08.000Z",
+      "dateLabel": "57m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Google's AI Reckoning: Can Gemini Turn Dominance Into Dollars?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-models-gemini/?src=A00220&yptr=yahoo",
+      "date": "2026-04-24T16:57:18.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "The Western Union Company Q1 2026 Earnings Call Summary",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-company-q1-2026-165154928.html",
+      "date": "2026-04-24T16:51:54.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Sensient Technologies Corporation Q1 2026 Earnings Call Summary",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sensient-technologies-corporation-q1-2026-165114360.html",
+      "date": "2026-04-24T16:51:14.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
     },
@@ -20,10 +240,21 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-corporation-orcl-safe-stock-165110463.html",
       "date": "2026-04-24T16:51:10.000Z",
-      "dateLabel": "20m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
+    },
+    {
+      "title": "SLB N.V. Q1 2026 Earnings Call Summary",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/slb-n-v-q1-2026-165022096.html",
+      "date": "2026-04-24T16:50:22.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
     },
     {
       "title": "Johnson & Johnson (JNJ): Growth Engine at a Value Price",
@@ -31,7 +262,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-growth-engine-165009677.html",
       "date": "2026-04-24T16:50:09.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -42,7 +273,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rithm-property-trust-inc-q1-165009581.html",
       "date": "2026-04-24T16:50:09.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -53,7 +284,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-company-q3-2026-165006747.html",
       "date": "2026-04-24T16:50:06.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -64,7 +295,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-corporation-q1-2026-164948183.html",
       "date": "2026-04-24T16:49:48.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +306,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-inc-q1-2026-164933509.html",
       "date": "2026-04-24T16:49:33.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -86,7 +317,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/just-crazy-buffett-warns-those-164900922.html",
       "date": "2026-04-24T16:49:00.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,7 +328,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-bill-ackman-164859371.html",
       "date": "2026-04-24T16:48:59.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,29 +339,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gentex-corporation-q1-2026-earnings-164850923.html",
       "date": "2026-04-24T16:48:50.000Z",
-      "dateLabel": "22m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Gentex (GNTX) Q1 2026 Earnings Call Transcript",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gentex-gntx-q1-2026-earnings-164801065.html",
-      "date": "2026-04-24T16:48:01.000Z",
-      "dateLabel": "23m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "UVE Q1 2026 Earnings Transcript",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uve-q1-2026-earnings-transcript-164750458.html",
-      "date": "2026-04-24T16:47:50.000Z",
-      "dateLabel": "23m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -141,7 +350,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apogee-enterprises-inc-q4-2026-164722426.html",
       "date": "2026-04-24T16:47:22.000Z",
-      "dateLabel": "24m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -152,7 +361,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/healthcare/articles/hca-healthcare-inc-q1-2026-164656602.html",
       "date": "2026-04-24T16:46:56.000Z",
-      "dateLabel": "24m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -163,7 +372,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sify-technologies-sify-releases-consolidated-164653857.html",
       "date": "2026-04-24T16:46:53.000Z",
-      "dateLabel": "24m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +383,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/flagstar-financial-inc-q1-2026-164632279.html",
       "date": "2026-04-24T16:46:32.000Z",
-      "dateLabel": "25m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -185,18 +394,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/yatra-online-ytra-announces-results-164604740.html",
       "date": "2026-04-24T16:46:04.000Z",
-      "dateLabel": "25m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Michael Burry Just Went Long on Microsoft. Is the Market Missing Something Big?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-went-long-164559659.html",
-      "date": "2026-04-24T16:45:59.000Z",
-      "dateLabel": "25m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -207,7 +405,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/healthcare/articles/dr-reddy-laboratories-rdy-announces-164503573.html",
       "date": "2026-04-24T16:45:03.000Z",
-      "dateLabel": "26m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -218,43 +416,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wipro-wit-expects-weak-q1-164411107.html",
       "date": "2026-04-24T16:44:11.000Z",
-      "dateLabel": "27m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "First Financial (FFBC) Q1 2026 Earnings Transcript",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-financial-ffbc-q1-2026-164333904.html",
-      "date": "2026-04-24T16:43:33.000Z",
-      "dateLabel": "28m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "2 ‘AI Bottleneck Stocks’ That Could Continue Their Heroic Run For Investors – AAOI + MU",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/2-ai-bottleneck-stocks-could-164317367.html",
-      "date": "2026-04-24T16:43:17.000Z",
-      "dateLabel": "28m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Alpine (PINE) Q1 2026 Earnings Transcript",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alpine-pine-q1-2026-earnings-164316374.html",
-      "date": "2026-04-24T16:43:16.000Z",
-      "dateLabel": "28m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "MakeMyTrip (MMYT) Releases an Update on Strategic Priorities",
@@ -262,7 +427,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/makemytrip-mmyt-releases-strategic-priorities-164308418.html",
       "date": "2026-04-24T16:43:08.000Z",
-      "dateLabel": "28m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -273,18 +438,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/energy/articles/renew-energy-global-rnw-announces-164223034.html",
       "date": "2026-04-24T16:42:23.000Z",
-      "dateLabel": "29m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Why Nvidia Stock Popped Today",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-stock-popped-today-164151196.html",
-      "date": "2026-04-24T16:41:51.000Z",
-      "dateLabel": "29m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -295,153 +449,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hdfc-bank-hdb-one-best-164133221.html",
       "date": "2026-04-24T16:41:33.000Z",
-      "dateLabel": "30m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "ICICI Bank (IBN): Best Indian Stock to Buy According to Hedge Funds",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/icici-bank-ibn-best-indian-164044228.html",
-      "date": "2026-04-24T16:40:44.000Z",
-      "dateLabel": "30m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Advanced Micro Devices (AMD): The Best Fast Growth Stock to Invest In Now",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-best-164035056.html",
-      "date": "2026-04-24T16:40:35.000Z",
-      "dateLabel": "31m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Cantor Fitzgerald Raises its Price Target on NETSTREIT (NTST) to $24",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-price-target-164007392.html",
-      "date": "2026-04-24T16:40:07.000Z",
-      "dateLabel": "31m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Here Is Why Infosys (INFY) Is Among the Best Indian Stocks to Buy According to Hedge Funds",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-infosys-infy-among-best-163948577.html",
-      "date": "2026-04-24T16:39:48.000Z",
-      "dateLabel": "31m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Barclays Raises its Price Target on Jazz Pharmaceuticals (JAZZ) to $225",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/barclays-raises-price-target-jazz-163942808.html",
-      "date": "2026-04-24T16:39:42.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Estée Lauder (EL) Seeks €5B Financing for Puig Bid",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/est-e-lauder-el-seeks-163930568.html",
-      "date": "2026-04-24T16:39:30.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "BTIG Maintains Buy Rating on CoStar Group (CSGP)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/btig-maintains-buy-rating-costar-163918417.html",
-      "date": "2026-04-24T16:39:18.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Here is why Marvell (MRVL) is Among the 10 Best Fast Growth Stocks to Invest In Now",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-mrvl-among-10-163909414.html",
-      "date": "2026-04-24T16:39:09.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Guggenheim Raises its Price Target on Roku (ROKU) to $130 from $115",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/guggenheim-raises-price-target-roku-163856247.html",
-      "date": "2026-04-24T16:38:56.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Teradyne (TER) Wins Injunction in Robotics Copyright Case",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-wins-injunction-robotics-163843400.html",
-      "date": "2026-04-24T16:38:43.000Z",
-      "dateLabel": "33m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Barclays Raises its Price Target on Western Digital (WDC) to $405",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-western-163803561.html",
-      "date": "2026-04-24T16:38:03.000Z",
-      "dateLabel": "33m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Land & Buildings Criticizes Welltower (WELL) Executive Pay Plan in White Paper",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/land-buildings-criticizes-welltower-well-163753995.html",
-      "date": "2026-04-24T16:37:53.000Z",
-      "dateLabel": "33m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "This Is How The Sherwin-Williams Company (SHW) Is Positioned for Breakout Growth",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sherwin-williams-company-shw-positioned-163605957.html",
-      "date": "2026-04-24T16:36:05.000Z",
-      "dateLabel": "35m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Eni Misses Q1 Earnings But Lifts Buyback To €2.8 Billion",
@@ -449,7 +460,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Eni-Misses-Q1-Earnings-But-Lifts-Buyback-To-28-Billion.html",
       "date": "2026-04-24T16:30:00.000Z",
-      "dateLabel": "41m ago",
+      "dateLabel": "1h ago",
       "summary": "Italian energy major Eni reported first quarter adjusted net profit of €1.3 billion, below analyst expectations, as refining and chemicals weakness and heavy downstream maintenance weighed on results ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -460,7 +471,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/midday-futures-may-natural-gas-retreats-as-stout-storage-overshadows-looming-cold-snap/",
       "date": "2026-04-24T16:14:17.000Z",
-      "dateLabel": "57m ago",
+      "dateLabel": "1h ago",
       "summary": "U.S. natural gas futures fell Friday morning, as a record-breaking weekly storage build and a slightly warmer shift in the medium-term weather outlook combined to erase gains earlier in the week.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -493,7 +504,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Canada-Approves-Enbridges-4-Billion-Sunrise-Gas-Expansion.html",
       "date": "2026-04-24T15:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "Canada has approved Enbridge&#039;s C$4 billion Sunrise Expansion, clearing the way for a major buildout of British Columbia gas infrastructure that will add 300 million cubic feet per day of capacity",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -504,7 +515,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Brent-Holds-at-105-as-Iran-Talks-Temper-Rally.html",
       "date": "2026-04-24T15:27:10.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "Oil prices are heading for a sharp weekly gain, with Brent steady at $105, but renewed hopes for U.S.-Iran diplomacy are capping further upside and keeping markets below the $110 threshold. Friday, Ap",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -515,7 +526,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/durango-drive-in-bismarck-set-to-close-for-repairs/",
       "date": "2026-04-24T15:12:09.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "BISMARCK, ND (KXNET) — Bismarck officials announce a closure of a portion of Durango Drive. According to officials Durango Drive will be closed at the intersection of Driftwood Lane starting Monday, A",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -526,7 +537,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/natural-gas-forwards-rise-on-western-strength-despite-permian-rout/",
       "date": "2026-04-24T14:54:37.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "North American gas markets sent mixed signals during the April 15–22 trading period, as uneven regional movements in the West and a shift in winter pricing hinted at changing market sentiment.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -537,7 +548,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/sonat-ofo-signals-bearish-setup-for-gulf-coast-natural-gas-traders-but-demand-surge-looms/",
       "date": "2026-04-24T14:52:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "NGI’s Southern Natural price dropped 12.0 cents day/day to $2.585/MMBtu, part of a widespread decline seen across South Louisiana, and North America for that matter, as ...",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -548,7 +559,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/midmorning-markets-south-central-storage-surplus-emerges-adding-waha-price-pressure/",
       "date": "2026-04-24T14:49:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "Natural gas storage in the South Central region underwent a dramatic shift over the past two months, switching from a steep deficit to historical norms to a surplus at mid-April. Strong production, ex",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -559,7 +570,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/white_house_extends_shipping_waiver_to_august-24-apr-2026-183535-article/?rss=true",
       "date": "2026-04-24T14:37:36.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "President Donald Trump's administration has given a 90-day extension to a shipping waiver making it easier to move oil, fuel and fertilizer around the United States.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -570,7 +581,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/JPMorgan-Says-Oil-Prices-Still-Have-Further-to-Rise.html",
       "date": "2026-04-24T14:30:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "JPMorgan says oil prices still have further to rise because the market has not yet forced enough demand out of the system to offset the supply loss from the Iran war. Global oil supply disruptions rea",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -581,7 +592,7 @@
       "category": "GENERAL",
       "url": "https://drillingcontractor.org/enermech-wins-multi-year-topside-services-contract-in-ukcs-78057",
       "date": "2026-04-24T14:24:49.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "EnerMech secured a multi-year contract with an undisclosed UK Continental Shelf operator to deliver integrated topside process services across a portfolio of offshore assets. Under the contract, EnerM",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -592,7 +603,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/q1_dallas_fed_energy_survey_gets_update-24-apr-2026-183534-article/?rss=true",
       "date": "2026-04-24T14:22:15.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "The first quarter Dallas Fed Energy Survey has received an update 'in response to recent developments in the global oil market', a statement sent to Rigzone revealed.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -636,7 +647,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/north-dakota-news/minot-allocates-funds-for-low-income-residents/",
       "date": "2026-04-24T13:56:53.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "MINOT, ND (KXNET) — The City of Minot announces a new funding opportunity to support projects aimed at improving housing, for primarily low-and moderate-income individuals by issuing new awards. The C",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -647,7 +658,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Shipping-Waiver-Through-August.html",
       "date": "2026-04-24T13:27:04.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "The White House extended its Jones Act waiver by 90 days, keeping foreign-flagged tankers eligible to move crude, fuels and fertilizer between U.S. ports through mid-August. The waiver was on track to",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -669,7 +680,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/storage-critical-as-waha-buckles-under-permian-natural-gas-glut-kmi-says/",
       "date": "2026-04-24T12:53:21.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Emerging storage constraints and pipeline bottlenecks in West Texas are amplifying regional price dislocations, with executives at Kinder Morgan Inc. (KMI) warning that limited spare capacity could hi",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -680,7 +691,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/market-open-stout-storage-looms-over-natural-gas-futures/",
       "date": "2026-04-24T12:35:01.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Natural gas futures fell further early Friday as hefty supply weighed down the market.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -691,7 +702,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Why-the-US-Naval-Blockade-Has-Not-Broken-Iran.html",
       "date": "2026-04-24T12:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Politics, Geopolitics & Conflict The U.S. naval blockade is clearly hurting Iran, but it has not forced Tehran to bend. Iranian oil exports have fallen sharply, vessel traffic is down, ships have been",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -702,7 +713,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Geopolitics/Middle-East/Inside-Irans-Fragmented-Power-Structure.html",
       "date": "2026-04-24T12:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "The most powerful leaders inside Iran today arose from the ashes of the Iran-Iraq War, which locked in and solidified the Islamic Republic, whose leadership was built through war, security structures,",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -713,7 +724,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Reprice-Risk-as-Geopolitics-Overtake-Fundamentals.html",
       "date": "2026-04-24T12:30:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Oil markets didn’t just rally this week; they repriced risk in a way that forced traders to adjust positioning quickly. What began as a recovery from prior weakness turned into a sharp geopolitical pr",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -724,7 +735,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/weather/friday-morning-temperature-touch-with-meteorologist-andre-brooks-4/",
       "date": "2026-04-24T12:20:37.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "BISMARCK, ND (KXNET) — Here is your Friday Morning Temperature Touch with Meteorologist Andre Brooks. Stay with KX News as we keep you updated on what to expect with your weekend ahead.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -735,7 +746,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/ercot_sees_demand_more_than_quadrupling_current_peak-24-apr-2026-183532-article/?rss=true",
       "date": "2026-04-24T11:25:32.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "'The current forecast projects approximately 367,790 megawatts of demand in the ERCOT Region by 2032', ERCOT said.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -768,18 +779,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_4456_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "date": "2026-04-24T10:41:06.000Z",
-      "dateLabel": "6h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Analyst Report: ServiceNow Inc",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3664_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "date": "2026-04-24T10:41:06.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -790,7 +790,18 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_3470_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "date": "2026-04-24T10:41:06.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: ServiceNow Inc",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3664_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-24T10:41:06.000Z",
+      "dateLabel": "7h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -801,7 +812,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_2751_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "date": "2026-04-24T10:41:06.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -812,7 +823,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_2892_AnalystReport_1777027266000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "date": "2026-04-24T10:41:06.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -823,7 +834,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Pushes-Refiners-To-Boost-LPG-Output.html",
       "date": "2026-04-24T10:30:00.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "India&#039;s government has urged local refiners to increase production of liquefied petroleum gas—the country&#039;s main cooking fuel, amid the supply crunch resulting from the war in the Middle Eas",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -834,7 +845,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Turns-to-Russia-and-Venezuela-as-Middle-East-Oil-Supplies-Shrink.html",
       "date": "2026-04-24T09:30:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "Pakistan’s government is looking to buy crude oil from Russia, Venezuela, and Nigeria to replace lost supply from the Middle East, Pakistan Today reports, adding that the government is also seeking LN",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -845,7 +856,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/there_is_a_high_risk_being_short_energy_analyst_warns-24-apr-2026-183531-article/?rss=true",
       "date": "2026-04-24T09:12:35.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "There is a high risk being short energy and betting on any immediate political resolution in the Iran conflict, according to SEB Commodities Analyst Ole R. Hvalbye.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -867,7 +878,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/geopark_continuing_production_up_qoq-24-apr-2026-183529-article/?rss=true",
       "date": "2026-04-24T07:30:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "GeoPark's divestments in Ecuador and Brazil reduced production but its active countries of operation, Colombia and Argentina, posted increases.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -878,7 +889,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/hormuz_tensions_heat_up-24-apr-2026-183530-article/?rss=true",
       "date": "2026-04-24T06:30:23.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "Trump ordered the U.S. Navy to shoot any boat putting mines in the strait.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -889,7 +900,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eiv_capital_raises_11b_for_new_oil_and_gas_funds-24-apr-2026-183527-article/?rss=true",
       "date": "2026-04-24T06:30:01.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "The Houston-based private equity firm completed a capital raise to launch two oil and gas investment funds, attracting a total of around $1.1 billion.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -900,32 +911,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/helix_to_merge_into_hornbeck-24-apr-2026-183528-article/?rss=true",
       "date": "2026-04-24T06:30:01.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "'The strategic combination will create a recognized leader in offshore operations through a diversified and expanded high-specification fleet of specialty vessels, supported by subsea robotics, well i",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Top Indian Refiner Faces Profit Hit From Price Surge",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Top-Indian-Refiner-Faces-Profit-Hit-From-Price-Surge.html",
-      "date": "2026-04-24T06:30:00.000Z",
-      "dateLabel": "10h ago",
-      "summary": "Reliance Industries, the biggest oil refiner in India, is expected to report a drop in profits for its fourth quarter to March, driven by the oil price surge caused by the war in the Middle East. Base",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "MAFB auction, firefighters honored, Sen. Hoeven on DHS funding",
-      "source": "KX News",
-      "category": "LOCAL_ND",
-      "url": "https://www.kxnet.com/news/top-stories/dakota-download-04-23-26/",
-      "date": "2026-04-24T02:30:00.000Z",
-      "dateLabel": "14h ago",
-      "summary": "Here are this evening’s top stories and weather with Dakota Download.",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "Bismarck PD investigating fatal crash",
@@ -944,7 +933,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
       "date": "2026-04-23T22:45:47.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "19h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -955,7 +944,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/domestic-violence-charge-dropped-glenburn-mayor/",
       "date": "2026-04-23T22:38:23.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "19h ago",
       "summary": "Renville County prosecutors have dropped a domestic violence charge against Glenburn’s mayor, Eric Folstad.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -966,7 +955,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/minot-stabbing-guilty-plea/",
       "date": "2026-04-23T22:20:14.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "19h ago",
       "summary": "Two out of three people charged in a deadly stabbing last fall in Minot have now admitted to their role in the killing.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -977,7 +966,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/school-bus-dui-plea/",
       "date": "2026-04-23T21:26:00.000Z",
-      "dateLabel": "19h ago",
+      "dateLabel": "20h ago",
       "summary": "A Minot school bus driver accused of driving under the influence on the first day of school has now filed a petition to change his plea to guilty.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -1021,7 +1010,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html",
       "date": "2026-04-23T19:30:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -1298,6 +1287,17 @@
       "date": "2026-04-16T14:00:00.000Z",
       "dateLabel": "Apr 16, 2026",
       "summary": "In our latest Short-Term Energy Outlook (STEO), we forecast that U.S. liquefied natural gas (LNG) exports will continue to increase as five LNG export projects start operations and ramp up production ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "The Iran war could drive up food prices. How to get ahead of it.",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/the-iran-war-could-drive-up-food-prices-how-to-get-ahead-of-it-135110312.html",
+      "date": "2026-04-16T13:51:10.000Z",
+      "dateLabel": "Apr 16, 2026",
+      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
     },
