@@ -1,15 +1,59 @@
 {
   "ok": true,
   "count": 1155,
-  "updated_at": "2026-04-25T19:59:39.447Z",
+  "updated_at": "2026-04-25T20:40:55.237Z",
   "items": [
+    {
+      "title": "North Dakota State&#039;s Payton and Lance drafted in 2026 NFL Draft",
+      "source": "KX News",
+      "category": "LOCAL_ND",
+      "url": "https://www.kxnet.com/news/north-dakota-states-payton-and-lance-drafted-in-2026-nfl-draft/",
+      "date": "2026-04-25T20:18:21.000Z",
+      "dateLabel": "22m ago",
+      "summary": "BISMARCK, ND (KXNET) — North Dakota State Football's Cole Payton and Bryce Lance were selected in the final rounds of the 2026 NFL Draft. Payton was taken 178th overall by the Philadelphia Eagles, whi",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "JPMorgan Says Tokenization Could Transform Fund Operations Over the Next Few Years",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-says-tokenization-could-transform-201500274.html",
+      "date": "2026-04-25T20:15:00.000Z",
+      "dateLabel": "25m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Re-Budget After a Raise: 6 Smart Moves To Make in 2026",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/articles/budget-raise-6-smart-moves-201205087.html",
+      "date": "2026-04-25T20:12:05.000Z",
+      "dateLabel": "28m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Adobe Is Buying Back $25 Billion of Its Shares. Will It Halt the Price Decline?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-buying-back-25-billion-195700175.html",
+      "date": "2026-04-25T19:57:00.000Z",
+      "dateLabel": "43m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
     {
       "title": "Officials close Highway 85 in McKenzie County until further notice",
       "source": "KX News",
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/officials-close-highway-85-in-mckenzie-county-until-further-notice/",
       "date": "2026-04-25T19:54:46.000Z",
-      "dateLabel": "4m ago",
+      "dateLabel": "46m ago",
       "summary": "MCKENZIE COUNTY, ND (KXNET) — Officials close Highway 85 in McKenzie County until further notice. According to the McKenzie County Sheriff's Office, Highway 85 is currently closed between mile markers",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -20,7 +64,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/commodities/articles/best-gold-etf-invest-500-194300960.html",
       "date": "2026-04-25T19:43:00.000Z",
-      "dateLabel": "16m ago",
+      "dateLabel": "57m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +75,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rdog-investors-face-reliability-coinflip-193939053.html",
       "date": "2026-04-25T19:39:39.000Z",
-      "dateLabel": "19m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +86,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-partnership-anthropic-keeps-deepening-193700158.html",
       "date": "2026-04-25T19:37:00.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +97,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-just-cut-60b-deal-193500859.html",
       "date": "2026-04-25T19:35:00.000Z",
-      "dateLabel": "24m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +108,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/youre-fooling-yourself-top-ripple-193104204.html",
       "date": "2026-04-25T19:31:04.000Z",
-      "dateLabel": "28m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -75,7 +119,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-mueller-industries-stock-soared-192841803.html",
       "date": "2026-04-25T19:28:41.000Z",
-      "dateLabel": "30m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,29 +130,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-ai-stock-gained-26-192700830.html",
       "date": "2026-04-25T19:27:00.000Z",
-      "dateLabel": "32m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Buy and Hold Forever? Here's How Nike and Lululemon Athletica Stack Up",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-forever-heres-nike-192300596.html",
-      "date": "2026-04-25T19:23:00.000Z",
-      "dateLabel": "36m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Lucid Stock a Buy at $7.25?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lucid-stock-buy-7-25-190500266.html",
-      "date": "2026-04-25T19:05:00.000Z",
-      "dateLabel": "54m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +141,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
       "date": "2026-04-25T19:00:00.000Z",
-      "dateLabel": "59m ago",
+      "dateLabel": "1h ago",
       "summary": "The United States’ geothermal energy sector has gradually expanded in recent years, as states look to diversify their energy mix. While several renewable energy sectors have struggled to stay afloat u",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -152,7 +174,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/news/trump-bought-least-51-million-173547214.html",
       "date": "2026-04-25T17:35:47.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -163,7 +185,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/A-New-Solar-Breakthrough-Could-Make-Wood-Part-of-the-Energy-Grid.html",
       "date": "2026-04-25T17:00:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "As the world adds solar and wind energy capacity at an unprecedented scale, we are increasingly faced with an energy variability crisis. Solar panels only produce energy when the sun is shining, and w",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -185,7 +207,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/aurelion-allocates-48-million-tether-162100751.html",
       "date": "2026-04-25T16:21:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,7 +218,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/nano-labs-alt5-sigma-sign-160000389.html",
       "date": "2026-04-25T16:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -317,7 +339,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/polestar-automotive-psny-reports-retail-153728968.html",
       "date": "2026-04-25T15:37:28.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -328,7 +350,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/energy/articles/t1-energy-te-prices-upsized-153721699.html",
       "date": "2026-04-25T15:37:21.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -339,7 +361,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-ses-ai-ses-among-153712077.html",
       "date": "2026-04-25T15:37:12.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -350,7 +372,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wolfspeed-wolf-appoints-yasuhisa-harita-153704817.html",
       "date": "2026-04-25T15:37:04.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -361,7 +383,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lotus-technology-lot-reports-q4-153654010.html",
       "date": "2026-04-25T15:36:54.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -372,7 +394,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/chargepoint-chpt-launches-express-solo-153646507.html",
       "date": "2026-04-25T15:36:46.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -383,7 +405,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blue-bird-blbd-appoints-lyndon-153636936.html",
       "date": "2026-04-25T15:36:36.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -394,7 +416,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gentherm-thrm-best-small-cap-153625116.html",
       "date": "2026-04-25T15:36:25.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -405,7 +427,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/US-States-Retreat-From-Climate-Goals-as-Costs-Surge-and-Federal-Support-Fades.html",
       "date": "2026-04-25T15:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "As the United States government continues to crack down on renewable energy development, several states are being forced to backtrack on their climate goals as they view them as increasingly unachieva",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -416,7 +438,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/eu_starts_roll_out_of_russian_lng_import_ban_at_tricky_time-25-apr-2026-183537-article/?rss=true",
       "date": "2026-04-25T12:00:01.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "Europe is beginning the roll-out of a ban on imports of Russian liquefied natural gas at a difficult time.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -427,7 +449,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/big-techs-jobs-cuts-feel-like-an-economic-warning-100000161.html",
       "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -438,7 +460,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-april-25-2026-100000462.html",
       "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -449,29 +471,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-25-2026-100000090.html",
       "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best money market account rates today, April 25, 2026 (best account provides 4.01% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-25-2026-100000572.html",
-      "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best CD rates today, Saturday, April 25, 2026 (best account provides 4.05% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-25-2026-100000637.html",
-      "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -482,7 +482,29 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-april-25-2026-100000555.html",
       "date": "2026-04-25T10:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best money market account rates today, April 25, 2026 (best account provides 4.01% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-25-2026-100000572.html",
+      "date": "2026-04-25T10:00:00.000Z",
+      "dateLabel": "10h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best CD rates today, Saturday, April 25, 2026 (best account provides 4.05% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-25-2026-100000637.html",
+      "date": "2026-04-25T10:00:00.000Z",
+      "dateLabel": "10h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -493,7 +515,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/slb-baker-hughes-see-oil-exploration-spending-rising-as-iran-war-disrupts-supply/",
       "date": "2026-04-25T06:06:51.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "14h ago",
       "summary": "(Reuters) &#8211; Top oilfield services companies SLB and Baker Hughes said on Friday they expect higher spending on oil exploration and production, as tighter global supplies driven by the Middle Eas",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -519,17 +541,6 @@
       "summary": "NORTH DAKOTA (KXNET) — The Spring Edition of Friday Night Frenzy continues. . High School Girls Tennis Scores West Fargo Horace Hawks 0 Century Patriots 5 Final West Fargo Horace Hawks 1 Bismarck Demo",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Hoeven on farmer funding, iMagicon in Minot, funding for low-income individuals",
-      "source": "KX News",
-      "category": "LOCAL_ND",
-      "url": "https://www.kxnet.com/news/top-stories/dakota-download-04-24-26/",
-      "date": "2026-04-25T02:02:14.000Z",
-      "dateLabel": "17h ago",
-      "summary": "Here are this evening’s top stories and weather with Dakota Download.",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Sen. Hoeven meets with farm service workers amid price increases for farmers",
@@ -559,7 +570,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/amber-energy-says-it-will-invest-11-billion-in-citgo-if-sale-is-finalized/",
       "date": "2026-04-24T22:40:01.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "By Erwin Seba HOUSTON, April 24 (Reuters) &#8211; Amber Energy CEO Greg Goff promised $11 billion in investments in Citgo ​Petroleum if the U.S. Treasury Department&#8217;s Office ‌of Foreign Assets C",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -570,7 +581,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/big-four-accounting-chooses-ai-223954685.html",
       "date": "2026-04-24T22:39:54.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -581,7 +592,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/oil-prices-end-volatile-session-mixed-but-up-sharply-for-the-week-on-supply-worries/",
       "date": "2026-04-24T22:08:14.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "By Laila Kearney and Alex Lawler Iran to make offer aimed at satisfying US demands, Trump tells Reuters Trump to send Witkoff and Kushner to Pakistan for Iran talks, CNN reports WTI falls on the day, ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -592,7 +603,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/us-drillers-add-oil-and-gas-rigs-for-first-time-in-three-weeks-baker-hughes-says-4/",
       "date": "2026-04-24T22:06:11.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "(Reuters) &#8211; U.S. energy firms this week added oil and natural gas rigs for the first time in three weeks, energy services firm Baker Hughes said in its closely followed report on Friday. The oil",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -603,7 +614,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/us-exporters-are-plugging-a-qatar-sized-lng-supply-hole-for-now-maguire/",
       "date": "2026-04-24T22:05:25.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "tanker (Reuters) &#8211; U.S. LNG exporters have so far offset the drop in shipments from Qatar following Iranian attacks on its facilities and the closure of key Middle East shipping lanes, ensuring ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -614,7 +625,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Infrastructure-Funds-Now-Capture-77-of-New-Climate-Capital.html",
       "date": "2026-04-24T22:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "A transformation is taking place in clean energy and climate investing. The current energy crisis has shifted global energy priorities, with a newfound emphasis on energy security and resilience. As a",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -625,7 +636,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-april-24-2026-220000179.html",
       "date": "2026-04-24T22:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -647,7 +658,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/spot-prices-wrap-permian-natural-gas-crashes-sends-national-average-to-17-month-low/",
       "date": "2026-04-24T21:37:33.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "Spot natural gas prices tumbled Friday as a fresh force majeure restricted Permian northbound capacity, sending regional prices back toward record lows and pulling down the national average.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -658,7 +669,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_keeps_loading_oil_onto_tankers_even_as_usa_blocks_route-24-apr-2026-183536-article/?rss=true",
       "date": "2026-04-24T21:00:00.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "Iran is continuing to load millions of barrels of oil onto supertankers.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -691,7 +702,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Aluminum-Market-Faces-Largest-Supply-Shock-Since-2000-Mercuria-Warns.html",
       "date": "2026-04-24T20:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Analysts at Mercuria, the Geneva-based Swiss commodities trading firm, are sounding the alarm on the global aluminum market after severe disruptions in the Gulf region, adding to a growing list of tra",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -924,17 +935,6 @@
       "date": "2026-04-24T14:37:36.000Z",
       "dateLabel": "Yesterday",
       "summary": "President Donald Trump's administration has given a 90-day extension to a shipping waiver making it easier to move oil, fuel and fertilizer around the United States.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Spirit Airlines nearing rescue deal? How to protect yourself if your airline goes under.",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/insurance/article/spirit-airlines-nearing-rescue-deal-how-to-protect-yourself-if-your-airline-goes-under-143456549.html",
-      "date": "2026-04-24T14:34:56.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
