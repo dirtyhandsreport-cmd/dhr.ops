@@ -1,18 +1,51 @@
 {
   "ok": true,
   "count": 1160,
-  "updated_at": "2026-04-26T23:21:39.297Z",
+  "updated_at": "2026-04-26T23:58:46.213Z",
   "items": [
     {
       "title": "Dow Jones Futures Fall, Oil Prices Rise As Iran Talks Shelved; Apple, Amazon, Google Lead Earnings",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo",
-      "date": "2026-04-26T23:16:52.000Z",
-      "dateLabel": "4m ago",
+      "date": "2026-04-26T23:38:38.000Z",
+      "dateLabel": "20m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
+    },
+    {
+      "title": "S&P 500 Is Overbought—But JPMorgan Says The Rally Isn't Done Yet",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-overbought-jpmorgan-says-233204642.html",
+      "date": "2026-04-26T23:32:04.000Z",
+      "dateLabel": "26m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with Hormuz closure, Mag 7 earnings in focus",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html",
+      "date": "2026-04-26T23:22:26.000Z",
+      "dateLabel": "36m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Broadcom Joins the $2 Trillion Club, and 4 of the 5 Vanguard ETFs That Just Underwent Stock Splits Hold It. Here's an Even Better Low-Cost ETF for Long-Term Bro",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-joins-2-trillion-club-232100870.html",
+      "date": "2026-04-26T23:21:00.000Z",
+      "dateLabel": "37m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
     },
     {
       "title": "Mayville Engineering Shareholders OK Board Picks, Deloitte Auditor, and Exec Pay in Virtual AGM",
@@ -20,7 +53,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mayville-engineering-shareholders-ok-board-230712790.html",
       "date": "2026-04-26T23:07:12.000Z",
-      "dateLabel": "14m ago",
+      "dateLabel": "51m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +64,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/policy/articles/analysis-under-cover-trade-truce-230416731.html",
       "date": "2026-04-26T23:04:16.000Z",
-      "dateLabel": "17m ago",
+      "dateLabel": "54m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +75,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/articles/why-housing-market-stalling-sales-230148498.html",
       "date": "2026-04-26T23:01:48.000Z",
-      "dateLabel": "19m ago",
+      "dateLabel": "56m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,7 +86,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/could-buying-altcoin-today-rich-230100566.html",
       "date": "2026-04-26T23:01:00.000Z",
-      "dateLabel": "20m ago",
+      "dateLabel": "57m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -64,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Europe-Emerges-As-Key-Buyer-Of-US-Strategic-Petroleum-Reserve-Oil.html",
       "date": "2026-04-26T23:00:00.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "58m ago",
       "summary": "Last month, the International Energy Agency (IEA) announced the coordinated release of over 400 million barrels of oil from global strategic reserves to combat high energy prices amid the Middle East ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +108,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Gas-Prices/Structural-Gas-Demand-Destruction-Threatens-Global-LNG-Market.html",
       "date": "2026-04-26T23:00:00.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "58m ago",
       "summary": "The impact of the war in the Middle East could lead to structural demand destruction on the world’s natural gas markets, the head of the Gas Exporting Countries’ Forum warned in the latest sign of the",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -86,7 +119,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-underestimating-growth-potential-automatic-224000747.html",
       "date": "2026-04-26T22:40:00.000Z",
-      "dateLabel": "41m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,7 +130,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-accenture-acn-good-stock-223859408.html",
       "date": "2026-04-26T22:38:59.000Z",
-      "dateLabel": "42m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -108,7 +141,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reduces-pt-chipotle-223818699.html",
       "date": "2026-04-26T22:38:18.000Z",
-      "dateLabel": "43m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -119,7 +152,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-announces-upgrades-genstudio-223730485.html",
       "date": "2026-04-26T22:37:30.000Z",
-      "dateLabel": "44m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +163,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-among-223642350.html",
       "date": "2026-04-26T22:36:42.000Z",
-      "dateLabel": "44m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -141,7 +174,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/citi-remains-buy-mastercard-ma-223412414.html",
       "date": "2026-04-26T22:34:12.000Z",
-      "dateLabel": "47m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -152,7 +185,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/street-bullish-visa-v-why-223342892.html",
       "date": "2026-04-26T22:33:42.000Z",
-      "dateLabel": "47m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -163,7 +196,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-partners-cbre-223308140.html",
       "date": "2026-04-26T22:33:08.000Z",
-      "dateLabel": "48m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +207,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-close-ipo-means-223222531.html",
       "date": "2026-04-26T22:32:22.000Z",
-      "dateLabel": "49m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -185,7 +218,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/policy/articles/powell-final-fomc-grading-wins-223145715.html",
       "date": "2026-04-26T22:31:45.000Z",
-      "dateLabel": "49m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,7 +229,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/crypto/articles/president-trump-speak-meme-coin-223134865.html",
       "date": "2026-04-26T22:31:34.000Z",
-      "dateLabel": "50m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -207,7 +240,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-partners-stellantis-223129263.html",
       "date": "2026-04-26T22:31:29.000Z",
-      "dateLabel": "50m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -218,28 +251,6 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-quantum-computing-stocks-buy-223100144.html",
       "date": "2026-04-26T22:31:00.000Z",
-      "dateLabel": "50m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "The Stock Market Recently Did Something Witnessed Only Once Before in 154 Years -- and History Is Very Clear About What Happens Next.",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-recently-did-something-223000425.html",
-      "date": "2026-04-26T22:30:00.000Z",
-      "dateLabel": "51m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Nuclear Is Back in a Big Way. Here Are 2 Stocks to Consider.",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-back-big-way-2-222100735.html",
-      "date": "2026-04-26T22:21:00.000Z",
       "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
@@ -328,7 +339,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ebay-inc-ebay-good-stock-215648811.html",
       "date": "2026-04-26T21:56:48.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -339,7 +350,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/floor-decor-holdings-inc-fnd-215628597.html",
       "date": "2026-04-26T21:56:28.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -350,7 +361,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lattice-semiconductor-corporation-lscc-good-215611541.html",
       "date": "2026-04-26T21:56:11.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -361,7 +372,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mobileye-global-inc-mbly-good-215510402.html",
       "date": "2026-04-26T21:55:10.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -372,7 +383,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-plc-stx-215443195.html",
       "date": "2026-04-26T21:54:43.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -383,7 +394,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-corporation-bn-good-stock-215429637.html",
       "date": "2026-04-26T21:54:29.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -394,7 +405,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stride-inc-lrn-good-stock-215400154.html",
       "date": "2026-04-26T21:54:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -405,7 +416,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/texas-roadhouse-inc-txrh-good-215342466.html",
       "date": "2026-04-26T21:53:42.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -416,7 +427,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-inc-cdns-215308247.html",
       "date": "2026-04-26T21:53:08.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -427,7 +438,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-good-215245194.html",
       "date": "2026-04-26T21:52:45.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -438,7 +449,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/csw-industrials-inc-csw-good-214631675.html",
       "date": "2026-04-26T21:46:31.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -449,7 +460,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/molina-healthcare-inc-moh-good-214611247.html",
       "date": "2026-04-26T21:46:11.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -460,7 +471,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pinterest-inc-pins-good-stock-214551384.html",
       "date": "2026-04-26T21:45:51.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -471,7 +482,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/synaptics-incorporated-syna-good-stock-214524978.html",
       "date": "2026-04-26T21:45:24.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -482,7 +493,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-inc-214440888.html",
       "date": "2026-04-26T21:44:40.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -493,7 +504,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marex-group-plc-mrx-good-214354387.html",
       "date": "2026-04-26T21:43:54.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -504,7 +515,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tyler-technologies-inc-tyl-good-214321603.html",
       "date": "2026-04-26T21:43:21.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -515,7 +526,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fubotv-inc-fubo-good-stock-214233655.html",
       "date": "2026-04-26T21:42:33.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -526,7 +537,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wealthfront-corporation-wlth-good-stock-214005389.html",
       "date": "2026-04-26T21:40:05.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -537,18 +548,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cellebrite-di-ltd-clbt-good-213312579.html",
       "date": "2026-04-26T21:33:12.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Bitmine Immersion Technologies, Inc. (BMNR) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bitmine-immersion-technologies-inc-bmnr-213253353.html",
-      "date": "2026-04-26T21:32:53.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -570,7 +570,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/iran-peace-hopes-fade-as-trump-scraps-talks/",
       "date": "2026-04-26T19:37:18.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Hopes of a diplomatic breakthrough in the U.S.-Israeli war with Iran faded on Sunday, as efforts to revive talks stalled and both Tehran and Washington showed little sign of softening their positions.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -581,7 +581,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/trump-tells-fox-news-iran-can-call-us-if-it-wants-to-negotiate/",
       "date": "2026-04-26T19:34:53.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "President Donald Trump said on Sunday that Iran can reach out to the United Stated if it wants to negotiate an end to the war between the two countries. “If they want to talk, they can come to us, or ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -647,7 +647,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-chase-set-precedent-144700033.html",
       "date": "2026-04-26T14:47:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -669,7 +669,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/fatal-crash-in-mckenzie-county-claims-life-of-63-year-old-woman/",
       "date": "2026-04-26T00:28:51.000Z",
-      "dateLabel": "22h ago",
+      "dateLabel": "23h ago",
       "summary": "MCKENZIE COUNTY, ND (KXNET) — A 63-year-old Watford City woman has died following a crash in McKenzie County. According to the McKenzie County Sheriff’s Office, the crash happened April 25, at approxi",
       "sentiment": "neutral",
       "dhrScore": 3
