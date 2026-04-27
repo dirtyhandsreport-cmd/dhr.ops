@@ -1,40 +1,293 @@
 {
   "ok": true,
   "count": 1159,
-  "updated_at": "2026-04-27T11:55:01.597Z",
+  "updated_at": "2026-04-27T13:13:36.641Z",
   "items": [
     {
-      "title": "WELF sets up DFSA-regulated wealth advisory business",
+      "title": "Why employers require BOSIET before offshore deployment",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/welf-sets-dfsa-regulated-wealth-114452590.html",
-      "date": "2026-04-27T11:44:52.000Z",
-      "dateLabel": "10m ago",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/why-employers-require-bosiet-offshore-130045019.html",
+      "date": "2026-04-27T13:00:45.000Z",
+      "dateLabel": "12m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
     {
-      "title": "Shackleton enters deal to acquire Hurst Point",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shackleton-enters-deal-acquire-hurst-113942937.html",
-      "date": "2026-04-27T11:39:42.000Z",
-      "dateLabel": "15m ago",
-      "summary": "",
+      "title": "LNG Carrier Deliveries Set to Hit 100 This Year, Up 27% From 2025",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Carrier-Deliveries-Set-to-Hit-100-This-Year-Up-27-From-2025.html",
+      "date": "2026-04-27T13:00:00.000Z",
+      "dateLabel": "13m ago",
+      "summary": "Shipyards are expected to deliver up to 100 new LNG carriers this year, up from 79 last year, as new projects in the U.S. and demand for new and more efficient vessels to replace retiring carriers dri",
       "sentiment": "neutral",
-      "dhrScore": 1
+      "dhrScore": 3
     },
     {
-      "title": "Verizon Q1 2026 earnings: first spring subscriber gains since 2013",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-q1-2026-earnings-first-113801760.html",
-      "date": "2026-04-27T11:38:01.000Z",
+      "title": "Market Open: Natural Gas Futures Advance as May Contract Expiry Looms Large",
+      "source": "Natural Gas Intel",
+      "category": "NAT_GAS",
+      "url": "https://naturalgasintel.com/news/market-open-natural-gas-futures-advance-as-may-contract-expiry-looms-large/",
+      "date": "2026-04-27T12:56:56.000Z",
       "dateLabel": "16m ago",
+      "summary": "Natural gas futures probed higher to kick off the trading week despite healthy supply and waning weather demand.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Worried About Market Volatility? Every Investor Should Hear What Warren Buffett Has to Say",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/worried-market-volatility-every-investor-125000570.html",
+      "date": "2026-04-27T12:50:00.000Z",
+      "dateLabel": "23m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Praetorian Capital Fund on St. Joe (JOE)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/praetorian-capital-fund-st-joe-124617801.html",
+      "date": "2026-04-27T12:46:17.000Z",
+      "dateLabel": "27m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "What Makes FedEx Corporation (FDX) an Investment Choice?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-fedex-corporation-fdx-investment-124105153.html",
+      "date": "2026-04-27T12:41:05.000Z",
+      "dateLabel": "32m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "How A Small Biotech Name Just Rattled AbbVie's $18 Billion Franchise",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/news/technology/oruka-therapeutics-psoriasis-treatment/?src=A00220&yptr=yahoo",
+      "date": "2026-04-27T12:40:41.000Z",
+      "dateLabel": "32m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "3 AI Stocks That Can Beat Nvidia Over the Next Five Years",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-beat-nvidia-124000483.html",
+      "date": "2026-04-27T12:40:00.000Z",
+      "dateLabel": "33m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "RS Large Cap Value Strategy Believes Mattel (MAT) Long-Term Investments Poised to Reward Stockholders by 2027",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rs-large-cap-value-strategy-123923836.html",
+      "date": "2026-04-27T12:39:23.000Z",
+      "dateLabel": "34m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Shell acquires ARC Resources in $16.4 billion deal",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/shell-acquires-arc-resources-16-123726910.html",
+      "date": "2026-04-27T12:37:26.000Z",
+      "dateLabel": "36m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "China rare earth export pause nears expiry amid persistent supply concentration",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/china-rare-earth-export-pause-123614106.html",
+      "date": "2026-04-27T12:36:14.000Z",
+      "dateLabel": "37m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "NuScale Power Stock Is Cheap, but Does That Make It a Buy Now?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-cheap-does-123500846.html",
+      "date": "2026-04-27T12:35:00.000Z",
+      "dateLabel": "38m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Stocks' strong April gains come with 1 potential downside",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/news/stocks-strong-april-gains-come-with-1-potential-downside-122514320.html",
+      "date": "2026-04-27T12:25:14.000Z",
+      "dateLabel": "48m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Re/Max Stock Surges On News Of Sale To Tech Real Estate Firm",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/news/remax-stock-real-estate-merger-real-brokerage-rocket-compass/?src=A00220&yptr=yahoo",
+      "date": "2026-04-27T12:20:27.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Domino's stock falls after Q1 earnings, sales growth miss expectations",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/news/dominos-stock-falls-after-q1-earnings-sales-growth-miss-expectations-120821453.html",
+      "date": "2026-04-27T12:08:21.000Z",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
+    },
+    {
+      "title": "Verizon Earnings Beat, Revenue Light As Subscriber Additions Surprise",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/news/technology/verizon-earnings-beat-revenue-light-as-subscriber-additions-surprise/?src=A00220&yptr=yahoo",
+      "date": "2026-04-27T12:06:23.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Qualcomm surges on report of OpenAI tie-up for AI smartphone processors",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/qualcomm-surges-report-openai-tie-120527138.html",
+      "date": "2026-04-27T12:05:27.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Stock Market Today: Dow Wavers On Iran News; Nvidia Rallies Near Record Highs (Live Coverage)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-news-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
+      "date": "2026-04-27T12:04:32.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Man with $3.5M inheritance on the way wants to dip into savings — The Ramsey Show says 'act like none of it's coming’",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/articles/man-3-5m-inheritance-way-120000924.html",
+      "date": "2026-04-27T12:00:00.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Hormuz Disruptions Drive Crude Higher as U.S.-Iran Diplomacy Stalls",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Disruptions-Drive-Crude-Higher-as-US-Iran-Diplomacy-Stalls.html",
+      "date": "2026-04-27T11:58:50.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Oil prices surged over 2% Monday before falling back as stalled U.S.-Iran diplomacy and continuing disruptions in the Strait of Hormuz drove a fresh risk premium into crude markets, with Brent rising ",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "SpaceX and OpenAI IPOs: 1 warning to not overlook",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/news/spacex-and-openai-ipos-1-warning-to-not-overlook-115551526.html",
+      "date": "2026-04-27T11:55:51.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Here’s Laughing Water Capital’s Updates on Nextnav (NN)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laughing-water-capital-updates-nextnav-115018213.html",
+      "date": "2026-04-27T11:50:18.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Bitcoin and ethereum price today, Monday, April 27, 2026: Prices hold ahead of potential peace talks and Fed meeting",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html",
+      "date": "2026-04-27T11:49:27.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Laughing Water Capital’s Insights on Lifecore Biomedical (LFCR)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laughing-water-capital-insights-lifecore-114745642.html",
+      "date": "2026-04-27T11:47:45.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Laughing Water Capital Sold PAR Technology Corp (PAR) Due to Valuation Concerns",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laughing-water-capital-sold-par-114517856.html",
+      "date": "2026-04-27T11:45:17.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Most Oil Execs See USA Oil Output Increasing Due to War",
+      "source": "Rigzone",
+      "category": "GENERAL",
+      "url": "https://www.rigzone.com/news/most_oil_execs_see_usa_oil_output_increasing_due_to_war-27-apr-2026-183544-article/?rss=true",
+      "date": "2026-04-27T11:43:57.000Z",
+      "dateLabel": "1h ago",
+      "summary": "Most executives expect U.S. oil production to increase in response to the Iran war, an update to the first quarter Dallas Fed Energy Survey stated.",
+      "sentiment": "neutral",
+      "dhrScore": 3
     },
     {
       "title": "Two months into Iran war, economic strain mounts across emerging markets",
@@ -42,21 +295,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/articles/two-months-iran-war-economic-113713556.html",
       "date": "2026-04-27T11:37:13.000Z",
-      "dateLabel": "17m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Volkswagen FS UK names Wrisk for van insurance",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/volkswagen-fs-uk-names-wrisk-113710835.html",
-      "date": "2026-04-27T11:37:10.000Z",
-      "dateLabel": "17m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "India-New Zealand trade pact cuts fruit tariffs, boosts exports, visas",
@@ -64,7 +306,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/news/india-zealand-trade-pact-cuts-093533211.html",
       "date": "2026-04-27T11:36:14.000Z",
-      "dateLabel": "18m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -75,7 +317,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/healthcare/articles/medtronic-says-cyberattack-network-not-113557936.html",
       "date": "2026-04-27T11:35:57.000Z",
-      "dateLabel": "19m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -86,21 +328,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-magnificent-seven-113535737.html",
       "date": "2026-04-27T11:35:35.000Z",
-      "dateLabel": "19m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "BaFin orders UniCredit to stop “unobjective” ads targeting Commerzbank",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bafin-orders-unicredit-stop-unobjective-113455070.html",
-      "date": "2026-04-27T11:34:55.000Z",
-      "dateLabel": "20m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "EQT (EQT) Releases Financial and Operational Results for Q1 2026",
@@ -108,7 +339,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/eqt-eqt-releases-financial-operational-113332756.html",
       "date": "2026-04-27T11:33:32.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +350,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ally-financial-ally-releases-q1-113324556.html",
       "date": "2026-04-27T11:33:24.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -130,7 +361,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/omnicom-group-omc-announces-expansion-113317489.html",
       "date": "2026-04-27T11:33:17.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -141,7 +372,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-reiterates-buy-113309097.html",
       "date": "2026-04-27T11:33:09.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -152,7 +383,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-releases-financial-113302039.html",
       "date": "2026-04-27T11:33:02.000Z",
-      "dateLabel": "21m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -163,18 +394,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-plc-acn-announces-expansion-113253796.html",
       "date": "2026-04-27T11:32:53.000Z",
-      "dateLabel": "22m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Reliance Retail FY26 revenue rises on store and delivery growth",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-retail-fy26-revenue-rises-113248130.html",
-      "date": "2026-04-27T11:32:48.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -185,7 +405,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/google-cloud-salesforce-crm-enter-113245907.html",
       "date": "2026-04-27T11:32:45.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,7 +416,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-solutions-ctsh-one-113237371.html",
       "date": "2026-04-27T11:32:37.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -207,43 +427,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-113228665.html",
       "date": "2026-04-27T11:32:28.000Z",
-      "dateLabel": "22m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Here is Why United Airlines Holdings (UAL) Is Among the Best Bargain Stocks to Buy in May",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-united-airlines-holdings-ual-113219227.html",
-      "date": "2026-04-27T11:32:19.000Z",
-      "dateLabel": "22m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Oil prices rise as Iran peace talks stall, Hormuz tensions grow",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-rise-iran-peace-113123377.html",
-      "date": "2026-04-27T11:31:23.000Z",
-      "dateLabel": "23m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Bangladesh BSEC bars two audit practices over flawed reporting",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bangladesh-bsec-bars-two-audit-113116097.html",
-      "date": "2026-04-27T11:31:16.000Z",
-      "dateLabel": "23m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "China&#039;s Cleantech Machine Hits Top Gear as Oil Markets Crumble",
@@ -251,95 +438,95 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Cleantech-Machine-Hits-Top-Gear-as-Oil-Markets-Crumble.html",
       "date": "2026-04-27T11:30:00.000Z",
-      "dateLabel": "24m ago",
+      "dateLabel": "1h ago",
       "summary": "Chinese exports of clean technology, including solar panels, electric vehicles, and batteries, surged to a record-high in March as the war in the Middle East resulted in a major oil and gas supply sho",
       "sentiment": "neutral",
       "dhrScore": 3
     },
     {
-      "title": "2 Unstoppable Growth Stocks That Could Soar 20% and 26% in 2026, According to Wall Street Analysts",
+      "title": "Weekly Stock List",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-unstoppable-growth-stocks-could-113000847.html",
-      "date": "2026-04-27T11:30:00.000Z",
-      "dateLabel": "24m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Space analytics firm HawkEye targets $2.4 billion valuation in US IPO",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/news/space-analytics-firm-hawkeye-targets-110833744.html",
-      "date": "2026-04-27T11:21:18.000Z",
-      "dateLabel": "33m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Earnings live updates:  Domino's stock falls as busy 'Magnificent 7' earnings week begins",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-dominos-stock-falls-as-busy-magnificent-7-earnings-week-begins-111414777.html",
-      "date": "2026-04-27T11:14:14.000Z",
-      "dateLabel": "40m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Gold and silver prices today, Monday, April 27: Gold and silver prices steady with investors in wait-and-see mode",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-april-27-gold-and-silver-prices-steady-with-investors-in-wait-and-see-mode-110008792.html",
-      "date": "2026-04-27T11:00:08.000Z",
-      "dateLabel": "54m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "How A Small Biotech Name Just Rattled AbbVie's $18 Billion Franchise",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://www.investors.com/news/technology/oruka-therapeutics-psoriasis-treatment/?src=A00220&yptr=yahoo",
-      "date": "2026-04-27T11:00:03.000Z",
-      "dateLabel": "54m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Americans are underestimating their life spans — and undersaving",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/economy/article/americans-are-underestimating-their-life-spans--and-undersaving-110000169.html",
-      "date": "2026-04-27T11:00:00.000Z",
-      "dateLabel": "54m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Market Digest: BHP, SNY, BSX, CMCSA, TSCO, WRB, RIO, AAL, AA, GEV",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_46850_MarketSummary_1777286927000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "date": "2026-04-27T10:48:47.000Z",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46856_StockPicks_1777289280000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:28:00.000Z",
       "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
     {
-      "title": "Morning Bid: Oil and chips",
+      "title": "Daily Spotlight: Market Calmer as Earnings Take Center Stage",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-oil-chips-103918567.html",
-      "date": "2026-04-27T10:39:18.000Z",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46853_MarketOutlook_1777288848000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:20:48.000Z",
       "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Technical Assessment: Bullish in the Intermediate-Term",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_46852_TechnicalAnalysis_1777288813000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:20:13.000Z",
+      "dateLabel": "1h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: W R Berkley Corp",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_4381_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:03:47.000Z",
+      "dateLabel": "2h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: Comcast Corp",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_2845_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:03:47.000Z",
+      "dateLabel": "2h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: Alcoa Corp",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3689_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:03:47.000Z",
+      "dateLabel": "2h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: Rio Tinto PLC",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3658_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:03:47.000Z",
+      "dateLabel": "2h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Analyst Report: Tractor Supply Co",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_3462_AnalystReport_1777287827000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "date": "2026-04-27T11:03:47.000Z",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -350,109 +537,10 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Heatwave-Boosts-Indias-Power-Demand-to-Record-High.html",
       "date": "2026-04-27T10:30:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "As expected, India’s power demand hit a new record high as early summer heat waves pushed electricity consumption for cooling past previous highs. In two consecutive days this weekend, India saw its p",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Elon Musk's trial against Sam Altman to reveal the ongoing power struggle for OpenAI",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-trial-against-sam-100515094.html",
-      "date": "2026-04-27T10:19:53.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Daily – Vickers Top Buyers & Sellers for 04/27/2026",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_46849_TopBottomInsiderActivity_1777284508000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "date": "2026-04-27T10:08:28.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Daily – Vickers Top Insider Picks for 04/27/2026",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_46848_InsiderActivity_1777284508000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "date": "2026-04-27T10:08:28.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Don’t tell a single soul when you retire with $1 million (other than your spouse). Here’s why",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/articles/don-t-tell-single-soul-100700043.html",
-      "date": "2026-04-27T10:07:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best money market account rates today, April 27, 2026 (Earn up to 4.01% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-april-27-2026-100000961.html",
-      "date": "2026-04-27T10:00:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best CD rates today, April 27, 2026 (Lock in up to 4.05% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-27-2026-100000781.html",
-      "date": "2026-04-27T10:00:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, April 27, 2026: Will the 30-year dip below 6% this week?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-april-27-2026-100000035.html",
-      "date": "2026-04-27T10:00:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 27, 2026 (Earn up to 4.1% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-april-27-2026-100000491.html",
-      "date": "2026-04-27T10:00:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "HELOC and home equity loan rates, Monday, April 27, 2026: Access the money locked inside the walls of your home",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-april-27-2026-100000081.html",
-      "date": "2026-04-27T10:00:00.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Alarm Bells Will Ring Loudly If Hormuz Doesn't Open in May",
@@ -460,7 +548,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/alarm_bells_will_ring_loudly_if_hormuz_doesnt_open_in_may-27-apr-2026-183543-article/?rss=true",
       "date": "2026-04-27T09:56:11.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "3h ago",
       "summary": "Alarm bells will ring loudly if the Strait of Hormuz does not reopen during May, SEB Chief Commodities Analyst Bjarne Schieldrop stated.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -471,21 +559,10 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/kernel_loans_45mm_from_ebrd_for_ukraine_solar_project-27-apr-2026-183542-article/?rss=true",
       "date": "2026-04-27T09:54:33.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "The agribusiness secured a $45-million loan from the European Bank for Reconstruction and Development for an energy storage-supported solar farm with a capacity of 106 MW in southern Ukraine.",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Dave Ramsey says withdraw 8%, Suze Orman says skip coffee to earn $1M — why gurus' advice could wreck your finances",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/articles/dave-ramsey-says-withdraw-8-094500759.html",
-      "date": "2026-04-27T09:45:00.000Z",
-      "dateLabel": "2h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "TotalEnergies Greenlights Battery-Backed Wind Project in Kazakhstan",
@@ -493,7 +570,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/totalenergies_greenlights_batterybacked_wind_project_in_kazakhstan-27-apr-2026-183541-article/?rss=true",
       "date": "2026-04-27T09:34:44.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "TotalEnergies and its local partners agreed to proceed with a $1.2-billion onshore wind plus battery energy storage system project capable of powering 1 million people in Kazakhstan.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -504,7 +581,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Renewable-Surge-Cut-Fossil-Fuel-Power-Use-in-2025.html",
       "date": "2026-04-27T09:30:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "A record jump in renewable power generation and milder weather pushed fossil fuel power generation in India down by 3.3% last year, according to the yearly Global Electricity Review 2026 by clean ener",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -515,7 +592,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/iberdrola_completes_mexico_exit-27-apr-2026-183540-article/?rss=true",
       "date": "2026-04-27T08:47:01.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Iberdrola completed the sale of its Mexican assets, including 2.6 GW of installed capacity, to fellow Spanish company Cox for $4 billion.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -526,7 +603,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/oil-up-as-us-iran-peace-talks-stall-again/",
       "date": "2026-04-27T08:42:38.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "&#160; &#160; &#160; Summary Trump says Iran can call if it wants to talk Iranian envoy shuttles between Pakistan, Oman and Russia Goldman Sachs ​raises fourth-quarter oil price forecasts (Reuters) &#",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -537,7 +614,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctions-Escalation-Hits-Chinese-Refiners-Tied-to-Iranian-Crude-Trade.html",
       "date": "2026-04-27T08:15:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Chinese Hengli Petrochemical saw its shares drop sharply by 10% today following the United States’ imposition of sanctions on the company, alleging it bought crude oil from Iran despite U.S. sanctions",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -548,7 +625,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/iran_top_diplomat_in_russia_as_us_talks_in_limbo-27-apr-2026-183539-article/?rss=true",
       "date": "2026-04-27T07:43:54.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "Araghchi said he needed to coordinate with Russian officials after the U.S.-Israeli military campaign against the Islamic Republic disrupted bilateral meetings.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -559,7 +636,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Metals-Boom-Hits-Highest-Profit-Levels-Since-2016.html",
       "date": "2026-04-27T07:00:00.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "6h ago",
       "summary": "China’s metals makers booked their strongest quarter since 2016 in January to March, benefiting from consistently higher prices for their products, enjoying an additional boost from the Middle East cr",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -570,7 +647,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Oil-Price-Forecast-Yet-Again.html",
       "date": "2026-04-27T05:14:39.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "Goldman Sachs once again raised its outlook for oil prices, now seeing Brent crude at an average of $90 per barrel in the fourth quarter of the year, and West Texas Intermediate at $83 per barrel. At ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -581,7 +658,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html",
       "date": "2026-04-26T23:22:26.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "13h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -592,7 +669,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Europe-Emerges-As-Key-Buyer-Of-US-Strategic-Petroleum-Reserve-Oil.html",
       "date": "2026-04-26T23:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "14h ago",
       "summary": "Last month, the International Energy Agency (IEA) announced the coordinated release of over 400 million barrels of oil from global strategic reserves to combat high energy prices amid the Middle East ",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -603,7 +680,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Gas-Prices/Structural-Gas-Demand-Destruction-Threatens-Global-LNG-Market.html",
       "date": "2026-04-26T23:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "14h ago",
       "summary": "The impact of the war in the Middle East could lead to structural demand destruction on the world’s natural gas markets, the head of the Gas Exporting Countries’ Forum warned in the latest sign of the",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -614,7 +691,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/state-news/construction-begins-on-first-street-northwest-in-mandan/",
       "date": "2026-04-26T20:02:11.000Z",
-      "dateLabel": "15h ago",
+      "dateLabel": "17h ago",
       "summary": "MANDAN, ND (KXNET) — Officials announces traffic alert for First Street Northwest in Mandan.  According to the City of Mandan, beginning April 27 traffic control is expected in the area of First Stree",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -625,7 +702,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/iran-peace-hopes-fade-as-trump-scraps-talks/",
       "date": "2026-04-26T19:37:18.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "17h ago",
       "summary": "Hopes of a diplomatic breakthrough in the U.S.-Israeli war with Iran faded on Sunday, as efforts to revive talks stalled and both Tehran and Washington showed little sign of softening their positions.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -636,7 +713,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/trump-tells-fox-news-iran-can-call-us-if-it-wants-to-negotiate/",
       "date": "2026-04-26T19:34:53.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "17h ago",
       "summary": "President Donald Trump said on Sunday that Iran can reach out to the United Stated if it wants to negotiate an end to the war between the two countries. “If they want to talk, they can come to us, or ",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -647,7 +724,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/national-sports/local-sports/bismarck-tennis-teams-sweep-west-fargo-horace/",
       "date": "2026-04-26T19:09:06.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "18h ago",
       "summary": "BISMARCK, ND (KXNET) — The Mandan Braves and Bismarck Legacy Sabers girls tennis teams swept the West Fargo Horace Hawks 5-0. The Sabers and Braves are in a three-way tie with the Dickinson Mavericks ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -658,7 +735,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/The-Worlds-Data-Lifelines-Are-Increasingly-Exposed-to-Sabotage.html",
       "date": "2026-04-26T19:00:00.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "18h ago",
       "summary": "Undersea cables are vital for delivering renewable power from offshore projects and providing cross-country telecommunications connectivity. The rapid growth of undersea cable networks is helping to b",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -669,10 +746,21 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/north-dakota-news/from-parlays-to-problems-north-dakota-offers-gambling-addiction-aid-for-nba-playoffs/",
       "date": "2026-04-26T18:10:17.000Z",
-      "dateLabel": "17h ago",
+      "dateLabel": "19h ago",
       "summary": "BISMARCK, ND (KXNET) — This is one of the busiest times of the year for people placing bets, many of them simply fill out a parlay for the NBA Playoffs. North Dakota offers resources for people who ma",
       "sentiment": "neutral",
       "dhrScore": 3
+    },
+    {
+      "title": "AT&T CEO hopes new offers will restore customer loyalty",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-hopes-latest-strategy-slow-170700426.html",
+      "date": "2026-04-26T17:07:00.000Z",
+      "dateLabel": "20h ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
     },
     {
       "title": "Canada Just Opened North America&#039;s First Battery-Grade Lithium Refinery",
@@ -680,7 +768,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Canada-Just-Opened-North-Americas-First-Battery-Grade-Lithium-Refinery.html",
       "date": "2026-04-26T17:00:00.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "20h ago",
       "summary": "China has been consolidating its control over global lithium supplies for years now. As the lithium-ion battery sector continues to grow at a massive pace, the extreme concentration of lithium supply ",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -691,7 +779,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/The-Green-Hydrogen-Dream-Is-Slipping-Further-Out-of-Reach.html",
       "date": "2026-04-26T15:00:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "22h ago",
       "summary": "Green hydrogen gained significant traction during the post-pandemic period, as governments worldwide pledged to decarbonise their economies and energy companies looked to diversify their portfolios. H",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -702,7 +790,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-chase-set-precedent-144700033.html",
       "date": "2026-04-26T14:47:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -715,50 +803,6 @@
       "date": "2026-04-26T11:00:00.000Z",
       "dateLabel": "Yesterday",
       "summary": "CenterPoint announced plans to energize 8 GW of generation projects catered to data centers by 2029.",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best CD rates today, April 26, 2026 (lock in up to 4.05% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-april-26-2026-100000552.html",
-      "date": "2026-04-26T10:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best money market account rates today, April 26, 2026 (best account provides 4.01% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-26-2026-100000980.html",
-      "date": "2026-04-26T10:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "HELOC and home equity loan rates Sunday, April 26, 2026: Rates mostly unchanged",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-april-26-2026-100000982.html",
-      "date": "2026-04-26T10:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best high-yield savings interest rates today, April 26, 2026 (Earn up to 4.1% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-april-26-2026-100000350.html",
-      "date": "2026-04-26T10:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
@@ -829,17 +873,6 @@
       "dhrScore": 1
     },
     {
-      "title": "America’s Geothermal Breakthrough Could Unlock a 150-Gigawatt Energy Revolution",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-      "date": "2026-04-25T19:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "The United States’ geothermal energy sector has gradually expanded in recent years, as states look to diversify their energy mix. While several renewable energy sectors have struggled to stay afloat u",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
       "title": "Tracy Lawrence set to perform at the Bismarck Event Center",
       "source": "KX News",
       "category": "LOCAL_ND",
@@ -851,23 +884,12 @@
       "dhrScore": 1
     },
     {
-      "title": "A New Solar Breakthrough Could Make Wood Part of the Energy Grid",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Energy/Energy-General/A-New-Solar-Breakthrough-Could-Make-Wood-Part-of-the-Energy-Grid.html",
-      "date": "2026-04-25T17:00:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "As the world adds solar and wind energy capacity at an unprecedented scale, we are increasingly faced with an energy variability crisis. Solar panels only produce energy when the sun is shining, and w",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
       "title": "EU Starts Roll Out of Russian LNG Import Ban at Tricky Time",
       "source": "Rigzone",
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/eu_starts_roll_out_of_russian_lng_import_ban_at_tricky_time-25-apr-2026-183537-article/?rss=true",
       "date": "2026-04-25T12:00:01.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 25, 2026",
       "summary": "Europe is beginning the roll-out of a ban on imports of Russian liquefied natural gas at a difficult time.",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -1080,17 +1102,6 @@
       "summary": "North American gas markets sent mixed signals during the April 15–22 trading period, as uneven regional movements in the West and a shift in winter pricing hinted at changing market sentiment.",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "SONAT OFO Signals Bearish Setup for Gulf Coast Natural Gas Traders, but Demand Surge Looms",
-      "source": "Natural Gas Intel",
-      "category": "NAT_GAS",
-      "url": "https://naturalgasintel.com/news/sonat-ofo-signals-bearish-setup-for-gulf-coast-natural-gas-traders-but-demand-surge-looms/",
-      "date": "2026-04-24T14:52:00.000Z",
-      "dateLabel": "Apr 24, 2026",
-      "summary": "NGI’s Southern Natural price dropped 12.0 cents day/day to $2.585/MMBtu, part of a widespread decline seen across South Louisiana, and North America for that matter, as ...",
-      "sentiment": "neutral",
-      "dhrScore": 3
     },
     {
       "title": "White House Extends Shipping Waiver to August",
@@ -1355,17 +1366,6 @@
       "summary": "(Reuters) &#8211; Asia’s imports of liquefied natural gas (LNG) are poised to drop to the lowest in nearly six years in April as the effective closure of the Strait of Hormuz cuts off cargoes from maj",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Martin MLP Walks Back Profit Guidance as Losses Deepen",
-      "source": "Rigzone",
-      "category": "GENERAL",
-      "url": "https://www.rigzone.com/news/martin_mlp_walks_back_profit_guidance_as_losses_deepen-23-apr-2026-183525-article/?rss=true",
-      "date": "2026-04-23T15:45:58.000Z",
-      "dateLabel": "Apr 23, 2026",
-      "summary": "'Two primary headwinds impacted the quarter: meaningful margin pressure in our fertilizer business and lower than anticipated contribution by the transportation business'.",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "Well-Safe Solutions wins Forties Field decommissioning contract",
@@ -2928,17 +2928,6 @@
       "summary": "&#160; Summary US says it will block shipping in and out of Iran on Monday Blocking Iran shipments would take a major source of oil offline Iran exported 1.84 million barrels per day of crude in March",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "Earnings live updates: Intel stock soars, Procter & Gamble stock rises",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-intel-stock-soars-procter--gamble-stock-rises-104416504.html",
-      "date": "2026-04-13T10:44:16.000Z",
-      "dateLabel": "Apr 13, 2026",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Oil Tankers Steer Clear of Hormuz Ahead of US Blockade",
@@ -12511,23 +12500,34 @@
       "dhrScore": 1
     },
     {
-      "title": "What time is this week's Fed meeting?",
+      "title": "Can (and should) you use your 401(k) to buy a house?",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html",
-      "date": "2025-05-05T12:00:32.000Z",
-      "dateLabel": "May 5, 2025",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/can-i-use-401k-to-buy-a-house-175450973.html",
+      "date": "2025-06-12T17:54:50.000Z",
+      "dateLabel": "Jun 12, 2025",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
     {
-      "title": "Fed predictions for 2026: What experts say about the possibility of rate cuts this year",
+      "title": "A look at the federal funds rate over the past 50 years: How has it changed?",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/fed-rate-predictions-2026-154647304.html",
-      "date": "2024-07-30T15:46:47.000Z",
-      "dateLabel": "Jul 30, 2024",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/historical-fed-interest-rates-200947944.html",
+      "date": "2024-07-11T20:09:47.000Z",
+      "dateLabel": "Jul 11, 2024",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "What is Venmo, how does it work, and is it safe to use?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/what-is-venmo-how-does-it-work-180524894.html",
+      "date": "2024-05-31T18:05:24.000Z",
+      "dateLabel": "May 31, 2024",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
