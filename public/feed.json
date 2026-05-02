@@ -1,18 +1,216 @@
 {
   "ok": true,
   "count": 1156,
-  "updated_at": "2026-05-02T22:09:01.794Z",
+  "updated_at": "2026-05-02T23:00:41.991Z",
   "items": [
     {
-      "title": "Better Oil Stock: Diamondback Energy vs. Chevron",
+      "title": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Deadlock-Persists-as-Trump-Faces-War-Powers-Deadline-at-Home.html",
+      "date": "2026-05-02T23:00:00.000Z",
+      "dateLabel": "0m ago",
+      "summary": "Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers ",
+      "sentiment": "neutral",
+      "dhrScore": 5
+    },
+    {
+      "title": "Deutsche Bank Keeps Hold Rating on AMD Ahead of Q1 Results",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/better-oil-stock-diamondback-energy-213500494.html",
-      "date": "2026-05-02T21:35:00.000Z",
-      "dateLabel": "34m ago",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/deutsche-bank-keeps-hold-rating-224031215.html",
+      "date": "2026-05-02T22:40:31.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
+    },
+    {
+      "title": "Mizuho Says Micron (MU) Cheap as Memory Demand Grows",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-says-micron-mu-cheap-224022736.html",
+      "date": "2026-05-02T22:40:22.000Z",
+      "dateLabel": "20m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
+    },
+    {
+      "title": "Uber Technologies (UBER) Launches In-App Hotel Booking Service",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/uber-technologies-uber-launches-app-224011823.html",
+      "date": "2026-05-02T22:40:11.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Vanguard Growth ETF vs. Vanguard Mega Cap Growth ETF: How They Compare on Costs, Returns, and Risk",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-growth-etf-vs-vanguard-224005640.html",
+      "date": "2026-05-02T22:40:05.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Morgan Stanley Raises Apple (AAPL) Price Target, Keeps Overweight Rating",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-raises-apple-aapl-224003171.html",
+      "date": "2026-05-02T22:40:03.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Is Broadcom (AVGO) One of the Best American Tech Stocks to Buy?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/broadcom-avgo-one-best-american-223952363.html",
+      "date": "2026-05-02T22:39:52.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Stifel Cuts META Price Target, Keeps Buy Rating",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-cuts-meta-price-target-223945487.html",
+      "date": "2026-05-02T22:39:45.000Z",
+      "dateLabel": "20m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "NVIDIA (NVDA): Among the Best American Stocks to Buy in the Technology Sector",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-among-best-american-223937360.html",
+      "date": "2026-05-02T22:39:37.000Z",
+      "dateLabel": "21m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pivotal-research-raises-alphabet-googl-223929609.html",
+      "date": "2026-05-02T22:39:29.000Z",
+      "dateLabel": "21m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Stifel Raises Microsoft (MSFT) Price Target, Keeps Hold Rating",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-raises-microsoft-msft-price-223919733.html",
+      "date": "2026-05-02T22:39:19.000Z",
+      "dateLabel": "21m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Amazon (AMZN) Ranks Among the Best American Tech Stocks to Invest In",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html",
+      "date": "2026-05-02T22:39:14.000Z",
+      "dateLabel": "21m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Big Tech will burn $700 billion on AI by the end of 2026 — and one NYU professor says it's the biggest waste of money",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-burn-700-billion-223500179.html",
+      "date": "2026-05-02T22:35:00.000Z",
+      "dateLabel": "25m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "How To Earn $500 A Month From Tyson Foods Stock Ahead Of Q2 Earnings",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-tyson-foods-223107927.html",
+      "date": "2026-05-02T22:31:07.000Z",
+      "dateLabel": "29m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Here's the Maximum Spousal Social Security Benefit in 2026",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/policy/articles/heres-maximum-spousal-social-security-222000855.html",
+      "date": "2026-05-02T22:20:00.000Z",
+      "dateLabel": "40m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Toromont Industries Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/toromont-industries-q1-earnings-call-220723446.html",
+      "date": "2026-05-02T22:07:23.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Gildan Activewear AGM: Shareholders Reelect 9 Directors, Renew Rights Plan, Approve Say-on-Pay",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gildan-activewear-agm-shareholders-reelect-220723186.html",
+      "date": "2026-05-02T22:07:23.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Morguard Real Estate Inv. Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morguard-real-estate-inv-q1-220722109.html",
+      "date": "2026-05-02T22:07:22.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "Secure Energy Services Q1 Earnings Call Highlights",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/secure-energy-services-q1-earnings-220722066.html",
+      "date": "2026-05-02T22:07:22.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
     },
     {
       "title": "You're 50 with $30,000 in debt and nothing saved for retirement — here's how to hit $500K by 65",
@@ -20,65 +218,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/articles/youre-50-30-000-debt-212500454.html",
       "date": "2026-05-02T21:25:00.000Z",
-      "dateLabel": "44m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "GEO Group Annual Meeting Recap: Directors Elected, $520M Contract Wins and 2025 Results Highlighted",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/geo-group-annual-meeting-recap-210640096.html",
-      "date": "2026-05-02T21:06:40.000Z",
       "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Capital Power Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-power-q1-earnings-call-210639460.html",
-      "date": "2026-05-02T21:06:39.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Capstone Copper Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capstone-copper-q1-earnings-call-210639174.html",
-      "date": "2026-05-02T21:06:39.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "ARC Resources Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/arc-resources-q1-earnings-call-210638512.html",
-      "date": "2026-05-02T21:06:38.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Choice Properties Real Est Invstmnt Trst Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/choice-properties-real-est-invstmnt-210638724.html",
-      "date": "2026-05-02T21:06:38.000Z",
-      "dateLabel": "1h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "China Flips the Switch on Fuel Exports as Asia Runs Short",
@@ -86,21 +229,10 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/China-Flips-the-Switch-on-Fuel-Exports-as-Asia-Runs-Short.html",
       "date": "2026-05-02T21:00:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "Beijing is reversing its curbs on refined fuel exports after halting shipments in the opening days of the U.S.-Iran conflict. This move suggests that Chinese domestic inventories are now at comfortabl",
       "sentiment": "neutral",
       "dhrScore": 3
-    },
-    {
-      "title": "US jobs report to show resilience in the wake of Iran war",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/economy/articles/us-jobs-report-show-resilience-200000920.html",
-      "date": "2026-05-02T20:00:00.000Z",
-      "dateLabel": "2h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Goldman Sachs says the S&P 500's run past 7,100 is 'froth' — a previous time Wall Street said that, a crash followed",
@@ -108,7 +240,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html",
       "date": "2026-05-02T19:45:00.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -119,7 +251,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/fire-weather-watch-issued-for-18-counties-in-north-dakota/",
       "date": "2026-05-02T19:38:04.000Z",
-      "dateLabel": "2h ago",
+      "dateLabel": "3h ago",
       "summary": "NORTH DAKOTA (KXNET) — According to the MHA Operations and Emergency Services, warm and dry conditions are expected across North Dakota on Sunday, ahead of an approaching cold front.  Counties that ar",
       "sentiment": "neutral",
       "dhrScore": 4
@@ -152,7 +284,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Russias-Oil-Revenues-Surge-as-the-World-Scrambles-for-Supply.html",
       "date": "2026-05-02T19:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "Following the Russian invasion of Ukraine in 2022, several major world powers introduced strict sanctions on trade with Moscow. Europe and the United States have been gradually decreasing their depend",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -163,7 +295,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/technology/articles/picocela-inc-pcla-unveils-game-183204817.html",
       "date": "2026-05-02T18:32:04.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -174,7 +306,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/orix-corporation-ix-divesting-ix-183157153.html",
       "date": "2026-05-02T18:31:57.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -185,7 +317,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/impressive-financial-results-assert-nomura-183152005.html",
       "date": "2026-05-02T18:31:52.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -196,7 +328,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-honda-motor-co-ltd-183144009.html",
       "date": "2026-05-02T18:31:44.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -207,7 +339,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mizuho-financial-group-inc-mfg-183137710.html",
       "date": "2026-05-02T18:31:37.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -218,7 +350,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/sectors/healthcare/articles/takeda-pharmaceutical-company-limited-tak-183131208.html",
       "date": "2026-05-02T18:31:31.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -229,7 +361,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-one-183125774.html",
       "date": "2026-05-02T18:31:25.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -240,7 +372,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-financial-group-inc-183119720.html",
       "date": "2026-05-02T18:31:19.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -251,7 +383,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-inc-183112233.html",
       "date": "2026-05-02T18:31:12.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -262,7 +394,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/next-sony-group-corp-sony-183045104.html",
       "date": "2026-05-02T18:30:45.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -273,7 +405,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/solid-order-intake-solidified-asml-183037980.html",
       "date": "2026-05-02T18:30:37.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -284,7 +416,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corporation-dvn-best-183030252.html",
       "date": "2026-05-02T18:30:30.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -295,7 +427,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-affirms-forgent-power-solutions-183022379.html",
       "date": "2026-05-02T18:30:22.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -306,117 +438,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/borgwarner-inc-bwa-inks-7-183012730.html",
       "date": "2026-05-02T18:30:12.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Revolution Medicines, Inc. (RVMD) One of the Best Stocks to Buy in a Rising Market amid $14B Opportunity",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/revolution-medicines-inc-rvmd-one-183003907.html",
-      "date": "2026-05-02T18:30:03.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Venture Global, Inc. (VG) Taps Debt Market to Strengthen Balance Sheet",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/venture-global-inc-vg-taps-182955041.html",
-      "date": "2026-05-02T18:29:55.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "This is why Summit Therapeutics (SMMT) is one of the Best Stocks to buy in a Rising Market",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-summit-therapeutics-smmt-one-182944685.html",
-      "date": "2026-05-02T18:29:44.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Applied Digital Corporation (APLD) Delivers Robust Revenue Growth as Net Loss Shrinks",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-corporation-apld-delivers-182931167.html",
-      "date": "2026-05-02T18:29:31.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "ANKTIVA Strong Demand Propels ImmunityBio, Inc. (IBRX) to Robust Revenue Growth",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/anktiva-strong-demand-propels-immunitybio-182923295.html",
-      "date": "2026-05-02T18:29:23.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Circle Internet Group Inc. (CRCL) the Best Stock to Buy in Rising Markets around Decentralized Finance?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-inc-crcl-182853683.html",
-      "date": "2026-05-02T18:28:53.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Axon Enterprise, Inc. (AXON) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-inc-axon-good-182329746.html",
-      "date": "2026-05-02T18:23:29.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Analog Devices, Inc. (ADI) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-inc-adi-good-182310847.html",
-      "date": "2026-05-02T18:23:10.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is United Airlines Holdings, Inc. (UAL) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-holdings-inc-ual-182256508.html",
-      "date": "2026-05-02T18:22:56.000Z",
-      "dateLabel": "3h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Is Delta Air Lines, Inc. (DAL) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-inc-dal-182240995.html",
-      "date": "2026-05-02T18:22:40.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -438,7 +460,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Inside-BPs-Dramatic-Pivot-Back-to-Oil-and-Gas.html",
       "date": "2026-05-02T17:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "As she sat down to pen her first email to BP’s 100,000 staff, Meg O’Neill opted against sparing the radical rhetoric. To the American oil and gas thoroughbred, who had just become the first ever femal",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -449,7 +471,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Pemex-Faces-a-Reckoning-After-Major-Oil-Spill.html",
       "date": "2026-05-02T15:00:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "Following a recent oil spill, Mexico’s state-owned oil firm Pemex has come under fire again, particularly due to its poor health and safety track record. The highly indebted oil firm has been repeated",
       "sentiment": "neutral",
       "dhrScore": 4
@@ -460,18 +482,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/news/network-shakeups-hit-medicare-advantage-forcing-retirees-to-pay-up-or-find-new-care-150000755.html",
       "date": "2026-05-02T15:00:00.000Z",
-      "dateLabel": "7h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Berkshire Hathaway’s cash surges in Abel’s first quarter as CEO",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/news/berkshire-hathaways-cash-surges-in-abels-first-quarter-as-ceo-143038277.html",
-      "date": "2026-05-02T14:30:38.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -482,7 +493,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/article/in-a-low-hire-job-market-new-grads-need-more-than-a-high-gpa-140000672.html",
       "date": "2026-05-02T14:00:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -493,7 +504,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
       "date": "2026-05-02T13:33:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -504,7 +515,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/economy/article/higher-gas-prices-are-eating-into-americans-tax-refunds-133026983.html",
       "date": "2026-05-02T13:30:26.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -515,7 +526,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/jerome-powells-fed-years-were-an-everything-rally-chart-of-the-day-130000116.html",
       "date": "2026-05-02T13:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -526,7 +537,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/wirth_warns_global_energy_system_under_extreme_stress-02-may-2026-183589-article/?rss=true",
       "date": "2026-05-02T12:00:00.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "Chevron Corp. is worried that global oil supplies are running dry as the U.S.-Israel war with Iran enters its third month.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -537,7 +548,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/05/trump-says-us-navy-acting-like-pirates-to-carry-out-naval-blockade-of-iranian-ports/",
       "date": "2026-05-02T08:18:37.000Z",
-      "dateLabel": "13h ago",
+      "dateLabel": "14h ago",
       "summary": "President Donald Trump said on Friday the U.S. Navy was acting “like pirates” in carrying out Washington’s naval blockade of Iranian ports during the U.S. and Israel’s war against Iran. Trump made the",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -1082,17 +1093,6 @@
       "dhrScore": 1
     },
     {
-      "title": "Exxon Beats Q1 Earnings on Oil Price Surge Despite 6% Production Drop",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Beats-Q1-Earnings-on-Oil-Price-Surge-Despite-6-Production-Drop.html",
-      "date": "2026-05-01T13:30:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "Higher oil prices drove the first-quarter adjusted earnings at ExxonMobil (NYSE: XOM) above the analyst estimates as the jump in prices more than offset lower oil and gas production in the Middle East",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
       "title": "Kimmeridge, Mubadala Raise JV Production to Over 1Bcfd",
       "source": "Rigzone",
       "category": "GENERAL",
@@ -1263,7 +1263,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/04/breaking-news-trump-signs-order-authorizing-bridgers-canada-wyoming-crude-pipeline/",
       "date": "2026-04-30T22:23:59.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "Apr 30, 2026",
       "summary": "&#160; The proposed project will transport Canadian ‌crude from the U.S.-Canada ​border to Wyoming U.S. President ‌Donald ​Trump on Thursday ​signed an order ​authorizing a proposed project to transpo",
       "sentiment": "neutral",
       "dhrScore": 4
