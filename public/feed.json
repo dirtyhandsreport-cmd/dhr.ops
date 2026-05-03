@@ -1,15 +1,70 @@
 {
   "ok": true,
   "count": 1161,
-  "updated_at": "2026-05-03T20:59:07.188Z",
+  "updated_at": "2026-05-03T21:41:33.175Z",
   "items": [
+    {
+      "title": "Occidental Petroleum AGM: CEO Vicki Hollub to Retire June 1, COO Richard Jackson to Take Over",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-agm-ceo-vicki-211535486.html",
+      "date": "2026-05-03T21:15:35.000Z",
+      "dateLabel": "25m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Why Figma Stock Fell 16% in April",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-figma-stock-fell-16-210704568.html",
+      "date": "2026-05-03T21:07:04.000Z",
+      "dateLabel": "34m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Texas winery files for Chapter 12 bankruptcy to settle debt",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/policy/articles/texas-winery-files-chapter-12-210300624.html",
+      "date": "2026-05-03T21:03:00.000Z",
+      "dateLabel": "38m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 4
+    },
+    {
+      "title": "Natera Inc. (NTRA): Billionaire Tom Steyer’s Stock Pick with Huge Upside Potential",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/natera-inc-ntra-billionaire-tom-210059897.html",
+      "date": "2026-05-03T21:00:59.000Z",
+      "dateLabel": "40m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Trump Approves \"Keystone Light\" Canada-U.S. Oil Pipeline",
+      "source": "OilPrice.com",
+      "category": "GENERAL",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Trump-Approves-Keystone-Light-Canada-US-Oil-Pipeline.html",
+      "date": "2026-05-03T21:00:00.000Z",
+      "dateLabel": "41m ago",
+      "summary": "Last month, we reported that Bridger Pipeline LLC has proposed a giant pipeline with a capacity in excess of 1 million barrels per day (bpd) to transport Canadian crude into the United States. Dubbed ",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
     {
       "title": "Bank of America makes fresh call on Boeing stock price",
       "source": "Yahoo Finance Energy",
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-makes-fresh-call-204310101.html",
       "date": "2026-05-03T20:43:10.000Z",
-      "dateLabel": "15m ago",
+      "dateLabel": "58m ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -20,7 +75,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/articles/people-live-within-means-suckers-203106384.html",
       "date": "2026-05-03T20:31:06.000Z",
-      "dateLabel": "27m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -31,7 +86,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-top-performing-artificial-intelligence-203100274.html",
       "date": "2026-05-03T20:31:00.000Z",
-      "dateLabel": "28m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -42,7 +97,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/value-legend-bill-miller-just-202500461.html",
       "date": "2026-05-03T20:25:00.000Z",
-      "dateLabel": "34m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -53,43 +108,10 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-annual-meeting-shareholder-201044550.html",
       "date": "2026-05-03T20:10:44.000Z",
-      "dateLabel": "48m ago",
+      "dateLabel": "1h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
-    },
-    {
-      "title": "Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/become-lazy-millionaire-one-habit-135400705.html",
-      "date": "2026-05-03T20:10:00.000Z",
-      "dateLabel": "49m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "This Natural Resources ETF Has Silently Outperformed The S&P 500 Year-To-Date While Yielding 5%",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/natural-resources-etf-silently-outperformed-200541545.html",
-      "date": "2026-05-03T20:05:41.000Z",
-      "dateLabel": "53m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "UAE exits Arab oil exporters alliance OAPEC following OPEC departure",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/uae-exits-arab-oil-exporters-200504913.html",
-      "date": "2026-05-03T20:05:04.000Z",
-      "dateLabel": "54m ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
     },
     {
       "title": "Is Verisk Analytics, Inc. (VRSK) A Good Stock To Buy Now?",
@@ -306,7 +328,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tennessee-couple-built-660k-home-193500198.html",
       "date": "2026-05-03T19:35:00.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -317,7 +339,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/north-dakota-highlights-aquatic-nuisance-species-awareness-week/",
       "date": "2026-05-03T19:23:56.000Z",
-      "dateLabel": "1h ago",
+      "dateLabel": "2h ago",
       "summary": "BISMARCK, ND (KXNET) — The North Dakota Parks and Recreation Department, announces Aquatic Nuisance Species (ANS) Awareness week. ANS Awareness Week in North Dakota highlights potential risk to public",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -466,23 +488,12 @@
       "dhrScore": 1
     },
     {
-      "title": "Is Alliance Laundry Holdings Inc. (ALH) A Good Stock To Buy Now?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alliance-laundry-holdings-inc-alh-185122100.html",
-      "date": "2026-05-03T18:51:22.000Z",
-      "dateLabel": "2h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
       "title": "USGS Finds 328 Years of Lithium Imports Buried in Appalachia",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/USGS-Finds-328-Years-of-Lithium-Imports-Buried-in-Appalachia.html",
       "date": "2026-05-03T17:00:00.000Z",
-      "dateLabel": "3h ago",
+      "dateLabel": "4h ago",
       "summary": "America&#039;s worrisome dependency on foreign sources of lithium could become a thing of the past: About 328 years&#039; worth of last year&#039;s lithium imports is buried in Appalachia, according t",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -493,7 +504,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/head-on-collision-in-williams-county-claims-18-year-old-drivers-life/",
       "date": "2026-05-03T16:24:13.000Z",
-      "dateLabel": "4h ago",
+      "dateLabel": "5h ago",
       "summary": "WILLIAMS COUNTY, ND (KXNET) — Authorities respond to two-vehicle fatal crash in Williams County. According to the Williams County Sheriff’s Office, on May 2, a 2004 Dodge Dakota driven by an 18-year-o",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -504,7 +515,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Trumps-Renewable-Energy-Crackdown-Hits-Legal-Wall.html",
       "date": "2026-05-03T15:00:00.000Z",
-      "dateLabel": "5h ago",
+      "dateLabel": "6h ago",
       "summary": "Over the last year, U.S. President Donald Trump has taken aim at the renewable energy industry, in an attempt to scale back efforts to undergo a green transition. Trump has instead favoured the expans",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -526,7 +537,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/palantir-expected-to-report-q1-revenue-jump-as-software-stocks-rebound-141825154.html",
       "date": "2026-05-03T14:18:25.000Z",
-      "dateLabel": "6h ago",
+      "dateLabel": "7h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -537,7 +548,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/news/us-oil-supplier-last-resort-133000501.html",
       "date": "2026-05-03T13:30:00.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -548,7 +559,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/its-a-boom-wall-street-sees-more-market-gains-as-strong-earnings-fuel-the-ai-trade-130032453.html",
       "date": "2026-05-03T13:00:32.000Z",
-      "dateLabel": "7h ago",
+      "dateLabel": "8h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -559,7 +570,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/5-things-we-learned-during-sp-500-earnings-madness-123000342.html",
       "date": "2026-05-03T12:30:00.000Z",
-      "dateLabel": "8h ago",
+      "dateLabel": "9h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -570,7 +581,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/seplat_raises_q1_dividend_on_robust_oil_price_outlook-03-may-2026-183593-article/?rss=true",
       "date": "2026-05-03T11:00:00.000Z",
-      "dateLabel": "9h ago",
+      "dateLabel": "10h ago",
       "summary": "'The conflict in the Middle East has dramatically changed the outlook for the oil and gas industry in 2026, and quite possibly beyond'.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -581,7 +592,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/article/jobs-day-semiconductor-earnings-and-stock-market-momentum-what-to-watch-this-week-100000536.html",
       "date": "2026-05-03T10:00:00.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -592,7 +603,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Deadlock-Persists-as-Trump-Faces-War-Powers-Deadline-at-Home.html",
       "date": "2026-05-02T23:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers ",
       "sentiment": "neutral",
       "dhrScore": 5
@@ -603,7 +614,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/China-Flips-the-Switch-on-Fuel-Exports-as-Asia-Runs-Short.html",
       "date": "2026-05-02T21:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "Beijing is reversing its curbs on refined fuel exports after halting shipments in the opening days of the U.S.-Iran conflict. This move suggests that Chinese domestic inventories are now at comfortabl",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -735,7 +746,7 @@
       "category": "NAT_GAS",
       "url": "https://naturalgasintel.com/news/spot-prices-wrap-physical-natural-gas-loses-steam-as-demand-picture-darkens/",
       "date": "2026-05-01T21:19:07.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "Cash prices for natural gas delivered over the weekend and Monday pulled back despite expected demand bumps in the Northeast and lower production readings, with buyers focusing instead on milder weath",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -746,7 +757,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/05/saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-exit/",
       "date": "2026-05-01T20:59:54.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "By Yousef Saba, Ahmad Ghaddar and Maha El Dahan Saudi Arabia&#8217;s energy minister Prince Abdulaziz is half-brother of Crown Prince Early years of diplomatic touch have transformed into an iron grip",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -757,7 +768,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/armstrong-surveys-minot-flood-protection-progress/",
       "date": "2026-05-01T20:59:25.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "Governor Kelly Armstrong returned to Minot on Friday to survey progress on the city's massive flood protection project, a fight he has championed for 15 years across three different political offices.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -1069,17 +1080,6 @@
       "summary": "By Sheila Dang Exxon profit hit by Middle East disruptions U.S.-Iran conflict hits output, volumes could fall further in second quarter Oil majors show uneven hits from U.S.-Iran war CFO says paper lo",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Syria Still Leans on Russia for Oil Supply",
-      "source": "OilPrice.com",
-      "category": "GENERAL",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Syria-Still-Leans-on-Russia-for-Oil-Supply.html",
-      "date": "2026-05-01T15:30:00.000Z",
-      "dateLabel": "May 1, 2026",
-      "summary": "Russia remains Syria’s top oil supplier and has even boosted its sales so far this year despite the fact that the Middle Eastern country emerged from a 14-year-long civil war leaning West and deposing",
-      "sentiment": "neutral",
-      "dhrScore": 1
     },
     {
       "title": "SANAD deploys newbuild rig in Saudi Arabia, reactivates suspended unit",
