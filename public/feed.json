@@ -1,15 +1,70 @@
 {
   "ok": true,
-  "count": 1159,
-  "updated_at": "2026-05-03T09:58:34.108Z",
+  "count": 1161,
+  "updated_at": "2026-05-03T10:53:24.485Z",
   "items": [
+    {
+      "title": "HELOC and home equity loan rates Sunday, May 3, 2026: Lenders doing more to compete for your home equity business",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-sunday-may-3-2026-100000238.html",
+      "date": "2026-05-03T10:00:00.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, May 3, 2026: Looking back at April rates to see what's ahead",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-may-3-2026-100000908.html",
+      "date": "2026-05-03T10:00:00.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best CD rates today, May 3, 2026 (lock in up to 4.05% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-may-3-2026-100000890.html",
+      "date": "2026-05-03T10:00:00.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best high-yield savings interest rates today, May 3, 2026 (Earn up to 4.1% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-sunday-may-3-2026-100000656.html",
+      "date": "2026-05-03T10:00:00.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best money market account rates today, May 3, 2026 (best account provides 4.01% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-may-3-2026-100000150.html",
+      "date": "2026-05-03T10:00:00.000Z",
+      "dateLabel": "53m ago",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
     {
       "title": "Hormuz Deadlock Persists as Trump Faces War-Powers Deadline at Home",
       "source": "OilPrice.com",
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Deadlock-Persists-as-Trump-Faces-War-Powers-Deadline-at-Home.html",
       "date": "2026-05-02T23:00:00.000Z",
-      "dateLabel": "10h ago",
+      "dateLabel": "11h ago",
       "summary": "Two months after the Iran war began, the Strait of Hormuz remains severely restricted for tanker traffic while U.S. President Donald Trump faces a key legal deadline at home under the 1973 War Powers ",
       "sentiment": "neutral",
       "dhrScore": 5
@@ -20,7 +75,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/China-Flips-the-Switch-on-Fuel-Exports-as-Asia-Runs-Short.html",
       "date": "2026-05-02T21:00:00.000Z",
-      "dateLabel": "12h ago",
+      "dateLabel": "13h ago",
       "summary": "Beijing is reversing its curbs on refined fuel exports after halting shipments in the opening days of the U.S.-Iran conflict. This move suggests that Chinese domestic inventories are now at comfortabl",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -31,7 +86,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/fire-weather-watch-issued-for-18-counties-in-north-dakota/",
       "date": "2026-05-02T19:38:04.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "15h ago",
       "summary": "NORTH DAKOTA (KXNET) — According to the MHA Operations and Emergency Services, warm and dry conditions are expected across North Dakota on Sunday, ahead of an approaching cold front.  Counties that ar",
       "sentiment": "neutral",
       "dhrScore": 4
@@ -42,7 +97,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Russias-Oil-Revenues-Surge-as-the-World-Scrambles-for-Supply.html",
       "date": "2026-05-02T19:00:00.000Z",
-      "dateLabel": "14h ago",
+      "dateLabel": "15h ago",
       "summary": "Following the Russian invasion of Ukraine in 2022, several major world powers introduced strict sanctions on trade with Moscow. Europe and the United States have been gradually decreasing their depend",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -53,7 +108,7 @@
       "category": "LOCAL_ND",
       "url": "https://www.kxnet.com/news/local-news/williston-police-search-for-runaway-14-year-old-teen/",
       "date": "2026-05-02T17:05:41.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "17h ago",
       "summary": "WILLISTON, ND (KXNET) — Authorities seek help in finding 14-year-old Williston teen. According to The Williston Police Department, Kanick Charleson was reported as a runaway on May 1, 2026.  Charleson",
       "sentiment": "neutral",
       "dhrScore": 3
@@ -64,7 +119,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Crude-Oil/Inside-BPs-Dramatic-Pivot-Back-to-Oil-and-Gas.html",
       "date": "2026-05-02T17:00:00.000Z",
-      "dateLabel": "16h ago",
+      "dateLabel": "17h ago",
       "summary": "As she sat down to pen her first email to BP’s 100,000 staff, Meg O’Neill opted against sparing the radical rhetoric. To the American oil and gas thoroughbred, who had just become the first ever femal",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -75,7 +130,7 @@
       "category": "GENERAL",
       "url": "https://oilprice.com/Energy/Energy-General/Pemex-Faces-a-Reckoning-After-Major-Oil-Spill.html",
       "date": "2026-05-02T15:00:00.000Z",
-      "dateLabel": "18h ago",
+      "dateLabel": "19h ago",
       "summary": "Following a recent oil spill, Mexico’s state-owned oil firm Pemex has come under fire again, particularly due to its poor health and safety track record. The highly indebted oil firm has been repeated",
       "sentiment": "neutral",
       "dhrScore": 4
@@ -86,7 +141,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
       "date": "2026-05-02T13:33:00.000Z",
-      "dateLabel": "20h ago",
+      "dateLabel": "21h ago",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -97,8 +152,41 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/wire/wirth_warns_global_energy_system_under_extreme_stress-02-may-2026-183589-article/?rss=true",
       "date": "2026-05-02T12:00:00.000Z",
-      "dateLabel": "21h ago",
+      "dateLabel": "22h ago",
       "summary": "Chevron Corp. is worried that global oil supplies are running dry as the U.S.-Israel war with Iran enters its third month.",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Nike slashes 1,400 more jobs as its stock crashes 70% from pandemic highs — and the real reason isn't 'woke' marketing",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-slashes-1-400-more-103500902.html",
+      "date": "2026-05-02T10:35:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 2
+    },
+    {
+      "title": "UK now spends more on welfare than it earns in income tax — is America heading the same way?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/economy/policy/articles/uk-now-spends-more-welfare-100500779.html",
+      "date": "2026-05-02T10:05:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/news/meta-faces-mexico-trial-could-100351544.html",
+      "date": "2026-05-02T10:03:51.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
@@ -108,29 +196,7 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-may-2-2026-100000416.html",
       "date": "2026-05-02T10:00:00.000Z",
-      "dateLabel": "23h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best CD rates today, Saturday, May 2, 2026 (best account provides 4.05% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-may-2-2026-100000257.html",
-      "date": "2026-05-02T10:00:00.000Z",
-      "dateLabel": "23h ago",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Best high-yield savings interest rates today, May 2, 2026 (Earn up to 4.1% APY)",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-may-2-2026-100000052.html",
-      "date": "2026-05-02T10:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -141,7 +207,29 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-saturday-may-2-2026-100000194.html",
       "date": "2026-05-02T10:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best CD rates today, Saturday, May 2, 2026 (best account provides 4.05% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-may-2-2026-100000257.html",
+      "date": "2026-05-02T10:00:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best high-yield savings interest rates today, May 2, 2026 (Earn up to 4.1% APY)",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-may-2-2026-100000052.html",
+      "date": "2026-05-02T10:00:00.000Z",
+      "dateLabel": "Yesterday",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -152,7 +240,84 @@
       "category": "PRICES",
       "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-saturday-may-02-2026-100000241.html",
       "date": "2026-05-02T10:00:00.000Z",
-      "dateLabel": "23h ago",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "How I Built It: $17K/Month Open Source SaaS",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/video/built-17k-month-open-source-090110183.html",
+      "date": "2026-05-02T09:01:10.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Is This Acquisition a Game Changer for Netflix?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acquisition-game-changer-netflix-085000832.html",
+      "date": "2026-05-02T08:50:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Nvidia Stock vs. Intel Stock: A Wall Street Analyst Says Buy One and Sell the Other",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-vs-intel-stock-083200562.html",
+      "date": "2026-05-02T08:32:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Prediction: May 5 Will Be a Huge Day for Palantir's Stock",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-may-5-huge-day-082900748.html",
+      "date": "2026-05-02T08:29:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "The Likelihood of a Stock Market Crash Under President Donald Trump Is Rapidly Rising -- and There's One Undeniable Catalyst to Blame",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/likelihood-stock-market-crash-under-082600031.html",
+      "date": "2026-05-02T08:26:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Oklo vs. NuScale Power: Both Are Falling in 2026, but Only One Is Worth Buying Now",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-power-both-082500055.html",
+      "date": "2026-05-02T08:25:00.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Stablecoin Transactions Will Soon Overtake Visa and Mastercard. Here's How to Invest.",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-transactions-soon-overtake-visa-082000509.html",
+      "date": "2026-05-02T08:20:00.000Z",
+      "dateLabel": "Yesterday",
       "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -165,6 +330,17 @@
       "date": "2026-05-02T08:18:37.000Z",
       "dateLabel": "Yesterday",
       "summary": "President Donald Trump said on Friday the U.S. Navy was acting “like pirates” in carrying out Washington’s naval blockade of Iranian ports during the U.S. and Israel’s war against Iran. Trump made the",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "GameStop Stock Jumps 9% on eBay Bid Report, Reigniting Meme Stock Frenzy",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-stock-jumps-9-ebay-081005579.html",
+      "date": "2026-05-02T08:10:05.000Z",
+      "dateLabel": "Yesterday",
+      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
@@ -398,215 +574,6 @@
       "summary": "Trump didn’t elaborate on the Iranian participants in the latest talks, or when they occurred By Patrick Sykes, Eltaf Najafizada and Josh Wingrove U.S. President Donald Trump expressed displeasure wit",
       "sentiment": "neutral",
       "dhrScore": 2
-    },
-    {
-      "title": "Disappointing Growth Hits Option Care Health Stock. We’re Still Bullish.",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://www.barrons.com/articles/option-care-health-stock-earnings-selloff-still-bullish-980404d9?siteid=yhoof2&yptr=yahoo",
-      "date": "2026-05-02T05:56:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "1 Magnificent Dividend Stock Down 30% to Buy and Hold Forever",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-dividend-stock-down-055000028.html",
-      "date": "2026-05-02T05:50:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Soda Is Back! Is Now the Time to Buy Coca-Cola Stock?",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soda-back-now-time-buy-052000576.html",
-      "date": "2026-05-02T05:20:00.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Canadian Pacific Kansas City AGM: Shareholders Back Buyback, Dividends, and Key Advisory Votes",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canadian-pacific-kansas-city-agm-050548570.html",
-      "date": "2026-05-02T05:05:48.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "OneMain Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/onemain-q1-earnings-call-highlights-050548373.html",
-      "date": "2026-05-02T05:05:48.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "O-I Glass Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/o-glass-q1-earnings-call-050547421.html",
-      "date": "2026-05-02T05:05:47.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "NatWest Group Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/natwest-group-q1-earnings-call-050546682.html",
-      "date": "2026-05-02T05:05:46.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "nVent Electric Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-electric-q1-earnings-call-050546682.html",
-      "date": "2026-05-02T05:05:46.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Bank of N.T. Butterfield & Son Q1 Earnings Call Highlights",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-n-t-butterfield-son-050546583.html",
-      "date": "2026-05-02T05:05:46.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 3
-    },
-    {
-      "title": "Atlassian (TEAM) Climbs 30% as Revenues ‘Higher-Than-Expected’",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-team-climbs-30-revenues-040846035.html",
-      "date": "2026-05-02T04:08:46.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Twilio (TWLO) Income Soars 350%, Shares Climb to 4-Year High",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-twlo-income-soars-350-040650795.html",
-      "date": "2026-05-02T04:06:50.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "AXT Inc. (AXTI) Revenues Climb on AI Demand, Shares Hit Fresh High",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-revenues-climb-040430174.html",
-      "date": "2026-05-02T04:04:30.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "SoundHound AI (SOUN) Climbs 20% Ahead of Q1 Earnings, Outlook in Focus",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-soun-climbs-20-040137483.html",
-      "date": "2026-05-02T04:01:37.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 2
-    },
-    {
-      "title": "Lightwave Logic (LWLG) Soars to 4-Year High Ahead of Business Updates",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lightwave-logic-lwlg-soars-4-035830374.html",
-      "date": "2026-05-02T03:58:30.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Reddit (RDDT) Profits Soar 680%, Shares Skyrocket",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-profits-soar-680-035521069.html",
-      "date": "2026-05-02T03:55:21.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Nebius Group (NBIS) Buys AI Startup, Jumps 11.8%",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-nbis-buys-ai-035027263.html",
-      "date": "2026-05-02T03:50:27.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "Applied Optoelectronics (AAOI) Soars to All-Time High Ahead of Earnings",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-soars-time-034615409.html",
-      "date": "2026-05-02T03:46:15.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 4
-    },
-    {
-      "title": "Newell Brands (NWL) Upbeat on Outlook, Climbs 11.5%",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newell-brands-nwl-upbeat-outlook-034434166.html",
-      "date": "2026-05-02T03:44:34.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 1
-    },
-    {
-      "title": "nVent (NVT) Hits All-Time High as Data Center Sector Bolsters Profits",
-      "source": "Yahoo Finance Energy",
-      "category": "PRICES",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvent-nvt-hits-time-high-034141222.html",
-      "date": "2026-05-02T03:41:41.000Z",
-      "dateLabel": "Yesterday",
-      "summary": "",
-      "sentiment": "neutral",
-      "dhrScore": 4
     },
     {
       "title": "Saudi Arabia Set for Oil Windfall After Hormuz Boosts Prices",
@@ -1175,7 +1142,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/inventories_acting_as_shock_absorber_of_global_oil_system-01-may-2026-183585-article/?rss=true",
       "date": "2026-05-01T10:48:10.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "'In this war driven oil shock, inventories have become the market's primary balancing mechanism', J.P. Morgan analysts said.",
       "sentiment": "neutral",
       "dhrScore": 1
@@ -1186,7 +1153,7 @@
       "category": "GENERAL",
       "url": "https://energynow.com/2026/05/why-100-oil-is-no-longer-spooking-equity-markets-stephen-jen/",
       "date": "2026-05-01T10:16:13.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "(Reuters) &#8211; Why have global equity markets been so resilient to the Iran oil shock? Because $100 a barrel oil doesn’t mean what it used to. Brent crude has risen around 70% since the Iran war be",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -1197,7 +1164,7 @@
       "category": "GENERAL",
       "url": "https://www.rigzone.com/news/eneos_to_reenter_malaysian_lng_project_with_10_percent_stake-01-may-2026-183584-article/?rss=true",
       "date": "2026-05-01T10:05:48.000Z",
-      "dateLabel": "Yesterday",
+      "dateLabel": "May 1, 2026",
       "summary": "Malaysia's national oil and gas company signed a deal to give returning investor ENEOS a 10 percent ownership in Malaysia LNG Tiga.",
       "sentiment": "neutral",
       "dhrScore": 2
@@ -5898,6 +5865,17 @@
       "summary": "By Lisa Baertlein US diesel prices rise due to Iran&#8217;s control of Strait of Hormuz Independent truckers slammed by flat demand, high diesel costs Big trucking firms manage fuel costs using surcha",
       "sentiment": "neutral",
       "dhrScore": 5
+    },
+    {
+      "title": "Best same-day emergency loans for May 2026: Get fast funding after approval",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-same-day-emergency-loans-220714166.html",
+      "date": "2026-03-27T22:07:14.000Z",
+      "dateLabel": "Mar 27, 2026",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 3
     },
     {
       "title": "Oil, Gas Exploration is Back: Energy Giants Hunt to Replenish Reserves",
@@ -12529,6 +12507,50 @@
       "date": "2026-02-04T11:27:05.000Z",
       "dateLabel": "Feb 4, 2026",
       "summary": "Feb 3 (Reuters) &#8211; Marathon Petroleum  reported fourth-quarter profit above Wall Street estimate on Tuesday, as a 44% jump in refining margins underscored stronger operational performance after a",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Best personal loans for bad credit for May 2026",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-for-bad-credit-211415243.html",
+      "date": "2025-07-30T21:14:15.000Z",
+      "dateLabel": "Jul 30, 2025",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Wells Fargo Autograph Journey℠ Card review: A high-earning card designed for frequent travelers",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-journey-card-review-215134623.html",
+      "date": "2024-09-05T18:26:17.000Z",
+      "dateLabel": "Sep 5, 2024",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "The best personal loans for May 2026",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/best-personal-loans-202034980.html",
+      "date": "2024-02-28T17:24:16.000Z",
+      "dateLabel": "Feb 28, 2024",
+      "summary": "",
+      "sentiment": "neutral",
+      "dhrScore": 1
+    },
+    {
+      "title": "Payday loan vs. personal loan: What's the difference?",
+      "source": "Yahoo Finance Energy",
+      "category": "PRICES",
+      "url": "https://finance.yahoo.com/personal-finance/personal-loans/comparison/payday-loan-vs-personal-loan-131702915.html",
+      "date": "2024-01-26T22:49:26.000Z",
+      "dateLabel": "Jan 26, 2024",
+      "summary": "",
       "sentiment": "neutral",
       "dhrScore": 1
     },
